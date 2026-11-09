@@ -1,0 +1,744 @@
+[
+ {
+  "id": "jlpt",
+  "lang": "ja",
+  "name": "JLPT",
+  "full": "日本語能力試験 Japanese-Language Proficiency Test",
+  "org": "Japan Foundation · JEES (한국: JLPT 일본어능력시험 한국실시위원회)",
+  "official": "https://www.jlpt.jp/e/",
+  "levels": "N5–N1 (합격/불합격, 연 2회 7·12월)",
+  "levels_en": "N5–N1 (pass/fail, July & December)",
+  "cefr": "공식 참고 대응(2025년 12월 시험부터 성적표 표기): N5 A1 · N4 A2 · N3 A2/B1 · N2 B1/B2 · N1 B2/C1 (합격자·총점 기준)",
+  "fees": [
+   {
+    "country": "KR",
+    "amount": "75,000원 / 60,000원",
+    "note": "N1~N3 75,000원 · N4~N5 60,000원 (정규접수, 추가접수 시 10% 가산) · as of 2026-11"
+   },
+   {
+    "country": "JP",
+    "amount": "¥7,500",
+    "note": "일본 국내 (2023년~) · as of 2026-11"
+   }
+  ],
+  "register": [
+   {
+    "country": "KR",
+    "label": "JLPT 한국 공식 접수 (한국실시위원회)",
+    "url": "https://www.jlpt.or.kr"
+   },
+   {
+    "country": "JP",
+    "label": "日本国内受験 (JEES)",
+    "url": "https://info.jees-jlpt.jp/"
+   },
+   {
+    "country": "GLOBAL",
+    "label": "Overseas test sites (국가·도시별 실시기관)",
+    "url": "https://www.jlpt.jp/e/application/overseas_list.html"
+   }
+  ],
+  "practice": [
+   {
+    "label": "공식 문제 예시 (N1–N5)",
+    "url": "https://www.jlpt.jp/e/samples/forlearners.html"
+   },
+   {
+    "label": "공식 문제집 (Practice Workbook)",
+    "url": "https://www.jlpt.jp/e/samples/sampleindex.html"
+   },
+   {
+    "label": "CEFR 참고 레벨 안내",
+    "url": "https://jlpt.jp/e/about/cefr_reference.html"
+   }
+  ],
+  "note": "가장 대표적인 일본어 시험. 합격증은 평생 유효하나 기관별로 최근 성적을 요구하기도 함",
+  "note_en": "Most widely recognised Japanese test; certificate has no expiry, though some institutions require recent results.",
+  "validity": "평생 (제출처 기준 확인)"
+ },
+ {
+  "id": "jpt",
+  "lang": "ja",
+  "name": "JPT",
+  "full": "JPT 日本語能力試験 Japanese Proficiency Test",
+  "org": "JPT 실행위원회 (한국: YBM)",
+  "official": "https://jptest.jp/en/",
+  "levels": "990점 만점 (청해 + 독해, 5점 단위)",
+  "levels_en": "Score-based up to 990 (Listening + Reading)",
+  "cefr": "공식 사이트: 370점 이상 ≈ CEFR A2 이상 (세부 매핑 미확인)",
+  "fees": [
+   {
+    "country": "KR",
+    "amount": "51,000원",
+    "note": "정기접수 기준(2023.3 개정, 특별추가 56,100원) — 2026 최신 금액은 jpt.co.kr 확인 필요"
+   },
+   {
+    "country": "JP",
+    "amount": "¥7,700",
+    "note": "일본 국내 (세금 포함) · as of 2026-11"
+   }
+  ],
+  "register": [
+   {
+    "country": "KR",
+    "label": "JPT 한국 공식 접수 (YBM)",
+    "url": "http://www.jpt.co.kr"
+   },
+   {
+    "country": "JP",
+    "label": "Taking the Test in Japan",
+    "url": "https://jptest.jp/en/examination/japan/"
+   },
+   {
+    "country": "GLOBAL",
+    "label": "Taking the Test overseas (국가별 실시기관)",
+    "url": "https://jptest.jp/en/examination/overseas.php"
+   }
+  ],
+  "practice": [
+   {
+    "label": "공식 체험 문제 (Trial)",
+    "url": "https://jptest.jp/en/test/trial.php"
+   }
+  ],
+  "note": "한국 기업·공공기관 취업에서 많이 쓰는 점수제 일본어 시험(토익형). 성적 유효기간 2년",
+  "note_en": "TOEIC-style scored Japanese test widely used for Korean employment; scores valid 2 years.",
+  "validity": "2년"
+ },
+ {
+  "id": "eju",
+  "lang": "ja",
+  "name": "EJU",
+  "full": "日本留学試験 Examination for Japanese University Admission for International Students",
+  "org": "JASSO 일본학생지원기구 (한국: 사단법인 한일협회·부산한일교류센터)",
+  "official": "https://www.jasso.go.jp/ryugaku/eju/examinee/bulletin.html",
+  "levels": "점수제: 일본어 0–400 + 기술(작문) 0–50 · 이과/종합과목/수학 각 0–200",
+  "levels_en": "Scored: Japanese 0–400 (+ writing 0–50); Science / Japan & the World / Math 0–200 each",
+  "cefr": "공식 매핑 없음",
+  "fees": [
+   {
+    "country": "KR",
+    "amount": "65,000원 / 110,000원",
+    "note": "1과목 65,000원 · 2과목 이상 110,000원 (+우편료 3,830원), 2026 해외 수험안내 기준"
+   },
+   {
+    "country": "JP",
+    "amount": "¥12,000 / ¥23,000",
+    "note": "1과목 · 2과목 이상 (세금 포함) · as of 2026-11"
+   }
+  ],
+  "register": [
+   {
+    "country": "KR",
+    "label": "EJU 한국 실시 (한일협회)",
+    "url": "https://www.ejutest.com/"
+   },
+   {
+    "country": "JP",
+    "label": "出願手続 (일본 국내)",
+    "url": "https://www.jasso.go.jp/ryugaku/eju/examinee/procedure/application.html"
+   },
+   {
+    "country": "GLOBAL",
+    "label": "해외 시험장 목록 (2026 제2회)",
+    "url": "https://www.jasso.go.jp/ryugaku/eju/examinee/site/nov_out_japan.html"
+   },
+   {
+    "country": "GLOBAL",
+    "label": "해외 실시협력기관 (아시아)",
+    "url": "https://www.jasso.go.jp/ryugaku/eju/examinee/contact/asia.html"
+   }
+  ],
+  "practice": [
+   {
+    "label": "과거 문제 샘플 (공식)",
+    "url": "https://www.jasso.go.jp/ryugaku/eju/examinee/pastpaper_sample/index.html"
+   }
+  ],
+  "note": "일본 대학 학부 유학용 입학시험(연 2회 6·11월). 성적 인정 회차는 대학별로 다름",
+  "note_en": "Admission test for undergraduate study in Japan (June & November); accepted sessions vary by university.",
+  "validity": "대학별 상이"
+ },
+ {
+  "id": "jtest",
+  "lang": "ja",
+  "name": "J.TEST",
+  "full": "実用日本語検定 J.TEST Test of Practical Japanese",
+  "org": "日本語検定協会 / J.TEST 事務局 (語文研究社)",
+  "official": "https://j-test.jp",
+  "levels": "A-D 레벨 · E-F 레벨 · F-G 레벨 (점수에 따라 등급 판정)",
+  "levels_en": "A-D, E-F, F-G level tests (grade determined by score)",
+  "cefr": "공식: E-F 레벨 ≈ A2 이상(E), A1 이상(F) — 일본어교육 참조틀 기준",
+  "fees": [
+   {
+    "country": "JP",
+    "amount": "¥5,800",
+    "note": "일본 국내 공개시험 (일본어학교 재학생 반액) · as of 2026-11"
+   },
+   {
+    "country": "KR",
+    "amount": "현지 실시기관 확인",
+    "note": "한국 응시료는 공식 사이트에 미게재"
+   }
+  ],
+  "register": [
+   {
+    "country": "KR",
+    "label": "한국 서울 지역 실시처 (공식 사이트 연결)",
+    "url": "https://japan.siwonschool.com/?s=event&p=jtest"
+   },
+   {
+    "country": "KR",
+    "label": "한국 서울 외 지역 실시처 (공식 사이트 연결)",
+    "url": "https://cafe.naver.com/jtestkorea/"
+   },
+   {
+    "country": "GLOBAL",
+    "label": "海外事務局 (국가별 실시처)",
+    "url": "https://j-test.jp/office1"
+   },
+   {
+    "country": "JP",
+    "label": "個人申込 (일본 국내)",
+    "url": "https://j-test.jp/application"
+   }
+  ],
+  "practice": [
+   {
+    "label": "공식 샘플 문제",
+    "url": "https://j-test.jp/newj-sample"
+   }
+  ],
+  "note": "연 6회 안팎 시행되는 실용 일본어 시험. 레벨별 점수로 급수 판정",
+  "note_en": "Practical Japanese test held several times a year; level judged by score.",
+  "validity": "규정 없음 (제출처 확인)"
+ },
+ {
+  "id": "bjt",
+  "lang": "ja",
+  "name": "BJT",
+  "full": "BJTビジネス日本語能力テスト Business Japanese Proficiency Test",
+  "org": "日本漢字能力検定協会 (漢検)",
+  "official": "https://www.kanken.or.jp/bjt/",
+  "levels": "0–800점 · J5 / J4 / J3 / J2 / J1 / J1+",
+  "levels_en": "0–800 scale; J5–J1+",
+  "cefr": "공식 매핑 미확인",
+  "fees": [
+   {
+    "country": "JP",
+    "amount": "¥8,000",
+    "note": "일본 국내 CBT (세금 포함, 2026.4 개정) · as of 2026-11"
+   },
+   {
+    "country": "KR",
+    "amount": "현지 사이트 확인",
+    "note": "해외 응시료는 일본과 다름"
+   }
+  ],
+  "register": [
+   {
+    "country": "KR",
+    "label": "BJT 한국 안내 (공식 사이트 연결)",
+    "url": "http://www.bjttest.com/"
+   },
+   {
+    "country": "JP",
+    "label": "申込方法 (일본 국내)",
+    "url": "https://www.kanken.or.jp/bjt/exam/apply.html"
+   },
+   {
+    "country": "GLOBAL",
+    "label": "BJT English (해외 응시)",
+    "url": "https://www.kanken.or.jp/bjt/english/"
+   }
+  ],
+  "practice": [
+   {
+    "label": "공식 샘플 문제 (Part 1)",
+    "url": "https://www.kanken.or.jp/bjt/sample/sample01.html"
+   },
+   {
+    "label": "레벨 & 샘플",
+    "url": "https://www.kanken.or.jp/bjt/about/level_sample.html"
+   }
+  ],
+  "note": "비즈니스 일본어 CBT(피어슨 VUE 상시 응시). 일본 취업비자 가점 등에 활용",
+  "note_en": "Business Japanese CBT taken year-round at Pearson VUE centres.",
+  "validity": "규정 없음 (제출처 확인)"
+ },
+ {
+  "id": "hsk",
+  "lang": "zh",
+  "name": "HSK (+HSKK)",
+  "full": "汉语水平考试 Hanyu Shuiping Kaoshi · HSKK 口语考试",
+  "org": "中文联盟/汉考国际 CTI (한국: HSK한국사무국 등)",
+  "official": "https://www.chinesetest.cn",
+  "levels": "HSK 3.0: 3단계 9급 (1–9급) · HSKK 초·중·고급",
+  "levels_en": "HSK 3.0: 3 stages, levels 1–9; HSKK Elementary/Intermediate/Advanced",
+  "cefr": "공식 매핑 없음",
+  "fees": [
+   {
+    "country": "KR",
+    "amount": "30,000–130,000원",
+    "note": "HSK시험센터 응시규정: PBT 1급 30,000~6급 120,000원 · IBT 1급 35,000~6급 130,000원 · HSKK(IBT) 50,000/60,000/80,000원 — 2026.12 HSK 3.0 개편으로 변동 가능, 접수처 확인"
+   }
+  ],
+  "register": [
+   {
+    "country": "KR",
+    "label": "HSK한국사무국",
+    "url": "https://www.hsk.or.kr"
+   },
+   {
+    "country": "KR",
+    "label": "HSK시험센터 (대교 차이홍)",
+    "url": "https://www.hsk-korea.co.kr/"
+   },
+   {
+    "country": "GLOBAL",
+    "label": "Chinese Tests Service (국제 접수·시험장 검색)",
+    "url": "https://www.chinesetest.cn"
+   }
+  ],
+  "practice": [
+   {
+    "label": "HSK 3.0 공식 모의시험 체험",
+    "url": "https://hsk3demo-intl.chinesetest.cn"
+   },
+   {
+    "label": "HSK 3.0 공식 샘플 문제 (ZIP)",
+    "url": "https://hsk-sample-1409982902.cos.ap-beijing.myqcloud.com/HSK3.0.zip"
+   },
+   {
+    "label": "HSK 3.0 시험요강",
+    "url": "https://www.chinesetest.cn/syllabus"
+   }
+  ],
+  "note": "한국은 2026년 12월 13일 시험부터 HSK 3.0으로 전면 개편(기존 HSK는 11월 7일이 마지막). 성적 2년 유효",
+  "note_en": "Korea switches to HSK 3.0 from the 13 Dec 2026 test; scores valid 2 years.",
+  "validity": "2년"
+ },
+ {
+  "id": "tocfl",
+  "lang": "zh",
+  "name": "TOCFL",
+  "full": "華語文能力測驗 Test of Chinese as a Foreign Language (Taiwan)",
+  "org": "國家華語測驗推動工作委員會 (SC-TOP, 대만 교육부)",
+  "official": "https://tocfl.edu.tw/",
+  "levels": "Band A(1–2급) · Band B(3–4급) · Band C(5–6급) (+Novice)",
+  "levels_en": "Band A (L1–2), B (L3–4), C (L5–6) + Novice",
+  "cefr": "A1–C2 대응 (1급 A1 … 6급 C2)",
+  "fees": [
+   {
+    "country": "FR",
+    "amount": "€25 / €30",
+    "note": "지필 €25 · 디지털 €30 (프랑스 시험장 2026 안내)"
+   },
+   {
+    "country": "KR",
+    "amount": "해외 접수 시스템에서 확인",
+    "note": "한국 응시료 공식 미확인"
+   }
+  ],
+  "register": [
+   {
+    "country": "KR",
+    "label": "해외 접수 시스템 (Test area: Korea)",
+    "url": "https://tocfl.edu.tw/OS/index.php"
+   },
+   {
+    "country": "TW",
+    "label": "臺灣考區 報名",
+    "url": "https://tocfl.edu.tw/TW/"
+   },
+   {
+    "country": "GLOBAL",
+    "label": "Overseas registration",
+    "url": "https://tocfl.edu.tw/OS/index.php"
+   }
+  ],
+  "practice": [
+   {
+    "label": "공식 모의시험 (模擬試題)",
+    "url": "https://tocfl.edu.tw/tocfl/index.php/exam/test"
+   }
+  ],
+  "note": "대만(번체자) 중국어 시험. 대만 정부 장학금·유학에 사용",
+  "note_en": "Taiwan's Chinese test (traditional characters); used for Taiwan scholarships and study.",
+  "validity": "제출처 기준 확인"
+ },
+ {
+  "id": "bct",
+  "lang": "zh",
+  "name": "BCT",
+  "full": "商务汉语考试 Business Chinese Test",
+  "org": "汉考国际 CTI",
+  "official": "https://www.chinesetest.cn/BCT",
+  "levels": "BCT(A) · BCT(B) 필기 + BCT Speaking",
+  "levels_en": "BCT (A), BCT (B) written + BCT Speaking",
+  "cefr": "공식 매핑 없음",
+  "fees": [],
+  "register": [
+   {
+    "country": "GLOBAL",
+    "label": "Chinese Tests Service",
+    "url": "https://www.chinesetest.cn"
+   }
+  ],
+  "practice": [],
+  "note": "비즈니스 중국어 시험(지필·IBT·홈테스트)",
+  "note_en": "Business Chinese test (paper, internet-based, at-home).",
+  "validity": "규정 없음 (제출처 확인)"
+ },
+ {
+  "id": "yct",
+  "lang": "zh",
+  "name": "YCT",
+  "full": "中小学生汉语考试 Youth Chinese Test",
+  "org": "汉考国际 CTI",
+  "official": "https://www.chinesetest.cn/YCT",
+  "levels": "필기 1–4급 · 구술 초급/중급",
+  "levels_en": "Written L1–4; Oral Elementary/Intermediate",
+  "cefr": "공식 매핑 없음",
+  "fees": [],
+  "register": [
+   {
+    "country": "GLOBAL",
+    "label": "Chinese Tests Service",
+    "url": "https://www.chinesetest.cn"
+   }
+  ],
+  "practice": [],
+  "note": "초·중등학생 대상 중국어 시험",
+  "note_en": "Chinese test for primary and secondary school students.",
+  "validity": "규정 없음"
+ },
+ {
+  "id": "topik",
+  "lang": "ko",
+  "name": "TOPIK",
+  "full": "한국어능력시험 Test of Proficiency in Korean (PBT·IBT·말하기)",
+  "org": "교육부 국립국제교육원 (NIIED)",
+  "official": "https://www.topik.go.kr",
+  "levels": "TOPIK I 1–2급 · TOPIK II 3–6급 · 말하기 1–6급",
+  "levels_en": "TOPIK I L1–2, TOPIK II L3–6; Speaking L1–6",
+  "cefr": "공식 매핑 없음",
+  "fees": [
+   {
+    "country": "KR",
+    "amount": "40,000–95,000원",
+    "note": "지필 I 40,000 · II 55,000 / IBT I 70,000 · II 95,000 / 말하기 80,000원 (2026 시행계획) · 해외는 현지 기관별 상이"
+   }
+  ],
+  "register": [
+   {
+    "country": "KR",
+    "label": "TOPIK 공식 접수 (국내·해외)",
+    "url": "https://www.topik.go.kr"
+   }
+  ],
+  "practice": [
+   {
+    "label": "기출문제 공개 (홈페이지 학습자료 메뉴)",
+    "url": "https://www.topik.go.kr"
+   }
+  ],
+  "note": "외국인·재외동포 대상 한국어 시험. 성적은 발표일로부터 2년 유효",
+  "note_en": "Korean test for non-native speakers; results valid 2 years from release.",
+  "validity": "2년"
+ },
+ {
+  "id": "vn-viet",
+  "lang": "vi",
+  "name": "베트남어 능력평가시험",
+  "full": "Kỳ thi đánh giá năng lực tiếng Việt dùng cho người nước ngoài",
+  "org": "베트남 교육훈련부(MOET) 규정(통문 17/2015 역량틀, 09/2026 시험규정)에 따라 대학 등 시행기관이 실시",
+  "official": "https://vns.hcmussh.edu.vn/",
+  "levels": "6단계 (Bậc 1–6, 베트남어 역량틀)",
+  "levels_en": "6 levels (Bậc 1–6, Vietnamese Language Ability Framework)",
+  "cefr": "공식 매핑 미확인",
+  "fees": [],
+  "register": [
+   {
+    "country": "VN",
+    "label": "호찌민 인문사회과학대 베트남학부 (시행기관 예시, 연 5회)",
+    "url": "https://vns.hcmussh.edu.vn/"
+   }
+  ],
+  "practice": [],
+  "note": "단일 국가시험이 아니라 교육부 규정에 따른 인가 기관별 시험. 기관·응시료는 개별 확인",
+  "note_en": "Not a single national exam; run by authorised institutions under MOET rules.",
+  "validity": "미확인"
+ },
+ {
+  "id": "cu-tfl",
+  "lang": "th",
+  "name": "CU-TFL",
+  "full": "Chulalongkorn University Test of Thai as a Foreign Language",
+  "org": "쭐랄롱꼰대 시린톤 태국어연구소 (Sirindhorn Thai Language Institute)",
+  "official": "https://www.sti.chula.ac.th/operation-service/thai-test/thai-test-for-non-native/cu-tfl-en/en-th",
+  "levels": "Novice · Intermediate · Advanced · Superior · Distinguished (듣기·읽기·쓰기)",
+  "levels_en": "Novice–Distinguished (listening, reading, writing)",
+  "cefr": "공식 매핑 미확인",
+  "fees": [],
+  "register": [
+   {
+    "country": "GLOBAL",
+    "label": "CU-TFL 공식 안내 (STI Chula)",
+    "url": "https://www.sti.chula.ac.th/operation-service/thai-test/thai-test-for-non-native/cu-tfl-en/en-th"
+   }
+  ],
+  "practice": [],
+  "note": "태국 대표 태국어 능력시험. 태국 외 대만·홍콩 등 제휴 기관에서도 시행",
+  "note_en": "Main Thai proficiency test; also held at partner institutions abroad.",
+  "validity": "미확인"
+ },
+ {
+  "id": "ukbi",
+  "lang": "id",
+  "name": "UKBI",
+  "full": "Uji Kemahiran Berbahasa Indonesia (UKBI Adaptif)",
+  "org": "Badan Pengembangan dan Pembinaan Bahasa (인도네시아 언어개발청)",
+  "official": "https://ukbi.kemendikdasmen.go.id/",
+  "levels": "250–800점, 7등급: Istimewa · Sangat Unggul · Unggul · Madya · Semenjana · Marginal · Terbatas",
+  "levels_en": "250–800; 7 bands (Istimewa → Terbatas)",
+  "cefr": "공식 매핑 미확인",
+  "fees": [
+   {
+    "country": "ID",
+    "amount": "Rp1,000,000",
+    "note": "외국인 일반 Rp1,000,000 · 대학생 Rp500,000 · 학생 Rp250,000 (PP 22/2023 기준)"
+   }
+  ],
+  "register": [
+   {
+    "country": "GLOBAL",
+    "label": "UKBI Adaptif 공식 (온라인 응시)",
+    "url": "https://ukbi.kemendikdasmen.go.id/"
+   }
+  ],
+  "practice": [],
+  "note": "인도네시아 정부 공인 인도네시아어 시험(온라인 적응형)",
+  "note_en": "Indonesian government's official Indonesian proficiency test (adaptive online).",
+  "validity": "미확인"
+ },
+ {
+  "id": "hamza",
+  "lang": "ar",
+  "name": "Hamza",
+  "full": "اختبار همزة Hamza Academic Arabic Proficiency Test",
+  "org": "King Salman Global Academy for Arabic Language (KSGAAL) · 사우디 ETEC/Qiyas",
+  "official": "https://ksaa.gov.sa/en/initiatives/50969-Hamza-Academic-Test",
+  "levels": "4등급 A2 · B1 · B2 · C1 (듣기·읽기·쓰기·말하기)",
+  "levels_en": "4 levels A2–C1 (4 skills)",
+  "cefr": "CEFR 기반 설계 (A2–C1)",
+  "fees": [
+   {
+    "country": "SA",
+    "amount": "무료(2024–2025)",
+    "note": "2026년 이후 유료 여부 미확인"
+   }
+  ],
+  "register": [
+   {
+    "country": "GLOBAL",
+    "label": "Hamza 공식 등록",
+    "url": "https://form.ksaa.gov.sa/ic/builder/rt/hamzatest_1_0/live/webApps/regapp/"
+   }
+  ],
+  "practice": [],
+  "note": "사우디 정부 기관이 2023년 출범시킨 비원어민 대상 아랍어 표준시험(CBT·원격)",
+  "note_en": "Saudi government standardised Arabic test for non-native speakers, launched 2023.",
+  "validity": "미확인"
+ },
+ {
+  "id": "yael",
+  "lang": "he",
+  "name": "YAEL / YAELNET",
+  "full": "Hebrew Proficiency Test (YAEL)",
+  "org": "NITE 이스라엘 국립시험평가원",
+  "official": "https://www.nite.org.il/other-tests/yael/about-the-test/?lang=en",
+  "levels": "점수제 (대학 입학·히브리어 반 배정용)",
+  "levels_en": "Scored (university admission & placement)",
+  "cefr": "공식 매핑 없음",
+  "fees": [
+   {
+    "country": "IL",
+    "amount": "₪300",
+    "note": "YAELNET 단독 응시(이스라엘 내) · 해외는 심리측정시험(Psychometric)과 함께 응시 시 추가비용 없음"
+   }
+  ],
+  "register": [
+   {
+    "country": "IL",
+    "label": "YAELNET 등록",
+    "url": "https://niteop.nite.org.il/#/net-registration/H,1"
+   },
+   {
+    "country": "GLOBAL",
+    "label": "Tests administered overseas",
+    "url": "https://nite.org.il/other-tests/tests-administered-overseas/?lang=en"
+   }
+  ],
+  "practice": [],
+  "note": "이스라엘 대학 입학용 히브리어 시험. 해외에서는 심리측정시험과 함께만 응시 가능",
+  "note_en": "Hebrew test for Israeli university admission; abroad only with the Psychometric test.",
+  "validity": "미확인"
+ },
+ {
+  "id": "flex",
+  "lang": "multi",
+  "name": "FLEX",
+  "full": "FLEX 외국어능력시험 Foreign Language EXamination",
+  "org": "한국외국어대학교 FLEX센터 · 대한상공회의소",
+  "official": "https://www.flex.or.kr",
+  "langs": [
+   "en",
+   "zh",
+   "ja",
+   "fr",
+   "de",
+   "ru",
+   "es",
+   "ar",
+   "vi",
+   "th",
+   "id",
+   "hi"
+  ],
+  "levels": "듣기·읽기 1000점 / 쓰기·말하기 각 250점, 등급 1A–3C (9단계)",
+  "levels_en": "L&R 1000 pts; W & S 250 each; grades 1A–3C",
+  "cefr": "공식 매핑 미확인",
+  "fees": [
+   {
+    "country": "KR",
+    "amount": "45,000원 / 75,000원",
+    "note": "듣기·읽기 45,000 · 쓰기 75,000 · 말하기 75,000원 (공식 안내자료 기준, 최신 금액 확인 필요)"
+   }
+  ],
+  "register": [
+   {
+    "country": "KR",
+    "label": "FLEX 공식",
+    "url": "https://www.flex.or.kr"
+   }
+  ],
+  "practice": [],
+  "note": "정기시험 7개 언어 + 아랍어·베트남어·태국어·마인어·힌디어 등 특수외국어 시험. 성적 2년 유효",
+  "note_en": "7 regular languages plus critical languages (Arabic, Vietnamese, Thai, Malay-Indonesian, Hindi…); valid 2 years.",
+  "validity": "2년"
+ },
+ {
+  "id": "snult",
+  "lang": "multi",
+  "name": "SNULT",
+  "full": "Seoul National University Language Test",
+  "org": "서울대학교 언어교육원 (TEPS관리위원회)",
+  "official": "https://lei.snu.ac.kr/mobile/en/teps/products/snultEng.jsp",
+  "langs": [
+   "ja",
+   "zh",
+   "fr",
+   "de",
+   "es",
+   "ru",
+   "en",
+   "pt",
+   "ar"
+  ],
+  "levels": "100점 만점 (듣기·읽기 평균)",
+  "levels_en": "0–100 (average of listening & reading)",
+  "cefr": "미확인 (알려진 대응: B1 50 · B2 60 · C1 70 · C2 80점)",
+  "fees": [],
+  "register": [
+   {
+    "country": "KR",
+    "label": "TEPS 공식 사이트 (SNULT 접수)",
+    "url": "http://en.teps.or.kr/"
+   }
+  ],
+  "practice": [],
+  "note": "일·중·불·독·서·러 정기 시행(영·포·아랍어는 비정기). 외교관후보자시험 등에 활용",
+  "note_en": "Regular tests in 6 languages (English, Portuguese, Arabic irregular); used for diplomatic service exams.",
+  "validity": "미확인"
+ },
+ {
+  "id": "opic",
+  "lang": "multi",
+  "name": "OPIc",
+  "full": "Oral Proficiency Interview – computer (한국 시행)",
+  "org": "ACTFL 개발 (한국 공식 시행처 opic.or.kr)",
+  "official": "https://www.opic.or.kr",
+  "langs": [
+   "en",
+   "zh",
+   "ru",
+   "es",
+   "ko",
+   "ja",
+   "vi"
+  ],
+  "levels": "NL · NM · NH · IL · IM(1–3) · IH · AL",
+  "levels_en": "Novice Low – Advanced Low",
+  "cefr": "ACTFL 기준 (CEFR 별도 매핑은 ACTFL 공식 안내 참고)",
+  "fees": [
+   {
+    "country": "KR",
+    "amount": "84,000원",
+    "note": "VAT 포함, 2025.11.1 신청분부터 · 어종 공통 · as of 2026-11"
+   }
+  ],
+  "register": [
+   {
+    "country": "KR",
+    "label": "OPIc 공식 접수",
+    "url": "https://www.opic.or.kr"
+   }
+  ],
+  "practice": [],
+  "note": "컴퓨터 기반 말하기 시험. 한국 기업 채용·승진에 널리 사용",
+  "note_en": "Computer-based speaking test widely used by Korean employers.",
+  "validity": "제출처 기준 확인"
+ },
+ {
+  "id": "actfl",
+  "lang": "multi",
+  "name": "ACTFL OPI/OPIc/WPT/L&Rcat",
+  "full": "ACTFL Proficiency Assessments (US)",
+  "org": "ACTFL · Language Testing International (LTI, 독점 라이선스)",
+  "official": "https://www.actfl.org/assessments",
+  "langs": [
+   "120+ languages"
+  ],
+  "levels": "Novice (Low/Mid/High) – Intermediate – Advanced – Superior – Distinguished",
+  "levels_en": "ACTFL scale Novice Low – Distinguished",
+  "cefr": "ACTFL 공식: 모든 언어에서 CEFR 등급 부여 가능",
+  "fees": [
+   {
+    "country": "US",
+    "amount": "$165",
+    "note": "개인 OPI $145 + 원격감독 $20 (ACTFL 안내) · as of 2026-11"
+   }
+  ],
+  "register": [
+   {
+    "country": "GLOBAL",
+    "label": "Language Testing International (응시 신청)",
+    "url": "https://www.languagetesting.com/"
+   }
+  ],
+  "practice": [
+   {
+    "label": "LTI 데모 체험",
+    "url": "https://www.languagetesting.com/catalog/category/view/s/experience-a-demo/id/65/"
+   },
+   {
+    "label": "ACTFL→CEFR 등급 안내",
+    "url": "https://www.actfl.org/assessments/assigning-cefr-ratings-to-actfl-assessments"
+   }
+  ],
+  "note": "미국 표준 외국어 능력 척도. 120개 이상 언어, 말하기(OPI)·쓰기(WPT)·듣기읽기(L&Rcat)",
+  "note_en": "US standard proficiency scale; 120+ languages across speaking, writing, listening/reading.",
+  "validity": "제출처 기준 확인"
+ }
+]

@@ -1,0 +1,785 @@
+[
+ {
+  "id": "goethe",
+  "lang": "de",
+  "name": "Goethe-Zertifikat",
+  "full": "Goethe-Zertifikat A1–C2",
+  "org": "Goethe-Institut",
+  "official": "https://www.goethe.de/de/spr/prf.html",
+  "levels": "A1–C2",
+  "levels_en": "A1–C2",
+  "cefr": "CEFR 기준",
+  "fees": [
+   {
+    "country": "KR",
+    "amount": "150,000–470,000원",
+    "note": "주한독일문화원 2026 일정표(외부 응시자): A1 150,000 / A2 170,000 / B1 260,000 / B2 290,000 / C1 330,000 / C2 470,000원 (모듈별 85,000–150,000원, 수강생 20% 할인) — 2026-11 기준"
+   }
+  ],
+  "register": [
+   {
+    "country": "KR",
+    "label": "주한독일문화원 독일어 시험",
+    "url": "https://www.goethe.de/ins/kr/ko/spr/prf.html"
+   },
+   {
+    "country": "GLOBAL",
+    "label": "Deutschprüfungen (Prüfungsorte weltweit)",
+    "url": "https://www.goethe.de/de/spr/prf.html"
+   }
+  ],
+  "practice": [
+   {
+    "label": "공식 연습문제(Übungsmaterialien, 한국어 안내)",
+    "url": "https://www.goethe.de/ins/kr/ko/spr/prf/ueb.html"
+   },
+   {
+    "label": "Prüfungstrainings (독일어)",
+    "url": "https://www.goethe.de/de/spr/prf/ueb.html"
+   }
+  ],
+  "note": "서울 주한독일문화원에서 연중 시행, B1 이상은 모듈별 응시 가능. 독일 내 응시료는 시험장별로 다름",
+  "note_en": "Held year-round at Goethe-Institut Seoul; modular from B1. Fees in Germany vary by institute.",
+  "validity": "평생"
+ },
+ {
+  "id": "testdaf",
+  "lang": "de",
+  "name": "TestDaF",
+  "full": "Test Deutsch als Fremdsprache",
+  "org": "TestDaF-Institut (g.a.s.t.)",
+  "official": "https://www.testdaf.de/de/",
+  "levels": "TDN 3–5",
+  "levels_en": "TDN 3–5 (≈B2–C1)",
+  "cefr": "자체 등급(TDN 3·4·5, 약 B2–C1)",
+  "fees": [
+   {
+    "country": "DE",
+    "amount": "€210",
+    "note": "Goethe-Institut Frankfurt 2026 시험일 기준 — 2026-11 기준"
+   }
+  ],
+  "register": [
+   {
+    "country": "KR",
+    "label": "주한독일문화원 TestDaF 안내",
+    "url": "https://www.goethe.de/ins/kr/ko/spr/prf/testdaf.html"
+   },
+   {
+    "country": "GLOBAL",
+    "label": "Testzentrum finden",
+    "url": "https://www.testdaf.de/de/teilnehmende/mein-testdaf/testzentrum-finden/"
+   },
+   {
+    "country": "GLOBAL",
+    "label": "Termine und Anmeldung",
+    "url": "https://www.testdaf.de/de/teilnehmende/mein-testdaf/testdaf-termine-und-anmeldung/"
+   }
+  ],
+  "practice": [
+   {
+    "label": "디지털 TestDaF 준비(예시 문항·튜토리얼)",
+    "url": "https://www.testdaf.de/de/teilnehmende/der-digitale-testdaf/vorbereitung-auf-den-digitalen-testdaf/"
+   },
+   {
+    "label": "종이 TestDaF 준비 자료",
+    "url": "https://www.testdaf.de/de/teilnehmende/der-papierbasierte-testdaf/vorbereitung-auf-den-papierbasierten-testdaf/"
+   }
+  ],
+  "note": "독일 대학 입학용 시험. 한국은 주한독일문화원에서 시행(한국 응시료는 공식 페이지 미기재), TDN 4 전 영역이면 대부분 학과 입학 가능",
+  "note_en": "German university admission test; offered at Goethe-Institut Seoul (KRW fee not published online). TDN 4 in all parts admits to almost all programmes.",
+  "validity": "평생(무기한, 대학별 기준 확인)"
+ },
+ {
+  "id": "telc",
+  "lang": "de",
+  "name": "telc Deutsch",
+  "full": "telc Deutsch A1–C2 (Start Deutsch, Zertifikat Deutsch, DTB, C1 Hochschule 등)",
+  "org": "telc gGmbH",
+  "official": "https://www.telc.net/sprachpruefungen/zertifikatspruefung/deutsch/",
+  "levels": "A1–C2",
+  "levels_en": "A1–C2 (incl. dual-level exams)",
+  "cefr": "CEFR 기준",
+  "fees": [],
+  "register": [
+   {
+    "country": "GLOBAL",
+    "label": "Prüfungszentrum finden",
+    "url": "https://www.telc.net/sprachpruefungen/pruefungszentrum-finden/"
+   }
+  ],
+  "practice": [
+   {
+    "label": "telc Deutsch B1 무료 Übungstest(ZIP)",
+    "url": "https://www.telc.net/fileadmin/user_upload/mock_exams/Deutsch/telc_deutsch_b1.zip"
+   },
+   {
+    "label": "레벨별 시험 페이지(각 페이지 Übungstest)",
+    "url": "https://www.telc.net/sprachpruefungen/zertifikatspruefung/deutsch/"
+   }
+  ],
+  "note": "독일 이민·직업·대학(C1 Hochschule)용으로 널리 인정. 응시료는 시험센터별로 다르며 한국 시험센터는 확인되지 않음",
+  "note_en": "Widely used for German immigration, work and university (C1 Hochschule). Fees set by each centre; no Korean centre confirmed.",
+  "validity": "평생(기관별 기준 확인)"
+ },
+ {
+  "id": "osd",
+  "lang": "de",
+  "name": "ÖSD",
+  "full": "Österreichisches Sprachdiplom Deutsch",
+  "org": "ÖSD (Österreichisches Sprachdiplom Deutsch, Wien)",
+  "official": "https://osd.at/",
+  "levels": "A1–C2",
+  "levels_en": "A1–C2",
+  "cefr": "CEFR 기준",
+  "fees": [],
+  "register": [
+   {
+    "country": "GLOBAL",
+    "label": "ÖSD-Prüfungszentren",
+    "url": "https://osd.at/pruefungszentren/"
+   },
+   {
+    "country": "GLOBAL",
+    "label": "Prüfungstermine",
+    "url": "https://osd.at/pruefungstermine/"
+   }
+  ],
+  "practice": [
+   {
+    "label": "ZB1 무료 Modellsatz(각 레벨 페이지에서 다운로드)",
+    "url": "https://osd.at/portfolio-item/osd-zertifikat-b1-zb1/"
+   },
+   {
+    "label": "ÖSD 시험 목록(레벨별 Modellsatz)",
+    "url": "https://osd.at/oesd-pruefungen/"
+   }
+  ],
+  "note": "오스트리아 공인 독일어 시험으로 독일·스위스에서도 인정. 응시료는 시험센터별 상이, 한국 시험센터는 확인되지 않음",
+  "note_en": "Austrian German diploma, recognised in DE/CH too. Fees set per centre; no Korean centre confirmed.",
+  "validity": "평생"
+ },
+ {
+  "id": "dsh",
+  "lang": "de",
+  "name": "DSH",
+  "full": "Deutsche Sprachprüfung für den Hochschulzugang",
+  "org": "독일 각 대학·Studienkolleg (HRK/KMK 기본규정 RO-DT)",
+  "official": "https://www.hrk.de/fileadmin/redaktion/hrk/02-Dokumente/02-07-Internationales/20191014_RO-DT_mit_MPO_neu_final.pdf",
+  "levels": "DSH-1·2·3",
+  "levels_en": "DSH-1 / DSH-2 / DSH-3",
+  "cefr": "자체 등급(DSH-2 = 대학 입학 기준)",
+  "fees": [],
+  "register": [],
+  "practice": [],
+  "note": "독일 현지 대학이 자체 시행하는 입학용 시험(한국 시행 없음). 응시료·일정은 대학별로 다름",
+  "note_en": "University-run admission exam held only at German universities (not in Korea); fees/dates vary by university.",
+  "validity": "대학별 규정"
+ },
+ {
+  "id": "cnavt",
+  "lang": "nl",
+  "name": "CNaVT",
+  "full": "Certificaat Nederlands als Vreemde Taal",
+  "org": "Nederlandse Taalunie (KU Leuven CTO · Radboud Universiteit)",
+  "official": "https://cnavt.org/",
+  "levels": "A2–C1",
+  "levels_en": "A2–C1 (5 profile exams)",
+  "cefr": "CEFR 기준(A2–C1, 5개 프로필)",
+  "fees": [],
+  "register": [
+   {
+    "country": "KR",
+    "label": "한국외국어대학교(서울) — 아시아 시험센터 목록",
+    "url": "https://cnavt.org/examencentra/continent/azie"
+   },
+   {
+    "country": "GLOBAL",
+    "label": "Inschrijven (등록 안내)",
+    "url": "https://cnavt.org/inschrijven"
+   }
+  ],
+  "practice": [
+   {
+    "label": "공식 예시 시험(Voorbeeldexamens)",
+    "url": "https://cnavt.org/voorbereiding/voorbeeldexamens"
+   }
+  ],
+  "note": "해외 학습자용 네덜란드어 시험, 한국은 한국외대에서 시행. 연 1회(11월), 응시료는 국가·기관별로 다름(등록 시스템에서 확인)",
+  "note_en": "Dutch exam for learners abroad; in Korea at HUFS. Once a year (November); fee varies by country/centre.",
+  "validity": "평생"
+ },
+ {
+  "id": "nt2",
+  "lang": "nl",
+  "name": "Staatsexamen NT2",
+  "full": "Staatsexamen Nederlands als tweede taal (Programma I·II)",
+  "org": "네덜란드 교육문화과학부 · CvTE · DUO",
+  "official": "https://www.staatsexamensnt2.nl/",
+  "levels": "B1·B2",
+  "levels_en": "Programma I (B1) / II (B2)",
+  "cefr": "CEFR 기준",
+  "fees": [
+   {
+    "country": "NL",
+    "amount": "€50/영역, 전체 €200",
+    "note": "DUO Examengeld (Programma I·II 동일) — 2026-11 기준"
+   }
+  ],
+  "register": [
+   {
+    "country": "NL",
+    "label": "DUO 신청 안내",
+    "url": "https://www.duo.nl/particulier/staatsexamen-nt2/hoe-het-staatsexamen-nt2-werkt.jsp"
+   }
+  ],
+  "practice": [
+   {
+    "label": "공식 연습 시험(Examens oefenen)",
+    "url": "https://www.staatsexamensnt2.nl/voorbereiden/examens-oefenen"
+   }
+  ],
+  "note": "네덜란드 거주·대학 입학용 국가시험, 네덜란드 내에서 응시(한국 시행 없음)",
+  "note_en": "Dutch state exam for living/studying in NL; taken in the Netherlands (not offered in Korea).",
+  "validity": "평생"
+ },
+ {
+  "id": "torfl",
+  "lang": "ru",
+  "name": "ТРКИ (TORFL)",
+  "full": "Тест по русскому языку как иностранному",
+  "org": "러시아 교육부 지정 시험기관(상트페테르부르크국립대·모스크바국립대·RUDN·푸시킨대학 등)",
+  "official": "https://testingcenter.spbu.ru/ru/ekzameny/russia/trki.html",
+  "levels": "ТЭУ(A1)–ТРКИ-4(C2)",
+  "levels_en": "TEU (A1), TBU (A2), TORFL-1–4 (B1–C2)",
+  "cefr": "자체 등급(CEFR A1–C2 대응)",
+  "fees": [
+   {
+    "country": "RU",
+    "amount": "₽5,800–8,100",
+    "note": "SPbU 대면 기준 A1 5,800 / B1 6,800 / C2 8,100루블(온라인 7,000–9,000) — 2026-11 기준"
+   }
+  ],
+  "register": [
+   {
+    "country": "GLOBAL",
+    "label": "SPbU 해외 시험장 안내",
+    "url": "https://testingcenter.spbu.ru/ru/places.html"
+   }
+  ],
+  "practice": [
+   {
+    "label": "SPbU 공식 데모(ТРКИ-I B1)",
+    "url": "https://testingcenter.spbu.ru/images/files/TRKI1_demo.pdf"
+   },
+   {
+    "label": "SPbU 레벨별 데모·유형 시험 목록",
+    "url": "https://testingcenter.spbu.ru/ru/ekzameny/russia/trki.html"
+   }
+  ],
+  "note": "러시아 정부 공인 러시아어 시험. 한국 내 현행 시행기관·응시료는 공식 확인되지 않음(과거 경북대 등 시행) — 응시 전 확인 필요",
+  "note_en": "Russian state-certified test; current Korean test centre/fee could not be verified — check before applying.",
+  "validity": "제출처 기준 확인"
+ },
+ {
+  "id": "polish",
+  "lang": "pl",
+  "name": "Certyfikat Polski",
+  "full": "Państwowe egzaminy certyfikatowe z języka polskiego jako obcego",
+  "org": "Państwowa Komisja do Spraw Poświadczania Znajomości Języka Polskiego jako Obcego (NAWA)",
+  "official": "https://certyfikatpolski.pl/",
+  "levels": "A1–C2",
+  "levels_en": "A1–C2 (youth A1–B2)",
+  "cefr": "CEFR 기준",
+  "fees": [
+   {
+    "country": "PL",
+    "amount": "€90–180",
+    "note": "법정 상한: 성인 A1·A2 €120 / B1·B2 €150 / C1·C2 €180, 청소년 €90, 인증서 발급 €20 상당 PLN — 시험센터가 상한 내 결정 — 2026-11 기준"
+   }
+  ],
+  "register": [
+   {
+    "country": "GLOBAL",
+    "label": "시험 안내(About the examination)",
+    "url": "https://certyfikatpolski.pl/en/about-the-examination/"
+   }
+  ],
+  "practice": [
+   {
+    "label": "공식 기출문제(Examination tests from previous years)",
+    "url": "https://certyfikatpolski.pl/en/?p=110856"
+   },
+   {
+    "label": "공식 B1 예시 시험(PDF)",
+    "url": "https://certyfikatpolski.pl/wp-content/uploads/2017/05/5_B1_test.pdf"
+   }
+  ],
+  "note": "폴란드 정부 공인 폴란드어 시험. 시험은 인가된 시험센터에 직접 신청하며 한국 시험센터는 확인되지 않음",
+  "note_en": "Polish state certificate; apply via authorised centres. No Korean centre confirmed.",
+  "validity": "평생"
+ },
+ {
+  "id": "cce",
+  "lang": "cs",
+  "name": "CCE",
+  "full": "Czech Language Certificate Exam (Certifikovaná zkouška z češtiny)",
+  "org": "Charles University ÚJOP (Institute for Language and Preparatory Studies)",
+  "official": "https://ujop.cuni.cz/UJOPEN-70.html?ujopcmsid=12%3Aczech-language-certificate-exam-cce",
+  "levels": "A1–C1",
+  "levels_en": "A1–C1",
+  "cefr": "CEFR 기준",
+  "fees": [
+   {
+    "country": "CZ",
+    "amount": "3,200–4,900 CZK",
+    "note": "A1 3,200 / A2 3,500 / B1 4,000 / B2 4,600 / C1 4,900 CZK (해외 €225부터) — 2026-11 기준"
+   }
+  ],
+  "register": [
+   {
+    "country": "KR",
+    "label": "체코센터 서울(시험장 목록상 'Republic of Korea – Soul')",
+    "url": "https://seoul.czechcentres.cz/"
+   },
+   {
+    "country": "GLOBAL",
+    "label": "ÚJOP CCE 시험장·신청(EXAMINATION CENTRES)",
+    "url": "https://ujop.cuni.cz/UJOPEN-70.html?ujopcmsid=12%3Aczech-language-certificate-exam-cce"
+   }
+  ],
+  "practice": [
+   {
+    "label": "공식 모델 시험 B1(2026)",
+    "url": "https://arche.is.cuni.cz/images/zkousky/dokumenty/CCE-B1_MODELOVÁ_VARIANTA_2026.pdf"
+   }
+  ],
+  "note": "카렐대가 주관하는 체코어 공인시험, 해외 시험장 목록에 서울(체코센터)이 포함. 한국 응시료는 공식 미기재",
+  "note_en": "Charles University's Czech exam; Seoul (Czech Centre) is on the overseas centre list. KRW fee not published.",
+  "validity": "평생"
+ },
+ {
+  "id": "ecl",
+  "lang": "hu",
+  "name": "ECL (헝가리어)",
+  "full": "ECL Exams – Hungarian",
+  "org": "ECL 컨소시엄 / ECL Vizsgaközpont (PTE, Pécs)",
+  "official": "https://ecl.hu/",
+  "levels": "A2–C1",
+  "levels_en": "A2–C1",
+  "cefr": "CEFR 기준",
+  "fees": [
+   {
+    "country": "HU",
+    "amount": "30,000–59,000 HUF",
+    "note": "종합시험(인증 언어·헝가리어 포함): A2 30,000 / B1 45,000 / B2 55,000 / C1 59,000 HUF — 2026-11 기준"
+   }
+  ],
+  "register": [
+   {
+    "country": "HU",
+    "label": "ECL 시험장(Vizsgahelyek)",
+    "url": "https://ecl.hu/vizsgahelyek/"
+   }
+  ],
+  "practice": [
+   {
+    "label": "공식 샘플 문제(Mintafeladatok, 언어 'Magyar' 선택)",
+    "url": "https://ecl.hu/mintafeladatok-2/"
+   }
+  ],
+  "note": "유럽 다국어 시험 체계로 헝가리어도 인증. 헝가리 사이트는 국내 시험만 안내, 한국 시행 없음",
+  "note_en": "Multilingual European exam incl. Hungarian; Hungarian site covers domestic exams only — not offered in Korea.",
+  "validity": "평생"
+ },
+ {
+  "id": "origo",
+  "lang": "hu",
+  "name": "Origó (헝가리어)",
+  "full": "ELTE Origó – Magyar mint idegen nyelv nyelvvizsga",
+  "org": "ELTE Origó Nyelvi Centrum (Eötvös Loránd University)",
+  "official": "https://www.onyc.hu/magyar-mint-idegen-nyelv-vizsga/",
+  "levels": "A2–C1",
+  "levels_en": "A2 START, B1–C1 (accredited)",
+  "cefr": "CEFR 기준",
+  "fees": [],
+  "register": [
+   {
+    "country": "HU",
+    "label": "시험 일정·응시료(Vizsgaidőpontok és díjak)",
+    "url": "https://www.onyc.hu/vizsgaidopontok-es-dijak/"
+   },
+   {
+    "country": "HU",
+    "label": "시험장(Vizsgahelyek)",
+    "url": "https://www.onyc.hu/vizsgahelyek/"
+   }
+  ],
+  "practice": [
+   {
+    "label": "공식 샘플·연습 문제",
+    "url": "https://www.onyc.hu/minta-es-gyakorlofeladatok/"
+   }
+  ],
+  "note": "헝가리 최대 어학시험 기관(ELTE)의 헝가리어 시험, 현 체제는 2027년 2월이 마지막이며 6월부터 Origó MONO로 전환. 한국 시행 없음",
+  "note_en": "ELTE's Hungarian exam; current format ends Feb 2027, replaced by Origó MONO from June 2027. Not offered in Korea.",
+  "validity": "평생"
+ },
+ {
+  "id": "ellinomatheia",
+  "lang": "el",
+  "name": "Ellinomatheia",
+  "full": "Certificate of Attainment in Greek (Πιστοποίηση Ελληνομάθειας)",
+  "org": "Centre for the Greek Language (ΚΕΓ, 그리스 교육부 산하)",
+  "official": "https://www.greek-language.gr/certification/",
+  "levels": "A1–C2",
+  "levels_en": "A1–C2 (Α1–Γ2)",
+  "cefr": "CEFR 기준",
+  "fees": [
+   {
+    "country": "GB",
+    "amount": "£100–110",
+    "note": "주영 그리스대사관 공지: A1–B1 £100 / B2–C2 £110 (공지 내 연도 표기 혼재, 시험장별로 상이) — 2026-11 기준"
+   }
+  ],
+  "register": [
+   {
+    "country": "KR",
+    "label": "서울 시험장: 한국정교회 대교구(82001)",
+    "url": "https://www.greek-language.gr/certification/exam_centers/show.html?cou=SOUTH%20KOREA"
+   },
+   {
+    "country": "GLOBAL",
+    "label": "Exam centres worldwide",
+    "url": "https://www.greek-language.gr/certification/exam_centers"
+   }
+  ],
+  "practice": [
+   {
+    "label": "공식 샘플 시험지(Δείγματα εξεταστικών θεμάτων)",
+    "url": "https://www.greek-language.gr/certification/node/12.html"
+   }
+  ],
+  "note": "그리스 정부 공인 그리스어 시험(주로 5월 시행), 서울 한국정교회가 공식 시험장. 신청은 2–3월 시험장에 직접",
+  "note_en": "Official Greek certificate (main session in May); Seoul centre is the Orthodox Metropolis of Korea. Apply to the centre Feb–Mar.",
+  "validity": "평생"
+ },
+ {
+  "id": "tys",
+  "lang": "tr",
+  "name": "TYS",
+  "full": "Türkçe Yeterlik Sınavı",
+  "org": "Yunus Emre Enstitüsü",
+  "official": "https://tys.yee.org.tr/",
+  "levels": "B2·C1",
+  "levels_en": "B2, C1 (C2 discontinued)",
+  "cefr": "CEFR 기준",
+  "fees": [
+   {
+    "country": "KR",
+    "amount": "US$140",
+    "note": "TYS 공식 응시료표 'Güney Kore' — 2026-11 기준"
+   },
+   {
+    "country": "TR",
+    "amount": "800 TL",
+    "note": "2026-11 기준"
+   }
+  ],
+  "register": [
+   {
+    "country": "GLOBAL",
+    "label": "TYS 응시자 시스템(sinav.yee.org.tr)",
+    "url": "https://sinav.yee.org.tr/login"
+   },
+   {
+    "country": "GLOBAL",
+    "label": "시험 국가·센터 목록",
+    "url": "https://tys.yee.org.tr/index.php?option=com_content&view=categories&id=21&Itemid=469"
+   }
+  ],
+  "practice": [
+   {
+    "label": "공식 TYS 예시 문제",
+    "url": "https://tys.yee.org.tr/index.php?option=com_content&view=article&id=63%3Atuerkce-yeterlik-s-nav-oernegi&Itemid=467&catid=20"
+   }
+  ],
+  "note": "튀르키예 정부 기관 유누스 엠레 연구소의 터키어 시험, 한국(Güney Kore)도 시험국에 포함. 세부 시험장은 응시자 시스템 로그인 후 확인",
+  "note_en": "Yunus Emre Institute's Turkish test; South Korea is a listed test country (centre details after login).",
+  "validity": "제출처 기준 확인"
+ },
+ {
+  "id": "swedex",
+  "lang": "sv",
+  "name": "Swedex",
+  "full": "Swedex (A2B1 / B2C1)",
+  "org": "Folkuniversitetet (Swedex 본부)",
+  "official": "https://www.folkuniversitetet.se/in-english/swedex-swedish-examinations/",
+  "levels": "A2–C1",
+  "levels_en": "A2B1 and B2C1 tests",
+  "cefr": "CEFR 기준",
+  "fees": [],
+  "register": [
+   {
+    "country": "GLOBAL",
+    "label": "Examination centres",
+    "url": "https://www.folkuniversitetet.se/in-english/swedex-swedish-examinations/examination-centres/"
+   }
+  ],
+  "practice": [],
+  "note": "외국어로서의 스웨덴어 시험. 응시료는 시험센터별로 다르며 한국 시험센터는 확인되지 않음",
+  "note_en": "Swedish as a foreign language exam; fees vary by centre, no Korean centre confirmed.",
+  "validity": "평생"
+ },
+ {
+  "id": "tisus",
+  "lang": "sv",
+  "name": "Tisus",
+  "full": "Test i svenska för universitets- och högskolestudier",
+  "org": "Stockholm University",
+  "official": "https://www.su.se/english/divisions/tisus---test-in-swedish-for-university-studies/about-tisus",
+  "levels": "합격/불합격",
+  "levels_en": "Pass/Fail (university entry, ≈Svenska 3)",
+  "cefr": "자체 기준(CEFR 미연계, 고교 Svenska 3 상당)",
+  "fees": [
+   {
+    "country": "SE",
+    "amount": "2,380 SEK",
+    "note": "스웨덴 내 전체 시험(재시험 1,190) — 2026-11 기준"
+   },
+   {
+    "country": "GLOBAL",
+    "amount": "2,875 SEK",
+    "note": "해외 시험(재시험 1,440) + 현지 감독비 별도 — 2026-11 기준"
+   }
+  ],
+  "register": [
+   {
+    "country": "GLOBAL",
+    "label": "해외 시험장 지도(2025, PDF)",
+    "url": "https://www.su.se/download/18.39dc5cbc19afcf09c00165a/1765377242786/Provorter_Tisus_utland_2025.pdf"
+   }
+  ],
+  "practice": [
+   {
+    "label": "읽기 예시(Reading comprehension)",
+    "url": "https://www.su.se/english/divisions/tisus---test-in-swedish-for-university-studies/about-tisus/reading-comprehension"
+   },
+   {
+    "label": "쓰기 예시(Writing proficiency)",
+    "url": "https://www.su.se/english/divisions/tisus---test-in-swedish-for-university-studies/about-tisus/writing-proficiency"
+   }
+  ],
+  "note": "스웨덴 대학 입학용 스웨덴어 시험. 해외 시험장 목록에 서울은 없음(아시아는 도쿄·오사카·베이징 등)",
+  "note_en": "Swedish test for university admission; Seoul is not on the overseas list (Asia: Tokyo, Osaka, Beijing…).",
+  "validity": "평생"
+ },
+ {
+  "id": "norskprove",
+  "lang": "no",
+  "name": "Norskprøve",
+  "full": "Norskprøve A1–B2",
+  "org": "HK-dir (Direktoratet for høyere utdanning og kompetanse)",
+  "official": "https://prove.hkdir.no/norskprove-a1-b2/les-om-proven-norsk-A1-B2",
+  "levels": "A1–B2",
+  "levels_en": "A1–B2",
+  "cefr": "CEFR 기준",
+  "fees": [
+   {
+    "country": "NO",
+    "amount": "517–1,034 NOK",
+    "note": "베르겐시 개인응시자 기준: 영역별 517 / 말하기 1,034 NOK (시험장별 상이) — 2026-11 기준"
+   }
+  ],
+  "register": [
+   {
+    "country": "NO",
+    "label": "개인 응시자 등록(Meld deg på)",
+    "url": "https://prove.hkdir.no/norskprove-a1-b2/meld-deg-pa-norsk-a1-b2"
+   }
+  ],
+  "practice": [
+   {
+    "label": "공식 연습(Øv til prøve)",
+    "url": "https://prove.hkdir.no/norskprove-a1-b2/ov-til-prove-norsk-A1-B2"
+   }
+  ],
+  "note": "노르웨이 영주권·시민권용 국가시험, 노르웨이 국외에서는 응시 불가(한국 시행 없음)",
+  "note_en": "Norwegian state test for residence/citizenship; cannot be taken outside Norway.",
+  "validity": "평생"
+ },
+ {
+  "id": "bergenstest",
+  "lang": "no",
+  "name": "Bergenstesten",
+  "full": "Test i norsk – høyere nivå (Bergenstesten)",
+  "org": "Folkeuniversitetet",
+  "official": "https://www.folkeuniversitetet.no/en/bergenstesten",
+  "levels": "B2·C1",
+  "levels_en": "B2, C1",
+  "cefr": "CEFR 기준",
+  "fees": [
+   {
+    "country": "NO",
+    "amount": "2,500 NOK",
+    "note": "필기시험(오슬로·스타방에르·해외 동일) — 2026-11 기준"
+   }
+  ],
+  "register": [
+   {
+    "country": "GLOBAL",
+    "label": "해외 필기시험 신청",
+    "url": "https://kurs.folkeuniversitetet.no/shop/products/117/orders/init"
+   }
+  ],
+  "practice": [],
+  "note": "노르웨이 대학 입학·전문직용 상급 노르웨이어 시험. 일부 해외 시험장 있으나 한국은 확인되지 않음(공식 예시 시험은 유료)",
+  "note_en": "Advanced Norwegian test for university/professional use; some sites abroad, Korea not confirmed (official sample test is paid).",
+  "validity": "평생"
+ },
+ {
+  "id": "pd",
+  "lang": "da",
+  "name": "Prøve i Dansk",
+  "full": "Prøve i Dansk 1·2·3 (PD1–PD3)",
+  "org": "덴마크 SIRI (국제채용통합청)",
+  "official": "https://danskogproever.dk/borger/danskproever/",
+  "levels": "PD1–PD3",
+  "levels_en": "PD1, PD2, PD3",
+  "cefr": "자체 등급(CEFR 기반)",
+  "fees": [
+   {
+    "country": "DK",
+    "amount": "1,646 DKK",
+    "note": "자비 응시자, PD1·2·3 동일 — 2026-11 기준"
+   }
+  ],
+  "register": [
+   {
+    "country": "DK",
+    "label": "신청 기한·시험일·응시료",
+    "url": "https://danskogproever.dk/tilmeldingsfrister-og-proevedatoer/"
+   },
+   {
+    "country": "DK",
+    "label": "어학센터(시험기관) 목록",
+    "url": "https://danskogproever.dk/sprogcenter/sprogcentre/"
+   }
+  ],
+  "practice": [],
+  "note": "덴마크 영주권·시민권 요건용 시험, 덴마크 어학센터에서만 응시(한국 시행 없음)",
+  "note_en": "Danish tests for residence/citizenship, held at Danish language centres only.",
+  "validity": "평생"
+ },
+ {
+  "id": "studieprove",
+  "lang": "da",
+  "name": "Studieprøven",
+  "full": "Studieprøven i dansk som andetsprog",
+  "org": "덴마크 SIRI",
+  "official": "https://danskogproever.dk/borger/danskproever/",
+  "levels": "C1 상당",
+  "levels_en": "≈C1",
+  "cefr": "자체 기준(C1 상당)",
+  "fees": [
+   {
+    "country": "DK",
+    "amount": "1,974 DKK",
+    "note": "필기 987 + 구술 987 DKK — 2026-11 기준"
+   }
+  ],
+  "register": [
+   {
+    "country": "DK",
+    "label": "신청 기한·시험일·응시료",
+    "url": "https://danskogproever.dk/tilmeldingsfrister-og-proevedatoer/"
+   }
+  ],
+  "practice": [],
+  "note": "덴마크 대학 입학용 덴마크어 시험, 덴마크 내 어학센터에서 응시(한국 시행 없음)",
+  "note_en": "Danish test for university admission, taken at language centres in Denmark.",
+  "validity": "평생"
+ },
+ {
+  "id": "yki",
+  "lang": "fi",
+  "name": "YKI",
+  "full": "Yleiset kielitutkinnot (National Certificates of Language Proficiency)",
+  "org": "Opetushallitus (Finnish National Agency for Education) · 유배스퀼래대학교",
+  "official": "https://www.oph.fi/en/national-certificates-language-proficiency-yki",
+  "levels": "1–6 (기초·중급·고급)",
+  "levels_en": "Levels 1–6 (basic/intermediate/advanced)",
+  "cefr": "자체 6단계(CEFR A1–C2 대응)",
+  "fees": [
+   {
+    "country": "FI",
+    "amount": "€165–216",
+    "note": "기초 €165 / 중급 €190 / 고급 €216 (중급 영역별 응시 €43–84) — 2026-11 기준"
+   }
+  ],
+  "register": [
+   {
+    "country": "FI",
+    "label": "YKI 등록(Opintopolku)",
+    "url": "http://yki.opintopolku.fi/"
+   },
+   {
+    "country": "FI",
+    "label": "YKI 시험센터 연락처",
+    "url": "https://www.oph.fi/en/education-and-qualifications/contact-details-yki-test-centres"
+   }
+  ],
+  "practice": [
+   {
+    "label": "공식 시연 페이지(JYU)",
+    "url": "http://ykitesti.solki.jyu.fi/en/"
+   },
+   {
+    "label": "YKI 시험 안내(디지털 연습 링크 포함)",
+    "url": "https://www.oph.fi/en/education-and-qualifications/yki-test"
+   }
+  ],
+  "note": "핀란드 시민권·취업용 국가 어학시험(핀란드어 외 다언어). 2026년부터 등록 변경 불가, 핀란드 내 시험센터에서 응시",
+  "note_en": "Finnish national language certificate (citizenship/work); no rescheduling from 2026; held at test centres in Finland.",
+  "validity": "평생"
+ },
+ {
+  "id": "ukrainian",
+  "lang": "uk",
+  "name": "우크라이나어 국가시험",
+  "full": "Іспит на рівень володіння державною мовою (для набуття громадянства)",
+  "org": "Національна комісія зі стандартів державної мови",
+  "official": "https://mova.gov.ua/diyalnist-i-proyekti/ispit-na-riven-volodinnya-derzhavnoyu-movoyu/ispit-na-viznachennya-rivnya-volodinnya-derzhavnoyu-movoyu-dlya-nabuttya-gromadyanstva",
+  "levels": "B1",
+  "levels_en": "B1 (citizenship exam)",
+  "cefr": "CEFR B1 상당(합격/불합격)",
+  "fees": [
+   {
+    "country": "UA",
+    "amount": "9,984 UAH",
+    "note": "시민권 신청자(외국인), 2026-01-01부터 — 2026-11 기준"
+   }
+  ],
+  "register": [
+   {
+    "country": "UA",
+    "label": "시험장 목록(키이우·리비우·하르키우)",
+    "url": "https://mova.gov.ua/diyalnist-i-proyekti/ispit-na-riven-volodinnya-derzhavnoyu-movoyu/ispit-na-viznachennya-rivnya-volodinnya-derzhavnoyu-movoyu-dlya-nabuttya-gromadyanstva/perelik-aktualnykh-ispytovykh-lokatsii-dlia-nabuttia-hromadianstva"
+   },
+   {
+    "country": "UA",
+    "label": "시험 시스템(exam.mova.gov.ua)",
+    "url": "https://exam.mova.gov.ua"
+   }
+  ],
+  "practice": [
+   {
+    "label": "공식 시험 샘플(PDF)",
+    "url": "https://mova.gov.ua/storage/app/sites/19/exam/ispitovoi-roboti-ta-zrazki-zavdannya-ispitu-na-riven-volodinnya-derzhavnoyu-movoyu-dlya-nabuttya-gromadyanstva-ukraini-1.pdf"
+   }
+  ],
+  "note": "외국인 대상 공식 우크라이나어 시험은 시민권용(B1)뿐이며 우크라이나 내 지정 대학에서 대면 응시만 가능(한국 시행 없음)",
+  "note_en": "The only official exam for foreigners is the citizenship test (B1), in person at authorised Ukrainian universities only.",
+  "validity": "평생(시민권 신청용)"
+ }
+]

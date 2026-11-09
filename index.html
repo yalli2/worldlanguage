@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>World Language Exams · 세계 외국어 시험 총정리</title>
+<meta name="description" content="전 세계 외국어 능력시험의 레벨, 응시료, 국가별 응시장소·접수 사이트, 공식 모의고사를 한곳에 모았습니다.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700;900&family=Fraunces:opsz,wght@9..144,600;9..144,800&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bg:#f6f3ec; --paper:#fffdf8; --ink:#1d2330; --muted:#667085; --line:#e4ddcf;
+  --accent:#0f5c4d; --accent2:#d9822b; --chip:#efe9dc; --shadow:0 1px 2px rgba(0,0,0,.04),0 6px 20px rgba(29,35,48,.06);
+}
+*{box-sizing:border-box}
+html,body{margin:0}
+body{font-family:"Noto Sans KR",system-ui,sans-serif;background:var(--bg);color:var(--ink);line-height:1.55}
+a{color:var(--accent)}
+header{background:var(--ink);color:#f6f3ec;padding:28px 20px 22px;position:relative;overflow:hidden}
+header::after{content:"Aa Ñ ß 字 あ 가 ع Ж ç λ";position:absolute;right:-10px;bottom:-24px;font-family:Fraunces,serif;font-size:84px;opacity:.07;white-space:nowrap;letter-spacing:6px}
+.wrap{max-width:1180px;margin:0 auto}
+.top{display:flex;justify-content:space-between;align-items:flex-start;gap:16px;flex-wrap:wrap}
+h1{font-family:Fraunces,"Noto Sans KR",serif;font-weight:800;font-size:clamp(26px,4vw,40px);margin:0;letter-spacing:-.5px}
+h1 small{display:block;font-family:"Noto Sans KR";font-weight:500;font-size:15px;opacity:.75;margin-top:6px;letter-spacing:0}
+.langbtns{display:flex;gap:6px}
+.langbtns button{background:transparent;border:1px solid rgba(246,243,236,.35);color:#f6f3ec;border-radius:999px;padding:6px 12px;cursor:pointer;font:inherit;font-size:13px}
+.langbtns button.on{background:#f6f3ec;color:var(--ink)}
+.stats{display:flex;gap:22px;margin-top:18px;flex-wrap:wrap;font-size:13px;opacity:.85}
+.stats b{font-family:Fraunces,serif;font-size:24px;display:block;color:#f2c48d}
+nav.tabs{position:sticky;top:0;z-index:5;background:var(--paper);border-bottom:1px solid var(--line)}
+nav.tabs .wrap{display:flex;gap:4px;padding:0 12px;overflow-x:auto}
+nav.tabs button{border:0;background:none;padding:14px 14px 12px;font:inherit;font-weight:500;color:var(--muted);cursor:pointer;border-bottom:3px solid transparent;white-space:nowrap}
+nav.tabs button.on{color:var(--ink);border-bottom-color:var(--accent2)}
+main{padding:20px 14px 60px}
+.controls{display:flex;gap:10px;flex-wrap:wrap;align-items:center;margin-bottom:12px}
+.controls input,.controls select{font:inherit;padding:10px 12px;border:1px solid var(--line);border-radius:10px;background:var(--paper);min-width:0}
+.controls input{flex:1 1 260px}
+.chips{display:flex;gap:6px;flex-wrap:wrap;margin:6px 0 18px}
+.chip{border:1px solid var(--line);background:var(--chip);border-radius:999px;padding:5px 11px;font-size:13px;cursor:pointer;user-select:none}
+.chip.on{background:var(--accent);color:#fff;border-color:var(--accent)}
+.chip .n{opacity:.6;font-size:11px;margin-left:3px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(270px,1fr));gap:14px}
+.card{background:var(--paper);border:1px solid var(--line);border-radius:14px;padding:16px;box-shadow:var(--shadow);cursor:pointer;transition:transform .15s,border-color .15s;display:flex;flex-direction:column;gap:6px}
+.card:hover{transform:translateY(-2px);border-color:var(--accent)}
+.card .lg{font-size:12px;color:var(--accent);font-weight:700;letter-spacing:.3px}
+.card h3{margin:0;font-family:Fraunces,"Noto Sans KR",serif;font-size:21px}
+.card .full{font-size:12.5px;color:var(--muted)}
+.card .meta{display:flex;flex-wrap:wrap;gap:6px;margin-top:4px}
+.tag{font-size:11.5px;background:var(--chip);border-radius:6px;padding:2px 7px}
+.tag.fee{background:#fbeedd;color:#8a4b0f}
+.card .nt{font-size:13px;margin-top:auto;padding-top:6px;border-top:1px dashed var(--line)}
+.empty{padding:40px;text-align:center;color:var(--muted)}
+/* modal */
+.ov{position:fixed;inset:0;background:rgba(20,24,33,.55);display:none;align-items:flex-start;justify-content:center;padding:4vh 12px;z-index:20;overflow-y:auto}
+.ov.show{display:flex}
+.modal{background:var(--paper);border-radius:18px;max-width:860px;width:100%;padding:24px;position:relative;box-shadow:0 20px 60px rgba(0,0,0,.3)}
+.modal .x{position:absolute;right:14px;top:12px;border:0;background:var(--chip);width:34px;height:34px;border-radius:50%;font-size:18px;cursor:pointer}
+.modal h2{font-family:Fraunces,"Noto Sans KR",serif;margin:2px 0 0;font-size:30px}
+.modal .sub{color:var(--muted);font-size:14px}
+.sec{margin-top:20px}
+.sec h4{margin:0 0 8px;font-size:14px;letter-spacing:.4px;color:var(--accent2);text-transform:uppercase}
+table{width:100%;border-collapse:collapse;font-size:14px}
+th,td{text-align:left;padding:8px 8px;border-bottom:1px solid var(--line);vertical-align:top}
+th{font-size:12px;color:var(--muted);font-weight:500}
+.links{display:flex;flex-direction:column;gap:6px}
+.lk{display:flex;gap:10px;align-items:center;padding:9px 12px;border:1px solid var(--line);border-radius:10px;text-decoration:none;color:var(--ink);background:#fff}
+.lk:hover{border-color:var(--accent)}
+.lk .cc{font-size:11px;font-weight:700;background:var(--ink);color:#fff;border-radius:5px;padding:2px 6px;min-width:62px;text-align:center}
+.lk .cc.g{background:var(--accent)}
+.lk .ar{margin-left:auto;color:var(--muted)}
+.kv{display:grid;grid-template-columns:120px 1fr;gap:6px 14px;font-size:14px}
+.kv dt{color:var(--muted)}
+.kv dd{margin:0}
+/* country view */
+.cbox{background:var(--paper);border:1px solid var(--line);border-radius:14px;padding:16px;margin-bottom:12px}
+.cbox h3{margin:0 0 8px;font-size:17px}
+.cbox .row{display:flex;flex-wrap:wrap;gap:6px}
+/* table view */
+.tblwrap{overflow-x:auto;background:var(--paper);border:1px solid var(--line);border-radius:14px}
+.tblwrap table td,.tblwrap table th{white-space:nowrap}
+.tblwrap tbody tr{cursor:pointer}
+.tblwrap tbody tr:hover{background:#faf6ec}
+/* cefr */
+.cefr{display:grid;grid-template-columns:110px repeat(6,1fr);gap:4px;font-size:12.5px;background:var(--paper);border:1px solid var(--line);border-radius:14px;padding:14px;overflow-x:auto;min-width:0}
+.cefr .h{font-weight:700;text-align:center;padding:6px;background:var(--ink);color:#fff;border-radius:6px}
+.cefr .nm{font-weight:700;padding:6px 4px;cursor:pointer}
+.cefr .c{padding:6px;border-radius:6px;background:var(--chip);text-align:center;min-height:30px}
+.cefr .c.e{background:transparent}
+.note{font-size:12.5px;color:var(--muted);margin-top:14px}
+footer{text-align:center;font-size:12px;color:var(--muted);padding:30px 14px;border-top:1px solid var(--line)}
+@media (max-width:600px){.kv{grid-template-columns:90px 1fr}.modal{padding:18px}}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <div class="top">
+      <h1 id="t-title">세계 외국어 시험 총정리<small id="t-sub">레벨 · 응시료 · 국가별 응시장소 · 공식 모의고사를 한곳에</small></h1>
+      <div class="langbtns">
+        <button data-l="ko" class="on">한국어</button><button data-l="en">English</button><button data-l="es">Español</button>
+      </div>
+    </div>
+    <div class="stats">
+      <div><b id="s-ex">0</b><span id="t-s1">시험</span></div>
+      <div><b id="s-lg">0</b><span id="t-s2">언어</span></div>
+      <div><b id="s-lk">0</b><span id="t-s3">공식 링크</span></div>
+    </div>
+  </div>
+</header>
+<nav class="tabs"><div class="wrap">
+  <button data-v="cards" class="on" id="t-v1">시험 찾기</button>
+  <button data-v="country" id="t-v2">국가별 응시처</button>
+  <button data-v="table" id="t-v3">한눈에 비교</button>
+  <button data-v="cefr" id="t-v4">CEFR 레벨 대조</button>
+</div></nav>
+<main><div class="wrap" id="view"></div></main>
+<div class="ov" id="ov"><div class="modal" id="modal"></div></div>
+<footer class="wrap" id="t-foot"></footer>
+
+<script src="data.js"></script>
+<script>
+const I18N={
+ ko:{title:"세계 외국어 시험 총정리",sub:"레벨 · 응시료 · 국가별 응시장소 · 공식 모의고사를 한곳에",s1:"시험",s2:"언어",s3:"공식 링크",v1:"시험 찾기",v2:"국가별 응시처",v3:"한눈에 비교",v4:"CEFR 레벨 대조",
+  search:"시험 이름, 언어, 기관으로 검색…",all:"전체",allc:"전체 국가",levels:"레벨·점수",fee:"응시료",reg:"응시장소 · 접수 사이트",prac:"공식 모의고사 · 샘플",org:"주관",official:"공식 사이트",validity:"유효기간",cefr:"CEFR",country:"국가",amount:"금액",memo:"비고",
+  global:"전 세계",none:"조건에 맞는 시험이 없습니다.",pickc:"국가를 고르면 그 나라에서 응시·접수할 수 있는 시험과 링크를 보여 줍니다. (해당 국가 전용 페이지가 없으면 전 세계 시험장 찾기 링크로 안내)",
+  globalOnly:"전 세계 시험장 찾기로 확인",exam:"시험",lang:"언어",kfee:"한국 응시료",cefrNote:"각 시험이 공식적으로 밝힌 CEFR 대응 레벨입니다. 점수형 시험은 공식 대응표 기준의 대략적 범위입니다.",
+  foot:"응시료·일정은 2026년 11월 기준 조사 값이며 수시로 바뀝니다. 접수 전 반드시 각 공식 사이트에서 확인하세요. · 다인에듀 후안샘",langs:"응시 가능 언어",open:"열기"},
+ en:{title:"World Language Exams",sub:"Levels · fees · test centres by country · official practice tests",s1:"exams",s2:"languages",s3:"official links",v1:"Find exams",v2:"By country",v3:"Compare",v4:"CEFR map",
+  search:"Search by exam, language, organisation…",all:"All",allc:"All countries",levels:"Levels / scores",fee:"Fees",reg:"Test centres & registration",prac:"Official practice / samples",org:"Organiser",official:"Official site",validity:"Validity",cefr:"CEFR",country:"Country",amount:"Amount",memo:"Note",
+  global:"Worldwide",none:"No exams match.",pickc:"Choose a country to see exams you can register for there (or the worldwide centre finder when no country page exists).",
+  globalOnly:"See worldwide centre finder",exam:"Exam",lang:"Language",kfee:"Fee in Korea",cefrNote:"CEFR levels as officially stated by each exam. For score-based tests the range follows the official mapping.",
+  foot:"Fees and dates collected Nov 2026 and subject to change — always check the official site before registering. · Dain Edu",langs:"Languages",open:"Open"},
+ es:{title:"Exámenes de idiomas del mundo",sub:"Niveles · tasas · centros por país · modelos de examen oficiales",s1:"exámenes",s2:"idiomas",s3:"enlaces oficiales",v1:"Buscar exámenes",v2:"Por país",v3:"Comparar",v4:"Mapa MCER",
+  search:"Buscar examen, idioma, organismo…",all:"Todos",allc:"Todos los países",levels:"Niveles / puntuación",fee:"Tasas",reg:"Centros e inscripción",prac:"Modelos y muestras oficiales",org:"Organismo",official:"Web oficial",validity:"Validez",cefr:"MCER",country:"País",amount:"Importe",memo:"Nota",
+  global:"Todo el mundo",none:"No hay exámenes.",pickc:"Elige un país para ver los exámenes y enlaces de inscripción allí (o el buscador mundial de centros).",
+  globalOnly:"Ver buscador mundial de centros",exam:"Examen",lang:"Idioma",kfee:"Tasa en Corea",cefrNote:"Niveles MCER según cada examen. En exámenes por puntuación, rango según la tabla oficial.",
+  foot:"Tasas y fechas recopiladas en nov. 2026; pueden cambiar. Consulta siempre la web oficial. · Dain Edu",langs:"Idiomas",open:"Abrir"}
+};
+const LANGS={en:["영어","English","Inglés"],es:["스페인어","Spanish","Español"],fr:["프랑스어","French","Francés"],it:["이탈리아어","Italian","Italiano"],pt:["포르투갈어","Portuguese","Portugués"],ca:["카탈루냐어","Catalan","Catalán"],
+ de:["독일어","German","Alemán"],nl:["네덜란드어","Dutch","Neerlandés"],ru:["러시아어","Russian","Ruso"],pl:["폴란드어","Polish","Polaco"],cs:["체코어","Czech","Checo"],hu:["헝가리어","Hungarian","Húngaro"],el:["그리스어","Greek","Griego"],tr:["튀르키예어","Turkish","Turco"],
+ sv:["스웨덴어","Swedish","Sueco"],no:["노르웨이어","Norwegian","Noruego"],da:["덴마크어","Danish","Danés"],fi:["핀란드어","Finnish","Finés"],uk:["우크라이나어","Ukrainian","Ucraniano"],
+ ja:["일본어","Japanese","Japonés"],zh:["중국어","Chinese","Chino"],ko:["한국어","Korean","Coreano"],vi:["베트남어","Vietnamese","Vietnamita"],th:["태국어","Thai","Tailandés"],id:["인도네시아어","Indonesian","Indonesio"],
+ ar:["아랍어","Arabic","Árabe"],he:["히브리어","Hebrew","Hebreo"],hi:["힌디어","Hindi","Hindi"],multi:["다언어 시험","Multi-language","Multilingüe"]};
+const LORDER=["en","es","fr","de","ja","zh","ko","ru","it","pt","ar","vi","th","id","tr","nl","pl","cs","hu","el","sv","no","da","fi","uk","he","hi","ca","multi"];
+let L="ko",V="cards",fLang="all",fQ="",fC="KR";
+const li=()=>({ko:0,en:1,es:2})[L];
+const t=k=>I18N[L][k]||I18N.en[k]||k;
+const lname=c=>(LANGS[c]||[c,c,c])[li()];
+const dn=(()=>{const m={};return c=>{if(c==="GLOBAL")return t("global");const k=L+c;if(!m[k]){try{m[k]=new Intl.DisplayNames([L],{type:"region"}).of(c)}catch(e){m[k]=c}}return m[k]}})();
+const flag=c=>c&&c.length===2&&c!=="EU"?String.fromCodePoint(...[...c.toUpperCase()].map(x=>127397+x.charCodeAt())):"🌐";
+const esc=s=>String(s??"").replace(/[&<>"]/g,m=>({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[m]));
+const note=e=>L==="ko"?(e.note||e.note_en):(e.note_en||e.note);
+const lvl=e=>L==="ko"?(e.levels||e.levels_en):(e.levels_en||e.levels);
+const EX=(window.EXAMS||[]).slice().sort((a,b)=>LORDER.indexOf(a.lang)-LORDER.indexOf(b.lang));
+
+function stats(){
+  document.getElementById("s-ex").textContent=EX.length;
+  document.getElementById("s-lg").textContent=new Set(EX.flatMap(e=>e.lang==="multi"?(e.langs||[]):[e.lang])).size;
+  document.getElementById("s-lk").textContent=EX.reduce((n,e)=>n+1+(e.register||[]).length+(e.practice||[]).length,0);
+}
+function applyI18n(){
+  document.documentElement.lang=L;
+  document.getElementById("t-title").firstChild.textContent=t("title");
+  document.getElementById("t-sub").textContent=t("sub");
+  ["s1","s2","s3","v1","v2","v3","v4"].forEach(k=>document.getElementById("t-"+k).textContent=t(k));
+  document.getElementById("t-foot").textContent=t("foot");
+}
+function matches(e){
+  if(fLang!=="all"){ if(e.lang!==fLang && !(e.langs||[]).includes(fLang)) return false; }
+  if(fQ){const h=[e.name,e.full,e.org,lname(e.lang),...(e.langs||[]).map(lname),e.note,e.note_en].join(" ").toLowerCase(); if(!h.includes(fQ.toLowerCase())) return false;}
+  return true;
+}
+function controls(withCountry){
+  const counts={};EX.forEach(e=>{counts[e.lang]=(counts[e.lang]||0)+1});
+  const langs=LORDER.filter(c=>counts[c]);
+  let h=`<div class="controls"><input id="q" placeholder="${t("search")}" value="${esc(fQ)}">`;
+  if(withCountry){
+    const cs=[...new Set([...EX.flatMap(e=>(e.register||[]).map(r=>r.country)),"KR","JP","CN","TW","VN","TH","ID","PH","IN","AE","SA","TR","IL","RU","DE","FR","ES","IT","PT","GB","IE","NL","PL","CZ","HU","GR","SE","NO","DK","FI","UA","AT","CH","US","CA","MX","AR","CL","CO","PE","BR","AU","NZ","ZA","EG","MA"].filter(c=>c&&c!=="GLOBAL"))].sort((a,b)=>dn(a).localeCompare(dn(b),L));
+    h+=`<select id="cs">${cs.map(c=>`<option value="${c}" ${c===fC?"selected":""}>${flag(c)} ${esc(dn(c))}</option>`).join("")}</select>`;
+  }
+  h+=`</div><div class="chips"><span class="chip ${fLang==="all"?"on":""}" data-lang="all">${t("all")}<span class="n">${EX.length}</span></span>`+
+    langs.map(c=>`<span class="chip ${fLang===c?"on":""}" data-lang="${c}">${esc(lname(c))}<span class="n">${counts[c]}</span></span>`).join("")+`</div>`;
+  return h;
+}
+function feeKR(e){const f=(e.fees||[]).find(x=>x.country==="KR");return f?f.amount:"";}
+function render(){
+  const v=document.getElementById("view");let h="";
+  const list=EX.filter(matches);
+  if(V==="cards"){
+    h=controls(false);
+    h+=list.length?`<div class="grid">${list.map(e=>`<div class="card" data-id="${e.id}">
+      <div class="lg">${esc(lname(e.lang))}${e.langs?` · ${e.langs.length}`:""}</div>
+      <h3>${esc(e.name)}</h3><div class="full">${esc(e.full||"")}</div>
+      <div class="meta"><span class="tag">${esc(lvl(e)||"")}</span>${feeKR(e)?`<span class="tag fee">🇰🇷 ${esc(feeKR(e))}</span>`:""}</div>
+      <div class="nt">${esc(note(e)||"")}</div></div>`).join("")}</div>`:`<div class="empty">${t("none")}</div>`;
+  } else if(V==="country"){
+    h=controls(true)+`<p class="note" style="margin-top:0">${t("pickc")}</p>`;
+    const rows=list.map(e=>{
+      const own=(e.register||[]).filter(r=>r.country===fC), gl=(e.register||[]).filter(r=>r.country==="GLOBAL");
+      const fee=(e.fees||[]).find(f=>f.country===fC);
+      return {e,own,gl,fee};
+    }).sort((a,b)=>(b.own.length>0)-(a.own.length>0));
+    h+=rows.map(({e,own,gl,fee})=>`<div class="cbox"><h3><a href="#" data-id="${e.id}">${esc(e.name)}</a> <span class="tag">${esc(lname(e.lang))}</span> ${fee?`<span class="tag fee">${esc(fee.amount)}</span>`:""}</h3>
+      <div class="links">${own.map(r=>lk(r)).join("")}${own.length?"":gl.map(r=>lk(r)).join("")||`<span class="note">${t("globalOnly")}</span>`}</div></div>`).join("")||`<div class="empty">${t("none")}</div>`;
+  } else if(V==="table"){
+    h=controls(false)+`<div class="tblwrap"><table><thead><tr><th>${t("exam")}</th><th>${t("lang")}</th><th>${t("org")}</th><th>${t("levels")}</th><th>${t("kfee")}</th><th>${t("validity")}</th></tr></thead><tbody>`+
+      list.map(e=>`<tr data-id="${e.id}"><td><b>${esc(e.name)}</b></td><td>${esc(lname(e.lang))}</td><td>${esc(e.org||"")}</td><td>${esc(lvl(e)||"")}</td><td>${esc(feeKR(e)||"–")}</td><td>${esc(e.validity||"–")}</td></tr>`).join("")+`</tbody></table></div>`;
+  } else if(V==="cefr"){
+    h=controls(false);
+    const C=["A1","A2","B1","B2","C1","C2"];
+    const withMap=list.filter(e=>e.cefr_map&&Object.keys(e.cefr_map).length);
+    h+=`<div style="overflow-x:auto"><div class="cefr" style="min-width:760px"><div></div>${C.map(c=>`<div class="h">${c}</div>`).join("")}`+
+      withMap.map(e=>`<div class="nm" data-id="${e.id}">${esc(e.name)}</div>`+C.map(c=>`<div class="c ${e.cefr_map[c]?"":"e"}">${esc(e.cefr_map[c]||"")}</div>`).join("")).join("")+`</div></div><p class="note">${t("cefrNote")}</p>`;
+  }
+  v.innerHTML=h;
+}
+function lk(r){const g=r.country==="GLOBAL";return `<a class="lk" href="${esc(r.url)}" target="_blank" rel="noopener"><span class="cc ${g?"g":""}">${flag(r.country)} ${esc(g?t("global"):r.country)}</span><span>${esc(r.label)}</span><span class="ar">↗</span></a>`;}
+function openExam(id){
+  const e=EX.find(x=>x.id===id);if(!e)return;
+  const regs=(e.register||[]).slice().sort((a,b)=>(a.country==="GLOBAL"?-1:0)-(b.country==="GLOBAL"?-1:0)||(a.country==="KR"?-1:b.country==="KR"?1:0));
+  document.getElementById("modal").innerHTML=`<button class="x" onclick="closeM()">×</button>
+   <div class="lg" style="color:var(--accent);font-weight:700;font-size:13px">${esc(lname(e.lang))}</div>
+   <h2>${esc(e.name)}</h2><div class="sub">${esc(e.full||"")}</div>
+   <div class="sec"><dl class="kv"><dt>${t("org")}</dt><dd>${esc(e.org||"")}</dd>
+    <dt>${t("official")}</dt><dd>${e.official?`<a href="${esc(e.official)}" target="_blank" rel="noopener">${esc(e.official.replace(/^https?:\/\//,"").replace(/\/$/,""))}</a>`:"–"}</dd>
+    <dt>${t("levels")}</dt><dd>${esc(lvl(e)||"")}</dd>
+    ${e.cefr?`<dt>${t("cefr")}</dt><dd>${esc(e.cefr)}</dd>`:""}
+    ${e.langs?`<dt>${t("langs")}</dt><dd>${e.langs.map(lname).map(esc).join(", ")}</dd>`:""}
+    ${e.validity?`<dt>${t("validity")}</dt><dd>${esc(e.validity)}</dd>`:""}</dl>
+    <p style="margin:12px 0 0">${esc(note(e)||"")}</p></div>
+   ${(e.fees||[]).length?`<div class="sec"><h4>💳 ${t("fee")}</h4><table><thead><tr><th>${t("country")}</th><th>${t("amount")}</th><th>${t("memo")}</th></tr></thead><tbody>${e.fees.map(f=>`<tr><td>${flag(f.country)} ${esc(dn(f.country))}</td><td><b>${esc(f.amount)}</b></td><td>${esc(f.note||"")}</td></tr>`).join("")}</tbody></table></div>`:""}
+   ${regs.length?`<div class="sec"><h4>📍 ${t("reg")}</h4><div class="links">${regs.map(lk).join("")}</div></div>`:""}
+   ${(e.practice||[]).length?`<div class="sec"><h4>📝 ${t("prac")}</h4><div class="links">${e.practice.map(p=>`<a class="lk" href="${esc(p.url)}" target="_blank" rel="noopener"><span class="cc g">PDF/WEB</span><span>${esc(p.label)}</span><span class="ar">↗</span></a>`).join("")}</div></div>`:""}`;
+  document.getElementById("ov").classList.add("show");
+  history.replaceState(null,"","#"+id);
+}
+function closeM(){document.getElementById("ov").classList.remove("show");history.replaceState(null,"",location.pathname+location.search);}
+document.getElementById("ov").addEventListener("click",ev=>{if(ev.target.id==="ov")closeM()});
+document.addEventListener("keydown",ev=>{if(ev.key==="Escape")closeM()});
+document.addEventListener("click",ev=>{
+  const c=ev.target.closest("[data-lang]");if(c){fLang=c.dataset.lang;render();return;}
+  const d=ev.target.closest("[data-id]");if(d){ev.preventDefault();openExam(d.dataset.id);return;}
+  const tb=ev.target.closest("nav.tabs button");if(tb){V=tb.dataset.v;document.querySelectorAll("nav.tabs button").forEach(b=>b.classList.toggle("on",b===tb));render();return;}
+  const lb=ev.target.closest(".langbtns button");if(lb){L=lb.dataset.l;try{localStorage.setItem("wl_lang",L)}catch(e){};document.querySelectorAll(".langbtns button").forEach(b=>b.classList.toggle("on",b===lb));applyI18n();render();}
+});
+document.addEventListener("input",ev=>{if(ev.target.id==="q"){fQ=ev.target.value;const p=ev.target.selectionStart;render();const q=document.getElementById("q");q.focus();q.setSelectionRange(p,p);}});
+document.addEventListener("change",ev=>{if(ev.target.id==="cs"){fC=ev.target.value;render();}});
+try{const s=localStorage.getItem("wl_lang");if(s&&I18N[s]){L=s;document.querySelectorAll(".langbtns button").forEach(b=>b.classList.toggle("on",b.dataset.l===L));}}catch(e){}
+stats();applyI18n();render();
+if(location.hash.length>1)openExam(location.hash.slice(1));
+</script>
+</body>
+</html>
