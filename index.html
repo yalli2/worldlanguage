@@ -328,6 +328,10 @@ select.cselect{width:100%}
 .bt{display:inline-block;font-size:11px;font-weight:800;padding:1px 7px;margin-right:6px;vertical-align:1px;color:#fff}
 .bt.t_official{background:var(--red)}.bt.t_kr{background:var(--navy)}.bt.t_intl{background:var(--lime-d)}
 footer .links{flex-direction:row}
+.tile{overflow:hidden;isolation:isolate}.tile>*:not(.fbg){position:relative;z-index:1}.tile .arrow{position:absolute}
+.fbg{position:absolute;inset:0;z-index:0;display:grid;opacity:.3;pointer-events:none;transition:opacity .2s}.fbg.n1{grid-template-columns:1fr}.fbg.n2{grid-template-columns:1fr 1fr}.fbg.n6{grid-template-columns:repeat(3,1fr);grid-template-rows:1fr 1fr}
+.fbg img{width:100%;height:100%;object-fit:cover;display:block}.tile:hover .fbg{opacity:.18}
+
 .ctrl{gap:7px}.ctrl .dot{width:10px;height:10px;border-radius:50%;border:0;background:#d6d6d6;transition:background .25s,width .25s}.ctrl .dot:hover{background:#a8a8a8}.ctrl .dot.on{background:var(--red);width:22px;border-radius:999px}.ctrl .ic{border-radius:50%;width:30px;height:30px;color:var(--ink2);transition:.2s}.ctrl .ic:hover{border-color:var(--ink);background:var(--ink);color:#fff}
 .rm h4 a:hover{color:var(--red)}.rm h4 span{white-space:nowrap;margin-left:8px}
 @media (max-width:860px){.cefrbar{grid-template-columns:repeat(3,1fr)}}

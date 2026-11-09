@@ -6,10 +6,10 @@ const LORDER=["en","es","fr","de","ja","zh","ko","ru","it","pt","ar","vi","th","
 const EX=(window.EXAMS||[]).slice().sort((a,b)=>LORDER.indexOf(a.lang)-LORDER.indexOf(b.lang));
 const FEATURED=["toeic","ielts","toefl","jlpt","hsk","dele","delf-dalf","goethe","topik"].filter(id=>EX.some(e=>e.id===id));
 const GROUPS=[
- {k:"en",gl:"Aa",codes:["en"]},{k:"es",gl:"Ñ",codes:["es"]},{k:"fr",gl:"Ç",codes:["fr"]},{k:"de",gl:"ß",codes:["de"]},
- {k:"ja",gl:"あ",codes:["ja"]},{k:"zh",gl:"字",codes:["zh"]},
- {k:"eu",gl:"Ж",codes:["it","pt","ca","nl","ru","pl","cs","hu","el","tr","sv","no","da","fi","uk"],name:{ko:"기타 유럽 언어",en:"Other European",es:"Otras europeas",ja:"その他の欧州言語",zh:"其他欧洲语言",fr:"Autres langues européennes"}},
- {k:"as",gl:"한",codes:["ko","vi","th","id","ar","he","multi"],name:{ko:"아시아·중동·다언어",en:"Asia, Middle East & multi",es:"Asia, Oriente Medio y multi",ja:"アジア・中東・多言語",zh:"亚洲·中东·多语种",fr:"Asie, Moyen-Orient, multi"}}];
+ {k:"en",gl:"Aa",codes:["en"],fl:["gb","us"]},{k:"es",gl:"Ñ",codes:["es"],fl:["es"]},{k:"fr",gl:"Ç",codes:["fr"],fl:["fr"]},{k:"de",gl:"ß",codes:["de"],fl:["de"]},
+ {k:"ja",gl:"あ",codes:["ja"],fl:["jp"]},{k:"zh",gl:"字",codes:["zh"],fl:["cn"]},
+ {k:"eu",gl:"Ж",codes:["it","pt","ca","nl","ru","pl","cs","hu","el","tr","sv","no","da","fi","uk"],fl:["it","pt","nl","ru","pl","se"],name:{ko:"기타 유럽 언어",en:"Other European",es:"Otras europeas",ja:"その他の欧州言語",zh:"其他欧洲语言",fr:"Autres langues européennes"}},
+ {k:"as",gl:"한",codes:["ko","vi","th","id","ar","he","multi"],fl:["kr","vn","th","id","sa","il"],name:{ko:"아시아·중동·다언어",en:"Asia, Middle East & multi",es:"Asia, Oriente Medio y multi",ja:"アジア・中東・多言語",zh:"亚洲·中东·多语种",fr:"Asie, Moyen-Orient, multi"}}];
 const S={tab:'home',langs:new Set(),sys:'all',kr:false,q:'',sort:'lang',country:'KR',slide:0};
 const esc=s=>String(s??'').replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]));
 function t(k,v){let s=(I18N[L]&&I18N[L][k])??I18N.en[k]??k;if(v)for(const x in v)s=s.replace('{'+x+'}',v[x]);return s}
@@ -60,7 +60,7 @@ function homeView(){
    ${topL.map(c=>`<li data-lang="${c}"><div class="t"><span class="dd">${langCount[c]}</span>${esc(lname(c))}</div><div class="d">${EX.filter(e=>examLangs(e).includes(c)).slice(0,4).map(e=>esc(e.name)).join(' · ')}</div></li>`).join('')}</ul></div></section>
   <section class="blk"><div class="inner"><div class="blk-h"><div><h2>${t('tiles_t')}</h2><p>${t('tiles_sub')}</p></div><a class="more" data-go="find">${t('all_ex')} →</a></div>
    <div class="tiles">${GROUPS.map((g,i)=>{const n=EX.filter(e=>examLangs(e).some(c=>g.codes.includes(c))).length;const nm=g.name?(g.name[L]||g.name.en):lname(g.k);
-     return `<div class="tile ${i===3?'red':i===6?'dark':''}" data-group="${g.k}"><span class="arrow">↗</span><span class="gl">${g.gl}</span><h3>${esc(nm)}</h3><span class="tc">${t('n_ex',{n})}</span></div>`}).join('')}</div></div></section>
+     return `<div class="tile" data-group="${g.k}"><div class="fbg n${g.fl.length}" aria-hidden="true">${g.fl.map(c=>`<img src="flags/${c}.svg" alt="" loading="lazy">`).join('')}</div><span class="arrow">↗</span><span class="gl">${g.gl}</span><h3>${esc(nm)}</h3><span class="tc">${t('n_ex',{n})}</span></div>`}).join('')}</div></div></section>
   <section class="blk" style="padding-top:0"><div class="inner"><div class="blk-h"><div><h2>${t('sys_t')}</h2><p>${t('sys_sub')}</p></div></div>
    <div class="split"><div class="lvl" data-sys="cefr"><div class="big">A1<br>C2</div><div><h3>${t('sys_cefr')}</h3><p>${t('sys_cefr_d')}</p><p class="n">${t('n_ex',{n:nC})}</p></div></div>
    <div class="lvl h" data-sys="score"><div class="big">990</div><div><h3>${t('sys_score')}</h3><p>${t('sys_score_d')}</p><p class="n">${t('n_ex',{n:EX.length-nC})}</p></div></div></div></div></section>

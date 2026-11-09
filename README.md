@@ -15,3 +15,5 @@
 응시료·일정은 수시로 바뀝니다. 접수 전 반드시 각 공식 사이트에서 확인하세요.
 
 © 다인에듀 (후안샘)
+
+국기 이미지: [flag-icons](https://github.com/lipis/flag-icons) (MIT License, `flags/LICENSE`)
