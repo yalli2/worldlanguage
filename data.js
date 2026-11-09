@@ -61,7 +61,33 @@ window.EXAMS = [
   ],
   "note": "국내 취업·승진·졸업 기준으로 가장 널리 쓰이는 비즈니스 영어 시험",
   "note_en": "The most widely used workplace English test for jobs and promotion in Korea",
-  "validity": "2년"
+  "validity": "2년",
+  "books": [
+   {
+    "title": "ETS 토익 정기시험 기출문제집 1000 Vol. 5 RC",
+    "by": "YBM (ETS)",
+    "type": "공식",
+    "desc": "ETS 공식 기출 10회분(2025.12 최신권), LC도 별권. 실전 감각 마무리용, 전 레벨",
+    "url": "https://www.yes24.com/product/goods/168776448",
+    "url_is_search": false
+   },
+   {
+    "title": "해커스 토익 RC Reading 기본서",
+    "by": "해커스어학연구소",
+    "type": "국내 베스트셀러",
+    "desc": "유형·문법 기본서의 대표작(LC 기본서 별권). 600~800점대 입문~중급",
+    "url": "https://www.yes24.com/product/goods/116020437",
+    "url_is_search": false
+   },
+   {
+    "title": "해커스 토익 기출 VOCA",
+    "by": "해커스어학연구소",
+    "type": "국내 베스트셀러",
+    "desc": "토익 어휘서 판매 1위권. 기출 어휘 암기용, 전 레벨",
+    "url": "https://www.yes24.com/product/goods/67362730",
+    "url_is_search": false
+   }
+  ]
  },
  {
   "id": "toeic-sw",
@@ -115,7 +141,33 @@ window.EXAMS = [
   ],
   "note": "말하기·쓰기 능력 평가, 국내 기업 채용에서 토익스피킹 등급(IM·IH·AL) 요구가 많음",
   "note_en": "Speaking/writing test; Korean employers often require TOEIC Speaking levels",
-  "validity": "2년"
+  "validity": "2년",
+  "books": [
+   {
+    "title": "10일 만에 끝내는 해커스 토익스피킹(토스)",
+    "by": "해커스어학연구소",
+    "type": "국내 베스트셀러",
+    "desc": "단기 완성형 토스 기본서(2025.12판). IM~IH 목표",
+    "url": "https://www.yes24.com/product/goods/109736038",
+    "url_is_search": false
+   },
+   {
+    "title": "제이크쌤의 28시간에 끝내는 토익스피킹 All in One",
+    "by": "시원스쿨닷컴",
+    "type": "국내 베스트셀러",
+    "desc": "템플릿 중심 올인원 교재(2026.06판). 초급~중급 단기 대비",
+    "url": "https://www.yes24.com/product/goods/29083333",
+    "url_is_search": false
+   },
+   {
+    "title": "ETS 토익스피킹(토스) 기출문제집 최신개정 12회",
+    "by": "YBM (ETS)",
+    "type": "공식",
+    "desc": "ETS 공식 기출 실전 12회분. 실전 연습·마무리용",
+    "url": "https://www.yes24.com/product/goods/109860197",
+    "url_is_search": false
+   }
+  ]
  },
  {
   "id": "toefl",
@@ -173,6 +225,32 @@ window.EXAMS = [
   "note": "미국 등 해외 대학·대학원 유학용 대표 시험, 2026년 1월 개편(1–6 밴드)",
   "note_en": "Leading test for study abroad; redesigned January 2026 with a 1–6 band scale",
   "validity": "2년",
+  "books": [
+   {
+    "title": "The Official Guide to the TOEFL iBT Test, Eighth Edition",
+    "by": "ETS / McGraw-Hill",
+    "type": "공식",
+    "desc": "2026년 1월 개편 신형 TOEFL 반영 ETS 공식 가이드(8판, 2026). 전 레벨",
+    "url": "https://www.yes24.com/product/goods/169376774",
+    "url_is_search": false
+   },
+   {
+    "title": "해커스 Updated 토플 리딩",
+    "by": "해커스어학연구소",
+    "type": "국내 베스트셀러",
+    "desc": "2026 NEW TOEFL 대응 영역별 기본서(리스닝·스피킹·라이팅 별권). 중급~고급",
+    "url": "https://www.yes24.com/product/goods/162366854",
+    "url_is_search": false
+   },
+   {
+    "title": "Updated TOEFL All-in-One",
+    "by": "시원스쿨닷컴",
+    "type": "국내 베스트셀러",
+    "desc": "ETS 공식 파트너 표기 신형 토플 4영역 올인원(2025.12). 입문~중급",
+    "url": "https://www.yes24.com/product/goods/166377832",
+    "url_is_search": false
+   }
+  ],
   "cefr_map": {
    "A1": "1",
    "A2": "2",
@@ -248,6 +326,32 @@ window.EXAMS = [
   "note": "영국·호주·캐나다 유학·이민용 대표 시험. One Skill Retake로 컴퓨터 시험 후 60일 내 한 영역만 재응시 가능",
   "note_en": "Main test for UK/Australia/Canada study and migration; One Skill Retake lets you resit one skill within 60 days",
   "validity": "2년 (권장)",
+  "books": [
+   {
+    "title": "Cambridge IELTS 20 Academic: Authentic Practice Tests",
+    "by": "Cambridge University Press",
+    "type": "공식",
+    "desc": "최신 공식 기출 4회분(2025.8). General Training판 별도. 실전 연습 필수",
+    "url": "https://www.yes24.com/product/goods/151978171",
+    "url_is_search": false
+   },
+   {
+    "title": "해커스 아이엘츠 리딩 (Hackers IELTS Reading)",
+    "by": "해커스어학연구소",
+    "type": "국내 베스트셀러",
+    "desc": "국내 대표 아이엘츠 영역별 기본서(리스닝·라이팅·스피킹 별권). Band 6~7 목표",
+    "url": "https://www.yes24.com/product/goods/41049065",
+    "url_is_search": false
+   },
+   {
+    "title": "The Official Cambridge Guide to IELTS",
+    "by": "Cambridge University Press",
+    "type": "해외 대표",
+    "desc": "Academic/General 공통 공식 종합 가이드(전략+연습문제)",
+    "url": "https://www.amazon.com/s?k=The+Official+Cambridge+Guide+to+IELTS",
+    "url_is_search": true
+   }
+  ],
   "cefr_map": {
    "C1": "≈7.0+",
    "C2": "8.5+"
@@ -302,6 +406,24 @@ window.EXAMS = [
   "note": "레벨별 자격증 시험, 합격 시 평생 유효한 증명서 (기관별 인정 기간은 상이)",
   "note_en": "Level-based qualifications; certificates do not expire (recognising bodies set their own limits)",
   "validity": "평생 (만료 없음)",
+  "books": [
+   {
+    "title": "B2 First Trainer 3 with Answers with Digital Pack",
+    "by": "Cambridge University Press",
+    "type": "공식",
+    "desc": "B2 First 공식 트레이너(가이드+실전 6회). 동일 시리즈로 A2 Key·B1 Preliminary·C1 Advanced도 있음",
+    "url": "https://shop.cambridge.org/english/product/2700249576",
+    "url_is_search": false
+   },
+   {
+    "title": "B2 First 6 Practice Tests Student's Book with Answers",
+    "by": "Cambridge University Press",
+    "type": "공식",
+    "desc": "최신 형식 공식 모의고사 6회분. 시험 직전 실전 연습용",
+    "url": "https://www.amazon.com/s?k=B2+First+6+Practice+Tests+Student%27s+Book+with+Answers",
+    "url_is_search": true
+   }
+  ],
   "cefr_map": {
    "A2": "Key",
    "B1": "Preliminary",
@@ -352,6 +474,24 @@ window.EXAMS = [
   "note": "컴퓨터 기반 AI 채점, 결과가 빨라 호주·영국 유학·이민에 많이 사용",
   "note_en": "Computer-based, AI-scored test popular for Australia/UK study and migration",
   "validity": "2년",
+  "books": [
+   {
+    "title": "The Official Guide to PTE Academic",
+    "by": "시원스쿨LAB (Pearson 공식 가이드)",
+    "type": "공식",
+    "desc": "PTE Academic 공식 가이드 국내 출간판(2026.07). 유형 이해·실전 연습",
+    "url": "https://www.yes24.com/product/goods/192981948",
+    "url_is_search": false
+   },
+   {
+    "title": "PTE Academic Practice Tests Plus",
+    "by": "Pearson",
+    "type": "해외 대표",
+    "desc": "Pearson 공식 실전 모의고사 시리즈. 중급~고급 실전 대비",
+    "url": "https://www.amazon.com/s?k=PTE+Academic+Practice+Tests+Plus",
+    "url_is_search": true
+   }
+  ],
   "cefr_map": {
    "B2": "50–75",
    "C1": "59–82",
@@ -391,6 +531,32 @@ window.EXAMS = [
   "note": "집에서 약 1시간 온라인 응시, 이틀 내 결과 — 미국 대학 등에서 인정",
   "note_en": "About 1 hour online from home, results in ~2 days; accepted by many universities",
   "validity": "2년",
+  "books": [
+   {
+    "title": "Duolingo English Test Official Guide for Test Takers",
+    "by": "Duolingo",
+    "type": "공식",
+    "desc": "듀오링고 공식 무료 수험 가이드(PDF). 문항 유형·채점 기준 확인용",
+    "url": "https://englishtest-static.duolingo.com/media/resources/test-taker-guide/DET%20Guide%20EN.pdf",
+    "url_is_search": false
+   },
+   {
+    "title": "시원스쿨 듀오링고 Duolingo English Test (DET) 한 권으로 끝내는 DET 기본서 [2025년 개정판]",
+    "by": "시원스쿨닷컴",
+    "type": "국내 베스트셀러",
+    "desc": "국내 대표 DET 기본서(2025.08 개정). 100~130점 목표",
+    "url": "https://www.yes24.com/product/goods/110582227",
+    "url_is_search": false
+   },
+   {
+    "title": "듀준사 MC누리쌤의 듀오링고 테스트 고득점 비법서 [개정판]",
+    "by": "MC누리쌤",
+    "type": "국내 베스트셀러",
+    "desc": "고득점 전략 중심 개정판(2026.07). 120점 이상 목표",
+    "url": "https://www.yes24.com/product/goods/192127474",
+    "url_is_search": false
+   }
+  ],
   "cefr_map": {
    "A1": "10–55",
    "A2": "10–55",
@@ -441,7 +607,33 @@ window.EXAMS = [
   ],
   "note": "서울대 개발 국내 영어시험, 대학원 입학·졸업·공무원 시험 영어 대체에 활용",
   "note_en": "Korean English test by Seoul National University, used for grad school and civil-service exams",
-  "validity": "2년"
+  "validity": "2년",
+  "books": [
+   {
+    "title": "2026 TEPS 서울대 텝스관리위원회 공식 기출문제집 5회분",
+    "by": "서울대 텝스관리위원회 / 시원스쿨닷컴",
+    "type": "공식",
+    "desc": "출제기관 공식 기출 5회분(2026.05). 실전 마무리용",
+    "url": "https://www.yes24.com/product/goods/189365176",
+    "url_is_search": false
+   },
+   {
+    "title": "해커스 텝스 TEPS Reading",
+    "by": "해커스어학연구소",
+    "type": "국내 베스트셀러",
+    "desc": "국내 대표 텝스 영역 기본서(Listening 별권). 400점 이상 목표",
+    "url": "https://www.yes24.com/product/goods/60509597",
+    "url_is_search": false
+   },
+   {
+    "title": "해커스 텝스 TEPS 기출 보카",
+    "by": "해커스어학연구소",
+    "type": "국내 베스트셀러",
+    "desc": "텝스 기출 어휘 정리. 전 레벨 어휘 대비",
+    "url": "https://www.yes24.com/product/goods/65060738",
+    "url_is_search": false
+   }
+  ]
  },
  {
   "id": "opic",
@@ -495,6 +687,32 @@ window.EXAMS = [
   "note": "컴퓨터 기반 말하기 시험. 한국 기업 채용·승진에 널리 사용",
   "note_en": "Computer-based speaking test widely used by Korean employers.",
   "validity": "제출처 기준 확인",
+  "books": [
+   {
+    "title": "10일 만에 끝내는 해커스 OPIc 오픽 Advanced 공략",
+    "by": "해커스",
+    "type": "국내 베스트셀러",
+    "desc": "오픽 판매 1위권. IH~AL 목표(START판은 IM 목표)",
+    "url": "https://www.yes24.com/product/goods/119153435",
+    "url_is_search": false
+   },
+   {
+    "title": "오픽노잼",
+    "by": "PAGODA Books",
+    "type": "국내 베스트셀러",
+    "desc": "유튜버 오픽노잼의 대표 교재(주제편 별권). IM~AL",
+    "url": "https://www.yes24.com/product/goods/122600737",
+    "url_is_search": false
+   },
+   {
+    "title": "만능문장으로 끝내는 시계토끼 OPIc IH·AL 목표",
+    "by": "시계토끼",
+    "type": "국내 베스트셀러",
+    "desc": "만능문장 중심 신간(2026.09). IH·AL 목표",
+    "url": "https://www.yes24.com/product/goods/197222383",
+    "url_is_search": false
+   }
+  ],
   "cefr_map": {
    "A1": "NH",
    "A2": "IL",
@@ -534,7 +752,33 @@ window.EXAMS = [
   "practice": [],
   "note": "공무원·군 간부·국가자격시험 영어 대체에 많이 쓰이는 시험 (Level 2 위주)",
   "note_en": "Widely used in Korea to substitute English for civil-service and licensing exams",
-  "validity": "2년"
+  "validity": "2년",
+  "books": [
+   {
+    "title": "2026 지텔프 공식 기출문제집 7회분 Level 2",
+    "by": "G-TELP KOREA / 챔프스터디",
+    "type": "공식",
+    "desc": "공식 기출 7회분(2026.02). Level 2 실전 대비 필수",
+    "url": "https://www.yes24.com/product/goods/176096598",
+    "url_is_search": false
+   },
+   {
+    "title": "2주 만에 끝내는 해커스 지텔프(G-TELP) 문법 Level 2 [개정판]",
+    "by": "해커스어학연구소",
+    "type": "국내 베스트셀러",
+    "desc": "지텔프 문법 단기 완성 대표서. 공무원·자격시험용 32~65점 목표",
+    "url": "https://www.yes24.com/product/goods/103346850",
+    "url_is_search": false
+   },
+   {
+    "title": "출제 공식 29개로 끝내는 정재현 지텔프 LEVEL 2",
+    "by": "영단기(에스티유니타스)",
+    "type": "국내 베스트셀러",
+    "desc": "출제 공식 중심 Level 2 단기 공략서. 32~65점 목표",
+    "url": "https://www.yes24.com/product/goods/122459552",
+    "url_is_search": false
+   }
+  ]
  },
  {
   "id": "languagecert",
@@ -577,7 +821,17 @@ window.EXAMS = [
   ],
   "note": "영국 UKVI·호주 비자 및 해외 대학 입학용 영어 시험, 온라인 재택 응시 가능",
   "note_en": "English test for UK/Australian visas and university entry; online remote option",
-  "validity": ""
+  "validity": "",
+  "books": [
+   {
+    "title": "LanguageCert Academic Practice Material (Book of Practice Papers · Qualification Handbook)",
+    "by": "LanguageCert",
+    "type": "공식",
+    "desc": "공식 무료 연습시험지 3회분·문제집·핸드북·쓰기 샘플답안 제공. 국내 시판 교재는 사실상 없음",
+    "url": "https://languagecert.org/en/preparation/practice-material/languagecert-academic",
+    "url_is_search": false
+   }
+  ]
  },
  {
   "id": "trinity-ise",
@@ -621,6 +875,24 @@ window.EXAMS = [
   "note": "읽기·쓰기 + 말하기·듣기 2모듈 통합 평가, 영국 비자(SELT) 등에 활용",
   "note_en": "Two-module integrated skills exam; used for UK visas among others",
   "validity": "평생 (만료 없음)",
+  "books": [
+   {
+    "title": "Trinity ISE II Practice Tests Reading & Writing",
+    "by": "Trinity College London",
+    "type": "공식",
+    "desc": "Trinity 공식 ISE II(B2) 읽기·쓰기 모의고사. 레벨별(Foundation~III) 시리즈",
+    "url": "https://shop.trinitycollege.com/products/trinity-ise-ii-practice-tests-reading-and-writing",
+    "url_is_search": false
+   },
+   {
+    "title": "Preparing for Trinity ISE II (B2) Student's Book",
+    "by": "Betsis·Haughton·Mamas (GlobalELT)",
+    "type": "해외 대표",
+    "desc": "4기능 통합 ISE II 대비 교재, 실전 연습 포함. B2",
+    "url": "https://shop.trinitycollege.com/products/preparing-for-trinity-ise-ii-b2-students-book-cd",
+    "url_is_search": false
+   }
+  ],
   "cefr_map": {
    "A1": "ISE A1",
    "A2": "Foundation",
@@ -678,6 +950,32 @@ window.EXAMS = [
   "note": "스페인 교육부 공식 학위, 평생 유효. 2027년 시험 접수는 2026-11-18부터",
   "note_en": "Official Spanish Ministry diploma, valid for life. 2027 registration opens 18 Nov 2026",
   "validity": "평생",
+  "books": [
+   {
+    "title": "Preparación al DELE B1 (edición 2020)",
+    "by": "Edelsa (Mónica García-Viñó Sánchez)",
+    "type": "해외 대표",
+    "desc": "세르반테스 협회 시험 형식을 그대로 반영한 Edelsa 대표 시리즈. 레벨별(A1~C2) 모의고사+해설, 2020 개정판.",
+    "url": "https://www.polifemo.com/libros/preparacion-al-dele-b1-libro-del-alumno-edicion-2020/253866/",
+    "url_is_search": false
+   },
+   {
+    "title": "Las claves del nuevo DELE B2",
+    "by": "Difusión (M.ª José Martínez, Pilar Soria, Daniel Sánchez)",
+    "type": "해외 대표",
+    "desc": "과제 유형별 전략과 실전 모의고사를 담은 Difusión 시리즈. A1~C1, 중급 이상 수험자에게 인기.",
+    "url": "https://klettwl.com/store/product/las-claves-del-nuevo-dele-b2-textbook",
+    "url_is_search": false
+   },
+   {
+    "title": "한 권으로 끝내는 DELE B1",
+    "by": "시원스쿨닷컴 (BONA 박선애·시원스쿨 스페인어연구소)",
+    "type": "국내 베스트셀러",
+    "desc": "한국어 해설로 DELE B1 영역별 전략과 실전 문제를 정리한 국내 대표 수험서(2022). A2·B2 등 시리즈도 있음.",
+    "url": "https://www.yes24.com/Product/Goods/113742816",
+    "url_is_search": false
+   }
+  ],
   "cefr_map": {
    "A1": "A1",
    "A2": "A2",
@@ -728,7 +1026,25 @@ window.EXAMS = [
   ],
   "note": "합격/불합격 없이 점수·레벨 부여, 컴퓨터 시험, 5년 유효",
   "note_en": "Computer-based, no pass/fail – always awards a score/level; valid 5 years",
-  "validity": "5년"
+  "validity": "5년",
+  "books": [
+   {
+    "title": "Manual oficial para la preparación del SIELE (edición para candidatos)",
+    "by": "Universidad de Salamanca / Edinumen",
+    "type": "공식",
+    "desc": "SIELE 공동 운영기관(살라망카대) 공식 교재(2022). 4개 영역 과제 유형 설명과 연습, 디지털 확장 포함.",
+    "url": "https://www.polifemo.com/libros/manual-oficial-para-la-preparacion-del-siele-con-extension-digital-edicion-para-candidatos/268573/",
+    "url_is_search": false
+   },
+   {
+    "title": "Preparación al SIELE (A1-C1)",
+    "by": "Edelsa (A. Baraldi 외)",
+    "type": "해외 대표",
+    "desc": "A1~C1 전 레벨을 한 권으로 다루는 SIELE 모의고사·전략서(2021).",
+    "url": "https://www.polifemo.com/libros/preparacion-al-siele/253770/",
+    "url_is_search": false
+   }
+  ]
  },
  {
   "id": "delf-dalf",
@@ -783,6 +1099,40 @@ window.EXAMS = [
   "note": "프랑스 교육부 공식 학위, 평생 유효, 레벨별 독립 시험",
   "note_en": "French Ministry of Education diplomas, valid for life; each level is a separate exam",
   "validity": "평생",
+  "books": [
+   {
+    "title": "Le DELF 100% réussite (A1~B2, nouvelles épreuves)",
+    "by": "Didier",
+    "type": "해외 대표",
+    "desc": "2020년 개정 DELF 신유형 반영. 영역별 전략+실전 모의고사, 디지털 앱(didierfle.app) 제공. 가장 널리 쓰이는 DELF 대비서.",
+    "url": "https://didierfle.com/categorie-produit/collections/le-delf-100-reussite/",
+    "url_is_search": false
+   },
+   {
+    "title": "ABC DELF (A1~B2)",
+    "by": "CLE International",
+    "type": "해외 대표",
+    "desc": "200여 개 연습문제와 모의시험, 해설·음원 포함. 독학용으로 인기 있는 CLE 대표 시리즈.",
+    "url": "https://www.cle-international.com/recherche/im_field_univers_univers/certifications-540/cecr/705",
+    "url_is_search": false
+   },
+   {
+    "title": "Le DALF C1/C2 100% réussite",
+    "by": "Didier",
+    "type": "해외 대표",
+    "desc": "DALF C1·C2 영역별 방법론과 모의고사. 고급 단계 수험자용.",
+    "url": "https://www.galaxus.ch/en/s18/product/le-dalf-c1c2-100-reussite-french-collectif-2024-textbooks-42910274",
+    "url_is_search": false
+   },
+   {
+    "title": "NEW DELF(델프) A2",
+    "by": "넥서스 (김선미·원승재·오솔잎)",
+    "type": "국내 베스트셀러",
+    "desc": "2025년 10월 출간 최신 국내 DELF A2 수험서. 한국어 해설로 신유형 대비(동양북스 'DELF B1 프랑스어능력시험'도 대표서).",
+    "url": "https://www.yes24.com/product/goods/154196836",
+    "url_is_search": false
+   }
+  ],
   "cefr_map": {
    "A1": "DELF A1",
    "A2": "DELF A2",
@@ -825,6 +1175,32 @@ window.EXAMS = [
   "note": "이민·국적·대학 입학용 성적 증명, 결과 2년 유효",
   "note_en": "Score report for immigration, citizenship and university admission; valid 2 years",
   "validity": "2년",
+  "books": [
+   {
+    "title": "Le guide officiel d'entraînement au TCF",
+    "by": "France Éducation international / Didier",
+    "type": "공식",
+    "desc": "시행기관이 감수한 공식 연습서. 문항 유형 설명과 모의 문항 수록.",
+    "url": "https://www.amazon.com/s?k=Le%20guide%20officiel%20d%27entra%C3%AEnement%20au%20TCF",
+    "url_is_search": true
+   },
+   {
+    "title": "Réussir le TCF – Exercices et activités d'entraînement",
+    "by": "Éditions de l'École Polytechnique",
+    "type": "해외 대표",
+    "desc": "TCF 필수/선택 영역 연습문제와 MP3 음원. 독학 수험자에게 널리 추천.",
+    "url": "https://intertaalid.nl/en/products/reussir-le-tcf-exercices-et-activites-dentrainement-livre-avec-cd",
+    "url_is_search": false
+   },
+   {
+    "title": "ABC TCF",
+    "by": "CLE International",
+    "type": "해외 대표",
+    "desc": "CLE ABC 시리즈의 TCF판. 실전형 문항과 해설(캐나다/퀘벡용 판도 있음).",
+    "url": "https://www.amazon.com/s?k=ABC%20TCF%20CLE%20International",
+    "url_is_search": true
+   }
+  ],
   "cefr_map": {
    "A1": "100–199",
    "A2": "200–299",
@@ -881,7 +1257,25 @@ window.EXAMS = [
   ],
   "note": "캐나다·퀘벡 이민, 프랑스 국적용 모듈형 시험, 결과 2년 유효 (한국 시행 여부 미확인)",
   "note_en": "Modular test for Canada/Québec immigration and French citizenship; results valid 2 years",
-  "validity": "2년"
+  "validity": "2년",
+  "books": [
+   {
+    "title": "TEF – 250 activités (Le nouvel entraînez-vous)",
+    "by": "CLE International",
+    "type": "해외 대표",
+    "desc": "CCI Paris 시험 형식에 맞춘 250개 연습활동. 듣기·읽기·어휘구조 중심.",
+    "url": "https://www.cle-international.com/adolescents/tef-250-activites-livre-9782090333480.html",
+    "url_is_search": false
+   },
+   {
+    "title": "ABC TEF",
+    "by": "CLE International",
+    "type": "해외 대표",
+    "desc": "TEF(캐나다 이민용 포함) 전 영역 모의문항과 해설·음원.",
+    "url": "https://export.side.fr/en/9782090398083-abc-tef",
+    "url_is_search": false
+   }
+  ]
  },
  {
   "id": "cils",
@@ -931,6 +1325,24 @@ window.EXAMS = [
   "note": "이탈리아 대학 입학·국적 신청에 인정, 현재 유효기간 없음",
   "note_en": "Recognised for Italian university admission and citizenship; currently no expiry",
   "validity": "평생",
+  "books": [
+   {
+    "title": "Percorso CILS Cittadinanza (B1)",
+    "by": "Emanuela Paciotti, Paolo La Gamma (Ornimi)",
+    "type": "해외 대표",
+    "desc": "이탈리아 시민권용 CILS B1 Cittadinanza 실전 모의고사+음원.",
+    "url": "https://italiano-bello.com/en/shop/percorso-cils-cittadinanza-b1/",
+    "url_is_search": false
+   },
+   {
+    "title": "Percorso CILS B2 (DUE)",
+    "by": "Simone Scafi (Ornimi)",
+    "type": "해외 대표",
+    "desc": "CILS DUE-B2 모의고사 모음. 대학 입학 수준 대비용.",
+    "url": "https://www.abebooks.fr/9786188458666/Percorso-CILS-B2-Simone-Scafi-6188458668/plp",
+    "url_is_search": false
+   }
+  ],
   "cefr_map": {
    "A1": "A1",
    "A2": "A2",
@@ -983,6 +1395,24 @@ window.EXAMS = [
   "note": "ALTE Q마크 인증, CELI 3(B2) 이상 이탈리아 대학 입학에 인정",
   "note_en": "ALTE Q-Mark; CELI 3 (B2)+ recognised for Italian university admission",
   "validity": "",
+  "books": [
+   {
+    "title": "Preparazione al CELI 2 / 3 / 4",
+    "by": "Edilingua (A. Moni, M.A. Rapacciuolo)",
+    "type": "해외 대표",
+    "desc": "페루자 외국인대학 CELI B1·B2·C1 대비 표준 교재. 실전 모의고사+음원.",
+    "url": "https://www.edilingua.it/en/61-preparazione-al-celi",
+    "url_is_search": false
+   },
+   {
+    "title": "Come prepararsi all'esame del CELI 3",
+    "by": "Hoepli (Marida Muscolino)",
+    "type": "해외 대표",
+    "desc": "CELI 3(B2) 영역별 전략과 연습문제.",
+    "url": "https://www.amazon.com/s?k=Come%20prepararsi%20all%27esame%20del%20CELI%203",
+    "url_is_search": true
+   }
+  ],
   "cefr_map": {
    "A1": "Impatto",
    "A2": "CELI 1",
@@ -1029,6 +1459,16 @@ window.EXAMS = [
   "note": "단테 알리기에리 협회 주관, 이탈리아 외무부 인정 자격",
   "note_en": "Run by the Società Dante Alighieri; recognised by the Italian Foreign Ministry",
   "validity": "",
+  "books": [
+   {
+    "title": "Quaderni del PLIDA (A1~C2, nuovo esame)",
+    "by": "Società Dante Alighieri / Alma Edizioni",
+    "type": "공식",
+    "desc": "PLIDA 주관 단테 알리기에리 협회의 공식 모의고사 시리즈. 신유형 반영, 음원 온라인 제공.",
+    "url": "https://italiano-bello.com/en/shop/quaderni-del-plida-b2-nuovo-esame/",
+    "url_is_search": false
+   }
+  ],
   "cefr_map": {
    "A2": "A2",
    "B1": "B1",
@@ -1075,6 +1515,24 @@ window.EXAMS = [
   "note": "로마 트레 대학 주관 이탈리아어 인증, 레벨별 독립 시험",
   "note_en": "Roma Tre University Italian certification; separate exam per level",
   "validity": "",
+  "books": [
+   {
+    "title": "Certit B1 – Manuale di preparazione all'esame",
+    "by": "Hoepli (F. Di Salvo, V. Fiasco 외)",
+    "type": "공식",
+    "desc": "로마 트레 대학 CERT.IT 개발진이 쓴 B1 대비서(2025). 음원 포함.",
+    "url": "https://hoeplieditore.it/hoepli-catalogo/articolo/certit-b1-francesca-di-salvo/9788836018871/3169",
+    "url_is_search": false
+   },
+   {
+    "title": "Il manuale Certit. Guida alla certificazione dell'italiano L2",
+    "by": "Roma TrePress",
+    "type": "공식",
+    "desc": "CERT.IT 시험 구조·평가 기준을 설명하는 대학 공식 가이드.",
+    "url": "https://romatrepress.uniroma3.it/?p=35558",
+    "url_is_search": false
+   }
+  ],
   "cefr_map": {
    "A1": "A1",
    "A2": "A2",
@@ -1130,6 +1588,24 @@ window.EXAMS = [
   "note": "포르투갈 공식 포르투갈어 인증, CIPLE(A2)는 포르투갈 국적·영주권 신청에 활용",
   "note_en": "Portugal's official PFL certification; CIPLE (A2) used for Portuguese citizenship/residence",
   "validity": "",
+  "books": [
+   {
+    "title": "Em Cheio! Preparação para os Exames de Português A1/A2",
+    "by": "Lidel",
+    "type": "해외 대표",
+    "desc": "CAPLE ACESSO·CIPLE 대비. 포르투갈 국적·체류용 A2 시험 준비에 적합.",
+    "url": "https://www.lidel.pt/en/catalogue/european-portuguese-as-a-foreign-language/evaluation-certification/em-cheio-preparacao-para-os-exames-de-portugues-a1-a2/",
+    "url_is_search": false
+   },
+   {
+    "title": "Exames de Português B2 – Preparação e Modelos",
+    "by": "Lidel (José Lino Pascoal, Teresa Brandão Oliveira)",
+    "type": "해외 대표",
+    "desc": "DEPLE(B2) 모델 시험과 해설. Lidel 'Exames de Português' 시리즈.",
+    "url": "https://www.lidel.pt/en/catalogue/european-portuguese-as-a-foreign-language/evaluation-certification/exames-de-portugues-b2-2/",
+    "url_is_search": false
+   }
+  ],
   "cefr_map": {
    "A1": "ACESSO",
    "A2": "CIPLE",
@@ -1180,7 +1656,17 @@ window.EXAMS = [
   ],
   "note": "브라질 정부 유일 공식 포르투갈어 인증, 연 2회 시행, 유효기간은 제출기관이 결정",
   "note_en": "Brazil's only official Portuguese proficiency certificate; held twice a year; validity set by receiving institution",
-  "validity": "기관별 상이"
+  "validity": "기관별 상이",
+  "books": [
+   {
+    "title": "Acervo Celpe-Bras (역대 기출문제·채점표 아카이브)",
+    "by": "UFRGS / INEP",
+    "type": "공식",
+    "desc": "시중 수험서가 거의 없는 대신, UFRGS가 운영하는 공식 기출 아카이브(과제·영상·채점 기준)로 대비하는 것이 표준.",
+    "url": "https://www.ufrgs.br/acervocelpebras/",
+    "url_is_search": false
+   }
+  ]
  },
  {
   "id": "catalan",
@@ -1229,6 +1715,16 @@ window.EXAMS = [
   "note": "카탈루냐 지역 외 해외 응시자용, 2026년 한국 시험장 없음(가장 가까운 곳 일본)",
   "note_en": "For learners outside Catalan-speaking areas; no venue in Korea in 2026 (nearest: Japan)",
   "validity": "",
+  "books": [
+   {
+    "title": "Certificats de català – models d'examen",
+    "by": "Institut Ramon Llull",
+    "type": "공식",
+    "desc": "해외 응시자용 IRL 인증시험 안내와 레벨별 모델 시험(PDF). 별도 상업 수험서 시장은 거의 없음.",
+    "url": "https://www.llull.cat/english/aprendre_catala/certificats_intro.cfm",
+    "url_is_search": false
+   }
+  ],
   "cefr_map": {
    "A2": "Bàsic",
    "B1": "Elemental",
@@ -1279,6 +1775,32 @@ window.EXAMS = [
   "note": "서울 주한독일문화원에서 연중 시행, B1 이상은 모듈별 응시 가능. 독일 내 응시료는 시험장별로 다름",
   "note_en": "Held year-round at Goethe-Institut Seoul; modular from B1. Fees in Germany vary by institute.",
   "validity": "평생",
+  "books": [
+   {
+    "title": "Fit fürs Goethe-Zertifikat (A1·A2·B2) / Fit fürs Zertifikat B1",
+    "by": "Hueber",
+    "type": "해외 대표",
+    "desc": "괴테 시험 영역별 전략+모의고사. 온라인 음원·인터랙티브판 제공. 가장 대중적인 괴테 대비서.",
+    "url": "https://shop.hueber.de/en/reihen-und-lehrwerke/fit-fur-erwachsene.html",
+    "url_is_search": false
+   },
+   {
+    "title": "Mit Erfolg zum Goethe-Zertifikat B2 – Übungsbuch",
+    "by": "Klett",
+    "type": "해외 대표",
+    "desc": "괴테 B2(및 C1판) 실전 모의고사 위주 연습서. Klett 'Mit Erfolg zum…' 시리즈.",
+    "url": "https://www.klett-sprachen.de/mit-erfolg-zum-goethe-zertifikat-b2-uebungsbuch/t-1/9783126751544",
+    "url_is_search": false
+   },
+   {
+    "title": "일단 합격하고 오겠습니다 독일어능력시험 A1",
+    "by": "동양북스 (정은실)",
+    "type": "국내 베스트셀러",
+    "desc": "한국어 해설 괴테 A1 대비 대표서. A2·B1 및 실전모의고사판 시리즈 있음.",
+    "url": "https://www.yes24.com/Product/goods/68834645",
+    "url_is_search": false
+   }
+  ],
   "cefr_map": {
    "A1": "A1",
    "A2": "A2",
@@ -1335,6 +1857,24 @@ window.EXAMS = [
   "note": "독일 대학 입학용 시험. 한국은 주한독일문화원에서 시행(한국 응시료는 공식 페이지 미기재), TDN 4 전 영역이면 대부분 학과 입학 가능",
   "note_en": "German university admission test; offered at Goethe-Institut Seoul (KRW fee not published online). TDN 4 in all parts admits to almost all programmes.",
   "validity": "평생(무기한, 대학별 기준 확인)",
+  "books": [
+   {
+    "title": "Mit Erfolg zum digitalen TestDaF",
+    "by": "Klett (M. Lode-Gerke 외)",
+    "type": "해외 대표",
+    "desc": "2020년 이후 디지털 TestDaF 신유형 반영 연습서. 4개 영역 전략+모의고사.",
+    "url": "https://www.klett-international.com/en/mit-erfolg-zum-digitalen-testdaf/t-4903/9783126768276",
+    "url_is_search": false
+   },
+   {
+    "title": "Modellprüfung digitaler TestDaF",
+    "by": "Klett / g.a.s.t.",
+    "type": "공식",
+    "desc": "TestDaF-Institut 형식의 공식 모의시험 자료.",
+    "url": "https://www.klett-international.com/en/modellpruefung-digitaler-testdaf/t-0/NP00810000190",
+    "url_is_search": false
+   }
+  ],
   "cefr_map": {
    "B2": "TDN 3",
    "C1": "TDN 4 · 5"
@@ -1371,6 +1911,24 @@ window.EXAMS = [
   "note": "독일 이민·직업·대학(C1 Hochschule)용으로 널리 인정. 응시료는 시험센터별로 다르며 한국 시험센터는 확인되지 않음",
   "note_en": "Widely used for German immigration, work and university (C1 Hochschule). Fees set by each centre; no Korean centre confirmed.",
   "validity": "평생(기관별 기준 확인)",
+  "books": [
+   {
+    "title": "Mit Erfolg zum Zertifikat Deutsch / telc Deutsch B1",
+    "by": "Klett",
+    "type": "해외 대표",
+    "desc": "telc B1 실전 모의고사와 전략. 이민·체류 수험자에게 많이 쓰임.",
+    "url": "https://www.klett-sprachen.de/mit-erfolg-zum-zertifikat-deutsch-telc-deutsch-b1/t-1/9783126768016",
+    "url_is_search": false
+   },
+   {
+    "title": "Prüfungstraining DaF B1 – Zertifikat Deutsch / telc Deutsch B1",
+    "by": "Cornelsen (Dieter Maenner)",
+    "type": "해외 대표",
+    "desc": "telc B1 모의시험 다수와 해설·음원. B2판도 있음.",
+    "url": "https://www.kaufland.de/product/4750281/",
+    "url_is_search": false
+   }
+  ],
   "cefr_map": {
    "A1": "A1",
    "A2": "A2",
@@ -1416,6 +1974,24 @@ window.EXAMS = [
   "note": "오스트리아 공인 독일어 시험으로 독일·스위스에서도 인정. 응시료는 시험센터별 상이, 한국 시험센터는 확인되지 않음",
   "note_en": "Austrian German diploma, recognised in DE/CH too. Fees set per centre; no Korean centre confirmed.",
   "validity": "평생",
+  "books": [
+   {
+    "title": "ÖSD Zertifikat B1 Übungsmaterialien (Modellsätze)",
+    "by": "ÖSD",
+    "type": "공식",
+    "desc": "ÖSD가 무료 공개하는 공식 모의시험 세트(PDF). 각 레벨별 제공.",
+    "url": "https://osd.at/wp-content/uploads/2026/09/ZB1-Uebungsmaterialien-Band-1_WEB.pdf",
+    "url_is_search": false
+   },
+   {
+    "title": "Prüfungstraining DaF B1 – Goethe-/ÖSD-Zertifikat B1 (Neue Ausgabe)",
+    "by": "Cornelsen (R. Dittrich, D. Maenner)",
+    "type": "해외 대표",
+    "desc": "괴테·ÖSD 공동 B1 시험 대비 연습서, 해답·음원 포함.",
+    "url": "https://www.galaxus.ch/en/s18/product/cornelsen-pruefungstraining-daf-b1-goethe-oesd-zertifikat-b1-neue-ausgabe-uebungsbuch-mit-loesungen--49017052",
+    "url_is_search": false
+   }
+  ],
   "cefr_map": {
    "A1": "A1",
    "A2": "A2",
@@ -1440,7 +2016,25 @@ window.EXAMS = [
   "practice": [],
   "note": "독일 현지 대학이 자체 시행하는 입학용 시험(한국 시행 없음). 응시료·일정은 대학별로 다름",
   "note_en": "University-run admission exam held only at German universities (not in Korea); fees/dates vary by university.",
-  "validity": "대학별 규정"
+  "validity": "대학별 규정",
+  "books": [
+   {
+    "title": "Mit Erfolg zur DSH – Übungsbuch / Testbuch",
+    "by": "Klett",
+    "type": "해외 대표",
+    "desc": "독일 대학 입학용 DSH 대비 표준 교재. 학술 텍스트 독해·강의 듣기·문법 연습.",
+    "url": "https://www.klett-sprachen.de/t-1/9783126768252",
+    "url_is_search": false
+   },
+   {
+    "title": "Fit für die DSH – Übungsbuch",
+    "by": "Hueber (H.-J. Heringer, H. Bisle-Müller)",
+    "type": "해외 대표",
+    "desc": "DSH 영역별 연습과 전략. 대학별 시험 차이를 감안한 범용 대비서.",
+    "url": "https://www.galaxus.de/en/s12/product/fit-fuer-die-dsh-uebungsbuch-german-hans-juergen-heringer-hansjoerg-bisle-mueller-2018-textbooks-7562729",
+    "url_is_search": false
+   }
+  ]
  },
  {
   "id": "cnavt",
@@ -1474,6 +2068,16 @@ window.EXAMS = [
   "note": "해외 학습자용 네덜란드어 시험, 한국은 한국외대에서 시행. 연 1회(11월), 응시료는 국가·기관별로 다름(등록 시스템에서 확인)",
   "note_en": "Dutch exam for learners abroad; in Korea at HUFS. Once a year (November); fee varies by country/centre.",
   "validity": "평생",
+  "books": [
+   {
+    "title": "CNaVT 공식 예시 시험(voorbeeldexamens)",
+    "by": "CNaVT (KU Leuven)",
+    "type": "공식",
+    "desc": "상업 수험서가 거의 없어 공식 사이트의 프로필별 예시 시험으로 대비하는 것이 일반적.",
+    "url": "https://cnavt.org/",
+    "url_is_search": false
+   }
+  ],
   "cefr_map": {
    "A2": "A2",
    "B1": "B1",
@@ -1514,6 +2118,24 @@ window.EXAMS = [
   "note": "네덜란드 거주·대학 입학용 국가시험, 네덜란드 내에서 응시(한국 시행 없음)",
   "note_en": "Dutch state exam for living/studying in NL; taken in the Netherlands (not offered in Korea).",
   "validity": "평생",
+  "books": [
+   {
+    "title": "Examentrainers Staatsexamen (Lezen/Luisteren/Schrijven/Spreken op B1·B2)",
+    "by": "Boom uitgevers Amsterdam",
+    "type": "해외 대표",
+    "desc": "Staatsexamen NT2 영역별 실전 트레이너 시리즈(개정판). 프로그램 I·II 모두 대응.",
+    "url": "https://www.nt2.nl/en/examens/staatsexamen-nt2-b1/taal-b1/101-378_Examentrainers-Staatsexamen",
+    "url_is_search": false
+   },
+   {
+    "title": "Het schrijfexamen B1 doe je zo!",
+    "by": "Boom (Maaike Gerritsen)",
+    "type": "해외 대표",
+    "desc": "가장 탈락률 높은 쓰기 영역 집중 대비서(B1).",
+    "url": "https://www.nt2.nl/en/examens/staatsexamen-nt2-b1/taal-b1/100-20034_Het-schrijfexamen-B1-doe-je-zo",
+    "url_is_search": false
+   }
+  ],
   "cefr_map": {
    "B1": "Programma I",
    "B2": "Programma II"
@@ -1556,6 +2178,32 @@ window.EXAMS = [
   "note": "러시아 정부 공인 러시아어 시험. 한국 내 현행 시행기관·응시료는 공식 확인되지 않음(과거 경북대 등 시행) — 응시 전 확인 필요",
   "note_en": "Russian state-certified test; current Korean test centre/fee could not be verified — check before applying.",
   "validity": "제출처 기준 확인",
+  "books": [
+   {
+    "title": "Тренировочные тесты по русскому языку как иностранному (ТРКИ, 레벨별)",
+    "by": "Златоуст (Н.П. Андрюшина 외)",
+    "type": "공식",
+    "desc": "ТРКИ 개발진이 집필한 러시아 공식 모의시험 시리즈. 레벨별(기초~3단계).",
+    "url": "https://www.amazon.com/s?k=%D0%A2%D1%80%D0%B5%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D1%87%D0%BD%D1%8B%D0%B5%20%D1%82%D0%B5%D1%81%D1%82%D1%8B%20%D0%BF%D0%BE%20%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83%20%D1%8F%D0%B7%D1%8B%D0%BA%D1%83%20%D0%BA%D0%B0%D0%BA%20%D0%B8%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%BC%D1%83%20%D0%97%D0%BB%D0%B0%D1%82%D0%BE%D1%83%D1%81%D1%82",
+    "url_is_search": true
+   },
+   {
+    "title": "러시아어 토르플 공식 문제집 1단계",
+    "by": "뿌쉬낀하우스 (Андрюшина 외)",
+    "type": "국내 베스트셀러",
+    "desc": "Златоуст 공식 모의고사의 한국어판(2025). 기초단계판도 있음.",
+    "url": "https://www.yes24.com/product/goods/146502904",
+    "url_is_search": false
+   },
+   {
+    "title": "TORFL 1단계 읽기·듣기",
+    "by": "시원스쿨닷컴 (김애리)",
+    "type": "국내 베스트셀러",
+    "desc": "한국어 해설 TORFL 1단계 영역별 대비서(2023). 쓰기·말하기편 별도.",
+    "url": "https://m.yes24.com/Goods/Detail/116775600",
+    "url_is_search": false
+   }
+  ],
   "cefr_map": {
    "A1": "ТЭУ",
    "A2": "ТБУ",
@@ -1602,6 +2250,32 @@ window.EXAMS = [
   "note": "폴란드 정부 공인 폴란드어 시험. 시험은 인가된 시험센터에 직접 신청하며 한국 시험센터는 확인되지 않음",
   "note_en": "Polish state certificate; apply via authorised centres. No Korean centre confirmed.",
   "validity": "평생",
+  "books": [
+   {
+    "title": "Umiesz? Zdasz! (B2)",
+    "by": "Universitas (Ewa Lipińska)",
+    "type": "해외 대표",
+    "desc": "Certyfikat B2 대비 대표 연습서(2025년판).",
+    "url": "https://www.taniaksiazka.pl/umiesz-zdasz-materialy-przygotowujace-do-p-2305905.html?gap=1",
+    "url_is_search": false
+   },
+   {
+    "title": "Bądź na B1. Trening czyni mistrza",
+    "by": "Universitas (W. Hajduk-Gawron 외)",
+    "type": "해외 대표",
+    "desc": "B1(국적 취득용 최다 응시 레벨) 신규 문제집(2026). 공식 위원회 추천 목록 수록.",
+    "url": "https://www.amazon.com/s?k=B%C4%85d%C5%BA%20na%20B1%20Trening%20czyni%20mistrza",
+    "url_is_search": true
+   },
+   {
+    "title": "Testy na 4 pory roku (B1)",
+    "by": "Start Polish (M. Gołębiowska, M. Grützmacher)",
+    "type": "해외 대표",
+    "desc": "B1 실전 모의고사 세트(2022). 공식 위원회 추천 목록 수록.",
+    "url": "https://www.amazon.com/s?k=Testy%20na%204%20pory%20roku%20B1",
+    "url_is_search": true
+   }
+  ],
   "cefr_map": {
    "A1": "A1",
    "A2": "A2",
@@ -1649,6 +2323,24 @@ window.EXAMS = [
   "note": "카렐대가 주관하는 체코어 공인시험, 해외 시험장 목록에 서울(체코센터)이 포함. 한국 응시료는 공식 미기재",
   "note_en": "Charles University's Czech exam; Seoul (Czech Centre) is on the overseas centre list. KRW fee not published.",
   "validity": "평생",
+  "books": [
+   {
+    "title": "Připravujeme se k certifikované zkoušce z češtiny. Úroveň B2",
+    "by": "Karolinum (R. Kotková 외)",
+    "type": "공식",
+    "desc": "시험 주관기관(카렐대 ÚJOP) 집필진의 CCE-B2 모의시험 3세트+해설·음원.",
+    "url": "https://karolinum.cz/en/books/kotkova-pripravujeme-se-k-certifikovane-zkousce-z-cestiny-uroven-b2-16534",
+    "url_is_search": false
+   },
+   {
+    "title": "CCE-B1 modelová varianta 2026",
+    "by": "ÚJOP UK (Charles University)",
+    "type": "공식",
+    "desc": "카렐대 공식 B1 모델 시험(PDF, 2026). 각 레벨 모델 시험 무료 제공.",
+    "url": "https://arche.is.cuni.cz/images/zkousky/dokumenty/CCE-B1_MODELOV%C3%81_VARIANTA_2026.pdf",
+    "url_is_search": false
+   }
+  ],
   "cefr_map": {
    "A1": "A1",
    "A2": "A2",
@@ -1690,6 +2382,24 @@ window.EXAMS = [
   "note": "유럽 다국어 시험 체계로 헝가리어도 인증. 헝가리 사이트는 국내 시험만 안내, 한국 시행 없음",
   "note_en": "Multilingual European exam incl. Hungarian; Hungarian site covers domestic exams only — not offered in Korea.",
   "validity": "평생",
+  "books": [
+   {
+    "title": "ECL 헝가리어(Magyar mint idegen nyelv) 모의문제",
+    "by": "ECL",
+    "type": "공식",
+    "desc": "ECL 공식 사이트의 헝가리어 시험 안내·예시 과제.",
+    "url": "https://ecl.hu/?p=7662",
+    "url_is_search": false
+   },
+   {
+    "title": "Magyar mint idegen nyelv – Kulcs a sikeres ECL nyelvvizsgához",
+    "by": "Szabó Szilvia (Szabó Nyelviskola)",
+    "type": "해외 대표",
+    "desc": "A2~C1 ECL 헝가리어 대비 연습서(2016, 음원 다운로드). 판매 페이지 설명이 영어판과 혼동되어 있어 확인 권장.",
+    "url": "https://nyelvkonyvbolt.hu/termek/magyar-mint-idegen-nyelv-kulcs-a-sikeres-ecl-nyelvvizsagahoz-letoltheto-hanganyaggal",
+    "url_is_search": false
+   }
+  ],
   "cefr_map": {
    "A2": "A2",
    "B1": "B1",
@@ -1729,6 +2439,16 @@ window.EXAMS = [
   "note": "헝가리 최대 어학시험 기관(ELTE)의 헝가리어 시험, 현 체제는 2027년 2월이 마지막이며 6월부터 Origó MONO로 전환. 한국 시행 없음",
   "note_en": "ELTE's Hungarian exam; current format ends Feb 2027, replaced by Origó MONO from June 2027. Not offered in Korea.",
   "validity": "평생",
+  "books": [
+   {
+    "title": "Origó 헝가리어 시험 예시 과제",
+    "by": "ELTE Origó (eduline 소개)",
+    "type": "공식",
+    "desc": "별도 수험서가 거의 없어 ELTE Origó 공개 예시 과제로 대비. 링크는 예시 과제를 소개한 기사.",
+    "url": "https://eduline.hu/nyelvtanulas/ELTE_Origo_nyelvvizsga_mintafeladatok_C9P74M",
+    "url_is_search": false
+   }
+  ],
   "cefr_map": {
    "A2": "A2",
    "B1": "B1",
@@ -1774,6 +2494,24 @@ window.EXAMS = [
   "note": "그리스 정부 공인 그리스어 시험(주로 5월 시행), 서울 한국정교회가 공식 시험장. 신청은 2–3월 시험장에 직접",
   "note_en": "Official Greek certificate (main session in May); Seoul centre is the Orthodox Metropolis of Korea. Apply to the centre Feb–Mar.",
   "validity": "평생",
+  "books": [
+   {
+    "title": "Εξεταστικά Θέματα Πιστοποίησης Επάρκειας της Ελληνομάθειας",
+    "by": "Κέντρο Ελληνικής Γλώσσας (KEG)",
+    "type": "공식",
+    "desc": "그리스어센터가 공개하는 레벨별 역대 기출문제·음원.",
+    "url": "https://www.greek-language.gr/certification/node/129.html",
+    "url_is_search": false
+   },
+   {
+    "title": "Τεστ Προσομοίωσης Εξετάσεων Α2",
+    "by": "Εύη Νικολαΐδου (Εκδόσεις Γρηγόρη)",
+    "type": "해외 대표",
+    "desc": "KEG 샘플 기반 A2 모의고사 7회분(2025). 그리스 영주권용 A2 대비.",
+    "url": "https://bookpoint.gr/book/1336250",
+    "url_is_search": false
+   }
+  ],
   "cefr_map": {
    "A1": "A1",
    "A2": "A2",
@@ -1826,6 +2564,16 @@ window.EXAMS = [
   "note": "튀르키예 정부 기관 유누스 엠레 연구소의 터키어 시험, 한국(Güney Kore)도 시험국에 포함. 세부 시험장은 응시자 시스템 로그인 후 확인",
   "note_en": "Yunus Emre Institute's Turkish test; South Korea is a listed test country (centre details after login).",
   "validity": "제출처 기준 확인",
+  "books": [
+   {
+    "title": "Yedi İklim Türkçe (A1~C1)",
+    "by": "Yunus Emre Enstitüsü",
+    "type": "공식",
+    "desc": "TYS 시행기관의 공식 터키어 교재. 전용 수험서 시장은 거의 없음.",
+    "url": "https://www.amazon.com/s?k=Yedi%20%C4%B0klim%20T%C3%BCrk%C3%A7e%20Yunus%20Emre",
+    "url_is_search": true
+   }
+  ],
   "cefr_map": {
    "B2": "B2",
    "C1": "C1"
@@ -1853,6 +2601,24 @@ window.EXAMS = [
   "note": "외국어로서의 스웨덴어 시험. 응시료는 시험센터별로 다르며 한국 시험센터는 확인되지 않음",
   "note_en": "Swedish as a foreign language exam; fees vary by centre, no Korean centre confirmed.",
   "validity": "평생",
+  "books": [
+   {
+    "title": "Swedex 시험 안내·예시 문제",
+    "by": "Folkuniversitetet",
+    "type": "공식",
+    "desc": "시행기관의 시험 구성·예시 자료. 상업 수험서는 사실상 없음.",
+    "url": "https://folkuniversitetet.se/in-english/swedex-swedish-examinations/about-swedex",
+    "url_is_search": false
+   },
+   {
+    "title": "Rivstart B1+B2",
+    "by": "Natur & Kultur",
+    "type": "해외 대표",
+    "desc": "스웨덴어 B1~B2 대표 교재. 시험 대비 실력 쌓기용.",
+    "url": "https://www.amazon.com/s?k=Rivstart%20B1%2BB2%20Natur%20Kultur",
+    "url_is_search": true
+   }
+  ],
   "cefr_map": {
    "A2": "A2",
    "B1": "B1",
@@ -1901,7 +2667,25 @@ window.EXAMS = [
   ],
   "note": "스웨덴 대학 입학용 스웨덴어 시험. 해외 시험장 목록에 서울은 없음(아시아는 도쿄·오사카·베이징 등)",
   "note_en": "Swedish test for university admission; Seoul is not on the overseas list (Asia: Tokyo, Osaka, Beijing…).",
-  "validity": "평생"
+  "validity": "평생",
+  "books": [
+   {
+    "title": "Tisus 영역별 안내·예시 과제",
+    "by": "Stockholms universitet",
+    "type": "공식",
+    "desc": "스톡홀름대 공식 Tisus 페이지(읽기·쓰기·말하기 과제 설명과 예시).",
+    "url": "https://su.se/tisus/english",
+    "url_is_search": false
+   },
+   {
+    "title": "Rivstart B1+B2",
+    "by": "Natur & Kultur",
+    "type": "해외 대표",
+    "desc": "Tisus(C1) 진입 전 B2 수준을 다지는 대표 교재.",
+    "url": "https://www.amazon.com/s?k=Rivstart%20B1%2BB2%20Natur%20Kultur",
+    "url_is_search": true
+   }
+  ]
  },
  {
   "id": "norskprove",
@@ -1936,6 +2720,24 @@ window.EXAMS = [
   "note": "노르웨이 영주권·시민권용 국가시험, 노르웨이 국외에서는 응시 불가(한국 시행 없음)",
   "note_en": "Norwegian state test for residence/citizenship; cannot be taken outside Norway.",
   "validity": "평생",
+  "books": [
+   {
+    "title": "Stein på stein (B1)",
+    "by": "Cappelen Damm (E. Ellingsen, K. Mac Donald)",
+    "type": "해외 대표",
+    "desc": "노르웨이 성인 이민자 B1 표준 교재(2021판). Norskprøven B1 대비 기본서.",
+    "url": "https://www.amazon.com/s?k=Stein%20p%C3%A5%20stein%20Cappelen%20Damm",
+    "url_is_search": true
+   },
+   {
+    "title": "På vei (A1~A2)",
+    "by": "Cappelen Damm (E. Ellingsen, K. Mac Donald)",
+    "type": "해외 대표",
+    "desc": "A2 수준(영주권 요건) 대비 표준 교재(2025 개정판).",
+    "url": "https://www.amazon.com/s?k=P%C3%A5%20vei%20Cappelen%20Damm",
+    "url_is_search": true
+   }
+  ],
   "cefr_map": {
    "A1": "A1",
    "A2": "A2",
@@ -1971,6 +2773,7 @@ window.EXAMS = [
   "note": "노르웨이 대학 입학·전문직용 상급 노르웨이어 시험. 일부 해외 시험장 있으나 한국은 확인되지 않음(공식 예시 시험은 유료)",
   "note_en": "Advanced Norwegian test for university/professional use; some sites abroad, Korea not confirmed (official sample test is paid).",
   "validity": "평생",
+  "books": [],
   "cefr_map": {
    "B2": "B2",
    "C1": "C1"
@@ -2008,7 +2811,25 @@ window.EXAMS = [
   "practice": [],
   "note": "덴마크 영주권·시민권 요건용 시험, 덴마크 어학센터에서만 응시(한국 시행 없음)",
   "note_en": "Danish tests for residence/citizenship, held at Danish language centres only.",
-  "validity": "평생"
+  "validity": "평생",
+  "books": [
+   {
+    "title": "Den lille eksamensbog",
+    "by": "Praxis (Hanne Villumsen, Lene Bagger)",
+    "type": "해외 대표",
+    "desc": "Prøve i Dansk 3 대비서(3판, 2015). 영주권·국적 요건 PD3 준비용.",
+    "url": "https://praxis.dk/danskuddannelser/dansk-som-andetsprog/produkt/den-lille-eksamensbog",
+    "url_is_search": false
+   },
+   {
+    "title": "Prøver i dansk – 기출 문제·채점 자료",
+    "by": "Studieskolen",
+    "type": "공식",
+    "desc": "역대 PD3·Studieprøven 시험지와 채점 안내 공개.",
+    "url": "https://www.studieskolen.dk/en/dansk/danskuddannelse-1-2-3/proever",
+    "url_is_search": false
+   }
+  ]
  },
  {
   "id": "studieprove",
@@ -2037,7 +2858,17 @@ window.EXAMS = [
   "practice": [],
   "note": "덴마크 대학 입학용 덴마크어 시험, 덴마크 내 어학센터에서 응시(한국 시행 없음)",
   "note_en": "Danish test for university admission, taken at language centres in Denmark.",
-  "validity": "평생"
+  "validity": "평생",
+  "books": [
+   {
+    "title": "Studieprøven – 기출 문제·채점 자료",
+    "by": "Studieskolen",
+    "type": "공식",
+    "desc": "전용 상업 수험서는 거의 없으며, 공개된 역대 시험지(censorhæfte 등)로 대비.",
+    "url": "https://www.studieskolen.dk/en/dansk/danskuddannelse-1-2-3/proever",
+    "url_is_search": false
+   }
+  ]
  },
  {
   "id": "yki",
@@ -2081,6 +2912,24 @@ window.EXAMS = [
   "note": "핀란드 시민권·취업용 국가 어학시험(핀란드어 외 다언어). 2026년부터 등록 변경 불가, 핀란드 내 시험센터에서 응시",
   "note_en": "Finnish national language certificate (citizenship/work); no rescheduling from 2026; held at test centres in Finland.",
   "validity": "평생",
+  "books": [
+   {
+    "title": "YKIä kohti",
+    "by": "Finn Lectura (L. Heikkinen 외)",
+    "type": "해외 대표",
+    "desc": "YKI 중급(B1~B2, 국적 요건) 4개 영역 연습과 응시 팁. 독학·수업용.",
+    "url": "https://finnlectura.fi/en/products/finnish-as-a-second-language/ykia-kohti/",
+    "url_is_search": false
+   },
+   {
+    "title": "Yle YKI 연습 패키지",
+    "by": "Yle",
+    "type": "공식",
+    "desc": "핀란드 공영방송 Yle의 무료 YKI 연습 자료.",
+    "url": "https://yle.fi/a/74-20085882",
+    "url_is_search": false
+   }
+  ],
   "cefr_map": {
    "A1": "1",
    "A2": "2",
@@ -2128,6 +2977,16 @@ window.EXAMS = [
   "note": "외국인 대상 공식 우크라이나어 시험은 시민권용(B1)뿐이며 우크라이나 내 지정 대학에서 대면 응시만 가능(한국 시행 없음)",
   "note_en": "The only official exam for foreigners is the citizenship test (B1), in person at authorised Ukrainian universities only.",
   "validity": "평생(시민권 신청용)",
+  "books": [
+   {
+    "title": "Як підготуватися до іспиту з державної мови для набуття громадянства України",
+    "by": "Національна комісія зі стандартів державної мови (mova.gov.ua)",
+    "type": "공식",
+    "desc": "시험 주관기관의 공식 준비 가이드(PDF). 상업 수험서 시장은 사실상 없음.",
+    "url": "https://mova.gov.ua/storage/app/sites/19/exam/pidgotuvatisya-do-ispitu-dlya-nabuttya-gromadyanstva-ukraini-1.pdf",
+    "url_is_search": false
+   }
+  ],
   "cefr_map": {
    "B1": "B1"
   }
@@ -2188,6 +3047,32 @@ window.EXAMS = [
   "note": "가장 대표적인 일본어 시험. 합격증은 평생 유효하나 기관별로 최근 성적을 요구하기도 함",
   "note_en": "Most widely recognised Japanese test; certificate has no expiry, though some institutions require recent results.",
   "validity": "평생 (제출처 기준 확인)",
+  "books": [
+   {
+    "title": "JLPT 공식문제집 N1 ver2.0",
+    "by": "일본국제교육지원협회·국제교류기금 / 시원스쿨닷컴",
+    "type": "공식",
+    "desc": "공식 문제집 한국어판(2025.06). N2·N3·N4판도 있음. 실전 확인용",
+    "url": "https://www.yes24.com/product/goods/147124457",
+    "url_is_search": false
+   },
+   {
+    "title": "日本語能力試験 公式問題集 第二集 N1",
+    "by": "国際交流基金・日本国際教育支援協会 (凡人社)",
+    "type": "공식",
+    "desc": "일본 원서 공식 문제집 제2집. N5까지 레벨별",
+    "url": "https://www.yes24.com/product/goods/67722298",
+    "url_is_search": false
+   },
+   {
+    "title": "JLPT(일본어능력시험) 한권으로 끝내기 N1",
+    "by": "다락원",
+    "type": "국내 베스트셀러",
+    "desc": "JLPT 대표 기본서 최신 개정판(2026.03). 레벨별 시리즈",
+    "url": "https://www.yes24.com/product/goods/182437413",
+    "url_is_search": false
+   }
+  ],
   "cefr_map": {
    "A1": "N5",
    "A2": "N4 · N3",
@@ -2243,7 +3128,33 @@ window.EXAMS = [
   ],
   "note": "한국 기업·공공기관 취업에서 많이 쓰는 점수제 일본어 시험(토익형). 성적 유효기간 2년",
   "note_en": "TOEIC-style scored Japanese test widely used for Korean employment; scores valid 2 years.",
-  "validity": "2년"
+  "validity": "2년",
+  "books": [
+   {
+    "title": "JPT 최신기출 1000제 30일 완성 VOL.2",
+    "by": "YBM (JPT 시행사)",
+    "type": "공식",
+    "desc": "시행사 YBM의 기출 기반 1000제. 실전 문제풀이용, 전 레벨",
+    "url": "https://www.yes24.com/product/goods/119878823",
+    "url_is_search": false
+   },
+   {
+    "title": "NEW JPT 한권으로 끝내기 800",
+    "by": "다락원",
+    "type": "국내 베스트셀러",
+    "desc": "목표 점수별(450·600·800) 기본서. 고득점 목표",
+    "url": "https://www.yes24.com/product/goods/118379234",
+    "url_is_search": false
+   },
+   {
+    "title": "JPT 기출 850+ 30일 완성",
+    "by": "YBM",
+    "type": "국내 베스트셀러",
+    "desc": "기출 기반 850점 이상 목표 단기 완성(650+판도 있음)",
+    "url": "https://www.yes24.com/product/goods/125283585",
+    "url_is_search": false
+   }
+  ]
  },
  {
   "id": "eju",
@@ -2297,7 +3208,33 @@ window.EXAMS = [
   ],
   "note": "일본 대학 학부 유학용 입학시험(연 2회 6·11월). 성적 인정 회차는 대학별로 다름",
   "note_en": "Admission test for undergraduate study in Japan (June & November); accepted sessions vary by university.",
-  "validity": "대학별 상이"
+  "validity": "대학별 상이",
+  "books": [
+   {
+    "title": "일본유학시험(EJU) 기출문제집 (2025년 실시)",
+    "by": "일본학생지원기구(JASSO) / 해외교육사업단",
+    "type": "공식",
+    "desc": "JASSO 공식 기출 한국어판(2026.03). 일본어·종합과목·수학·이과 수록",
+    "url": "https://www.yes24.com/product/goods/181387284",
+    "url_is_search": false
+   },
+   {
+    "title": "EJU 실전 모의고사 기술·독해",
+    "by": "시원스쿨닷컴",
+    "type": "국내 베스트셀러",
+    "desc": "일본어 과목 기술·독해 실전 모의고사. 청독해·청해판 별도",
+    "url": "https://www.yes24.com/product/goods/125554424",
+    "url_is_search": false
+   },
+   {
+    "title": "조재면의 EJU 종합과목",
+    "by": "시사일본어사",
+    "type": "국내 베스트셀러",
+    "desc": "문과 종합과목 개념서. 일본 대학 문과 지망생용",
+    "url": "https://www.yes24.com/product/goods/128133630",
+    "url_is_search": false
+   }
+  ]
  },
  {
   "id": "jtest",
@@ -2351,7 +3288,25 @@ window.EXAMS = [
   ],
   "note": "연 6회 안팎 시행되는 실용 일본어 시험. 레벨별 점수로 급수 판정",
   "note_en": "Practical Japanese test held several times a year; level judged by score.",
-  "validity": "규정 없음 (제출처 확인)"
+  "validity": "규정 없음 (제출처 확인)",
+  "books": [
+   {
+    "title": "J.TEST実用日本語検定 問題集 A-Cレベル 2024年",
+    "by": "日本語検定協会 (語文研究社)",
+    "type": "공식",
+    "desc": "공식 기출 문제집(2025.4 발행) 중·상급(A-C)용",
+    "url": "https://www.maruzenjunkudo.co.jp/products/9784931315730",
+    "url_is_search": false
+   },
+   {
+    "title": "J.TEST実用日本語検定 問題集 D-Eレベル 2024年",
+    "by": "日本語検定協会 (語文研究社)",
+    "type": "공식",
+    "desc": "공식 기출 문제집 초·중급(D-E)용",
+    "url": "https://www.maruzenjunkudo.co.jp/products/9784931315747",
+    "url_is_search": false
+   }
+  ]
  },
  {
   "id": "bjt",
@@ -2404,7 +3359,33 @@ window.EXAMS = [
   ],
   "note": "비즈니스 일본어 CBT(피어슨 VUE 상시 응시). 일본 취업비자 가점 등에 활용",
   "note_en": "Business Japanese CBT taken year-round at Pearson VUE centres.",
-  "validity": "규정 없음 (제출처 확인)"
+  "validity": "규정 없음 (제출처 확인)",
+  "books": [
+   {
+    "title": "BJT 비즈니스 일본어 능력 테스트 공식 모의 테스트 & 가이드",
+    "by": "日本漢字能力検定協会 / 해외교육사업단",
+    "type": "공식",
+    "desc": "시행기관 공식 모의 테스트+가이드 한국어판. 시험 구성 파악용",
+    "url": "https://www.yes24.com/product/goods/59059874",
+    "url_is_search": false
+   },
+   {
+    "title": "BJTビジネス日本語能力テスト 模試と対策",
+    "by": "アスク出版",
+    "type": "해외 대표",
+    "desc": "일본 원서 모의고사·대책서 최신판(2026.02)",
+    "url": "https://www.yes24.com/product/goods/180487340",
+    "url_is_search": false
+   },
+   {
+    "title": "BJTビジネス日本語能力テスト 聴解・聴読解 実力養成問題集 第2版",
+    "by": "スリーエーネットワーク",
+    "type": "해외 대표",
+    "desc": "청해·청독해 집중 훈련 문제집(독해판 별권). 중급 이상",
+    "url": "https://www.yes24.com/product/goods/61537364",
+    "url_is_search": false
+   }
+  ]
  },
  {
   "id": "hsk",
@@ -2456,7 +3437,33 @@ window.EXAMS = [
   ],
   "note": "한국은 2026년 12월 13일 시험부터 HSK 3.0으로 전면 개편(기존 HSK는 11월 7일이 마지막). 성적 2년 유효",
   "note_en": "Korea switches to HSK 3.0 from the 13 Dec 2026 test; scores valid 2 years.",
-  "validity": "2년"
+  "validity": "2년",
+  "books": [
+   {
+    "title": "New HSK Course 1 (新HSK教程, Official Textbook for HSK 3.0)",
+    "by": "外语教学与研究出版社(FLTRP) / 中文考试服务网(CTI)",
+    "type": "공식",
+    "desc": "HSK 3.0(9급제) 공식 교재(2025.11 출간), 급별 교재·워크북. 2026.12 전면 시행 대비",
+    "url": "https://www.cypressbooks.com/new-hsk-course-1-official-textbook-for-hsk-3-0-9787521367744.html",
+    "url_is_search": false
+   },
+   {
+    "title": "해커스 중국어 HSK 4급 한 권으로 합격 (기본서+모의고사+단어장)",
+    "by": "해커스",
+    "type": "국내 베스트셀러",
+    "desc": "HSK 3.0 반영 신간(2026.10). 1-2·3·5·6급판도 있음",
+    "url": "https://www.yes24.com/product/goods/199204716",
+    "url_is_search": false
+   },
+   {
+    "title": "최소한의 HSK 3.0 4급",
+    "by": "PAGODA Books",
+    "type": "국내 베스트셀러",
+    "desc": "HSK 3.0 신형 대비 단기 교재(2026.10). 3·6급판도 있음",
+    "url": "https://www.yes24.com/product/goods/199184656",
+    "url_is_search": false
+   }
+  ]
  },
  {
   "id": "tocfl",
@@ -2506,6 +3513,32 @@ window.EXAMS = [
   "note": "대만(번체자) 중국어 시험. 대만 정부 장학금·유학에 사용",
   "note_en": "Taiwan's Chinese test (traditional characters); used for Taiwan scholarships and study.",
   "validity": "제출처 기준 확인",
+  "books": [
+   {
+    "title": "華語文能力測驗關鍵詞彙：高階篇 (The Ultimate Guide to Chinese Vocabulary and TOCFL)",
+    "by": "臺灣師範大學 國語教學中心 / 聯經",
+    "type": "해외 대표",
+    "desc": "TOCFL 형식 연습문제+핵심 어휘, Band B(4급) 대비",
+    "url": "https://www.sanmin.com.tw/product/index/006577922",
+    "url_is_search": false
+   },
+   {
+    "title": "看圖學中文語法：基礎篇",
+    "by": "張黛琪 / 聯經",
+    "type": "해외 대표",
+    "desc": "그림으로 배우는 기초 문법, TOCFL Band A 대비",
+    "url": "https://www.books.com.tw/products/0010692851",
+    "url_is_search": false
+   },
+   {
+    "title": "TOCFL 官方模擬試題 (華測會)",
+    "by": "國家華語測驗推動工作委員會(SC-TOP)",
+    "type": "공식",
+    "desc": "공식 무료 모의시험(Band A~C·듣기/읽기). 국내 시판 교재는 사실상 없음",
+    "url": "https://tocfl.edu.tw/",
+    "url_is_search": false
+   }
+  ],
   "cefr_map": {
    "A1": "1급",
    "A2": "2급",
@@ -2536,7 +3569,25 @@ window.EXAMS = [
   "practice": [],
   "note": "비즈니스 중국어 시험(지필·IBT·홈테스트)",
   "note_en": "Business Chinese test (paper, internet-based, at-home).",
-  "validity": "규정 없음 (제출처 확인)"
+  "validity": "규정 없음 (제출처 확인)",
+  "books": [
+   {
+    "title": "商务汉语考试大纲 BCT Syllabus (A)",
+    "by": "汉考国际(CTI)",
+    "type": "공식",
+    "desc": "BCT 공식 대강·샘플 문제. 국내 신간 교재는 사실상 없음",
+    "url": "https://www.purpleculture.net/business-chinese-test-syllabus-a-p-19367",
+    "url_is_search": false
+   },
+   {
+    "title": "일거양득! 실무 중국어와 BCT를 한번에!",
+    "by": "김기숙 / 에듀큐",
+    "type": "국내 베스트셀러",
+    "desc": "국내 유일 판매 중 BCT 대비서(2010년판, 구형 기준 주의)",
+    "url": "https://www.yes24.com/product/goods/4041006",
+    "url_is_search": false
+   }
+  ]
  },
  {
   "id": "yct",
@@ -2559,7 +3610,25 @@ window.EXAMS = [
   "practice": [],
   "note": "초·중등학생 대상 중국어 시험",
   "note_en": "Chinese test for primary and secondary school students.",
-  "validity": "규정 없음"
+  "validity": "규정 없음",
+  "books": [
+   {
+    "title": "YCT 표준교정 (YCT Standard Course) 2",
+    "by": "高等教育出版社",
+    "type": "공식",
+    "desc": "YCT 공식 교재(1~6권). 초등·중학생 입문",
+    "url": "https://www.yes24.com/product/goods/58073001",
+    "url_is_search": false
+   },
+   {
+    "title": "YCT 기출문제집 3급",
+    "by": "대교(차이홍)",
+    "type": "국내 베스트셀러",
+    "desc": "국내 공식 기출문제집(1~4급·회화). 2018년판",
+    "url": "https://www.yes24.com/product/goods/57963295",
+    "url_is_search": false
+   }
+  ]
  },
  {
   "id": "topik",
@@ -2593,7 +3662,33 @@ window.EXAMS = [
   ],
   "note": "외국인·재외동포 대상 한국어 시험. 성적은 발표일로부터 2년 유효",
   "note_en": "Korean test for non-native speakers; results valid 2 years from release.",
-  "validity": "2년"
+  "validity": "2년",
+  "books": [
+   {
+    "title": "TOPIK 기출문제 (공개 문항)",
+    "by": "국립국제교육원",
+    "type": "공식",
+    "desc": "공식 홈페이지 무료 기출문제·듣기 파일 공개. 필수 실전 자료",
+    "url": "https://www.topik.go.kr/",
+    "url_is_search": false
+   },
+   {
+    "title": "한국어능력시험 TOPIK II (토픽2) 합격 레시피",
+    "by": "한글파크",
+    "type": "국내 베스트셀러",
+    "desc": "TOPIK II 판매 1위권 종합서. 중·고급(3~6급) 목표",
+    "url": "https://www.yes24.com/product/goods/76893811",
+    "url_is_search": false
+   },
+   {
+    "title": "2026 한국어능력시험 TOPIK II (토픽2) 한 번에 통과하기",
+    "by": "시대에듀",
+    "type": "국내 베스트셀러",
+    "desc": "최신판 종합서+온라인 모의시험(2026.08). 중·고급",
+    "url": "https://www.yes24.com/product/goods/169217774",
+    "url_is_search": false
+   }
+  ]
  },
  {
   "id": "vn-viet",
@@ -2616,7 +3711,17 @@ window.EXAMS = [
   "practice": [],
   "note": "단일 국가시험이 아니라 교육부 규정에 따른 인가 기관별 시험. 기관·응시료는 개별 확인",
   "note_en": "Not a single national exam; run by authorised institutions under MOET rules.",
-  "validity": "미확인"
+  "validity": "미확인",
+  "books": [
+   {
+    "title": "Cấu trúc đề thi Đánh giá năng lực tiếng Việt (시험 구조 안내)",
+    "by": "Tôn Đức Thắng 대학 베트남학부",
+    "type": "공식",
+    "desc": "6단계 베트남어능력시험 공식 구조 안내(PDF). 시판 대비서는 사실상 없음",
+    "url": "https://vietnamesestudies.tdtu.edu.vn/sites/vietnamesestudies/files/vns/tin_tuc/NLTV/Cau_truc_de_thi_DGNLTV.pdf",
+    "url_is_search": false
+   }
+  ]
  },
  {
   "id": "cu-tfl",
@@ -2639,7 +3744,17 @@ window.EXAMS = [
   "practice": [],
   "note": "태국 대표 태국어 능력시험. 태국 외 대만·홍콩 등 제휴 기관에서도 시행",
   "note_en": "Main Thai proficiency test; also held at partner institutions abroad.",
-  "validity": "미확인"
+  "validity": "미확인",
+  "books": [
+   {
+    "title": "CU-TFL 공식 안내 및 Reading practice",
+    "by": "Sirindhorn Thai Language Institute, Chulalongkorn Univ.",
+    "type": "공식",
+    "desc": "출제기관 공식 안내·읽기 연습 링크. 전용 대비서는 시판되지 않음",
+    "url": "https://www.sti.chula.ac.th/operation-service/thai-test/thai-test-for-non-native/cu-tfl-en",
+    "url_is_search": false
+   }
+  ]
  },
  {
   "id": "ukbi",
@@ -2668,7 +3783,17 @@ window.EXAMS = [
   "practice": [],
   "note": "인도네시아 정부 공인 인도네시아어 시험(온라인 적응형)",
   "note_en": "Indonesian government's official Indonesian proficiency test (adaptive online).",
-  "validity": "미확인"
+  "validity": "미확인",
+  "books": [
+   {
+    "title": "UKBI Adaptif Merdeka 공식 포털 (Simulasi UKBI)",
+    "by": "Badan Bahasa (인도네시아 교육부 언어청)",
+    "type": "공식",
+    "desc": "공식 접수·무료 시뮬레이션. PUEBI(맞춤법)·KBBI 학습 권장, 시판 대비서 거의 없음",
+    "url": "https://ukbi.kemendikdasmen.go.id/",
+    "url_is_search": false
+   }
+  ]
  },
  {
   "id": "hamza",
@@ -2698,6 +3823,16 @@ window.EXAMS = [
   "note": "사우디 정부 기관이 2023년 출범시킨 비원어민 대상 아랍어 표준시험(CBT·원격)",
   "note_en": "Saudi government standardised Arabic test for non-native speakers, launched 2023.",
   "validity": "미확인",
+  "books": [
+   {
+    "title": "Hamza Academic Test 공식 안내",
+    "by": "King Salman Global Academy for Arabic Language",
+    "type": "공식",
+    "desc": "CEFR A2~C1 4기능 시험 공식 안내. 공식 대비서·샘플은 미공개",
+    "url": "https://ksaa.gov.sa/en/initiatives/50969-Hamza-Academic-Test",
+    "url_is_search": false
+   }
+  ],
   "cefr_map": {
    "A2": "A2",
    "B1": "B1",
@@ -2737,7 +3872,17 @@ window.EXAMS = [
   "practice": [],
   "note": "이스라엘 대학 입학용 히브리어 시험. 해외에서는 심리측정시험과 함께만 응시 가능",
   "note_en": "Hebrew test for Israeli university admission; abroad only with the Psychometric test.",
-  "validity": "미확인"
+  "validity": "미확인",
+  "books": [
+   {
+    "title": "YAEL Preparing for the Test & Practice Tests",
+    "by": "NITE (이스라엘 국립시험평가원)",
+    "type": "공식",
+    "desc": "출제기관 공식 준비 안내·연습시험. 전용 시판 교재 거의 없음",
+    "url": "https://www.nite.org.il/other-tests/yael/preparation/?lang=en",
+    "url_is_search": false
+   }
+  ]
  },
  {
   "id": "flex",
@@ -2780,7 +3925,33 @@ window.EXAMS = [
   "practice": [],
   "note": "정기시험 7개 언어 + 아랍어·베트남어·태국어·마인어·힌디어 등 특수외국어 시험. 성적 2년 유효",
   "note_en": "7 regular languages plus critical languages (Arabic, Vietnamese, Thai, Malay-Indonesian, Hindi…); valid 2 years.",
-  "validity": "2년"
+  "validity": "2년",
+  "books": [
+   {
+    "title": "FLEX 스페인어 UP",
+    "by": "HUINE",
+    "type": "국내 베스트셀러",
+    "desc": "FLEX 실전 대비서(2019). 같은 시리즈 FLEX 중국어 UP 등. 외대 공식 교재는 절판",
+    "url": "https://www.yes24.com/product/goods/73292771",
+    "url_is_search": false
+   },
+   {
+    "title": "실전 모의고사로 끝내는 플렉스 스페인어 750+",
+    "by": "엘솔",
+    "type": "국내 베스트셀러",
+    "desc": "최신 FLEX 스페인어 모의고사(2026.04). 750점 이상 목표",
+    "url": "https://www.yes24.com/product/goods/188195554",
+    "url_is_search": false
+   },
+   {
+    "title": "FLEX 중국어 UP",
+    "by": "HUINE",
+    "type": "국내 베스트셀러",
+    "desc": "FLEX 중국어 실전 대비서(2019)",
+    "url": "https://www.yes24.com/product/goods/73094093",
+    "url_is_search": false
+   }
+  ]
  },
  {
   "id": "snult",
@@ -2814,7 +3985,33 @@ window.EXAMS = [
   "practice": [],
   "note": "일·중·불·독·서·러 정기 시행(영·포·아랍어는 비정기). 외교관후보자시험 등에 활용",
   "note_en": "Regular tests in 6 languages (English, Portuguese, Arabic irregular); used for diplomatic service exams.",
-  "validity": "미확인"
+  "validity": "미확인",
+  "books": [
+   {
+    "title": "SNULT 프랑스어",
+    "by": "서울대학교출판문화원",
+    "type": "공식",
+    "desc": "서울대 공식 SNULT 교재 최신판(2024). 언어별(독·중·스·일·러) 시리즈",
+    "url": "https://www.yes24.com/product/goods/130178305",
+    "url_is_search": false
+   },
+   {
+    "title": "SNULT 스페인어 vol.2",
+    "by": "서울대학교출판문화원",
+    "type": "공식",
+    "desc": "서울대 공식 SNULT 스페인어 문제집 2권",
+    "url": "https://www.yes24.com/product/goods/86900017",
+    "url_is_search": false
+   },
+   {
+    "title": "한권으로 끝내는 스널트 SNULT 스페인어 60+",
+    "by": "엘솔",
+    "type": "국내 베스트셀러",
+    "desc": "최신 SNULT 스페인어 대비서(2026.10). 60점 이상 목표",
+    "url": "https://www.yes24.com/product/goods/198059345",
+    "url_is_search": false
+   }
+  ]
  },
  {
   "id": "actfl",
@@ -2855,6 +4052,24 @@ window.EXAMS = [
   ],
   "note": "미국 표준 외국어 능력 척도. 120개 이상 언어, 말하기(OPI)·쓰기(WPT)·듣기읽기(L&Rcat)",
   "note_en": "US standard proficiency scale; 120+ languages across speaking, writing, listening/reading.",
-  "validity": "제출처 기준 확인"
+  "validity": "제출처 기준 확인",
+  "books": [
+   {
+    "title": "ACTFL Proficiency Guidelines 2024",
+    "by": "ACTFL",
+    "type": "공식",
+    "desc": "OPI/OPIc 등급 기준이 되는 공식 숙달도 지침(2024 개정)",
+    "url": "https://www.actfl.org/proficiency-guidelines-overview",
+    "url_is_search": false
+   },
+   {
+    "title": "ACTFL OPI Familiarization Guide 2024",
+    "by": "ACTFL",
+    "type": "공식",
+    "desc": "OPI 진행 방식·등급 판정 공식 안내서(PDF)",
+    "url": "https://www.actfl.org/uploads/files/general/OPI_Familiarization_Guide_2024_FINAL.pdf",
+    "url_is_search": false
+   }
+  ]
  }
 ];

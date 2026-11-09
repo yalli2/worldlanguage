@@ -1,0 +1,630 @@
+{
+ "toeic": [
+  {
+   "title": "ETS 토익 정기시험 기출문제집 1000 Vol. 5 RC",
+   "by": "YBM (ETS)",
+   "type": "공식",
+   "desc": "ETS 공식 기출 10회분(2025.12 최신권), LC도 별권. 실전 감각 마무리용, 전 레벨",
+   "url": "https://www.yes24.com/product/goods/168776448",
+   "url_is_search": false
+  },
+  {
+   "title": "해커스 토익 RC Reading 기본서",
+   "by": "해커스어학연구소",
+   "type": "국내 베스트셀러",
+   "desc": "유형·문법 기본서의 대표작(LC 기본서 별권). 600~800점대 입문~중급",
+   "url": "https://www.yes24.com/product/goods/116020437",
+   "url_is_search": false
+  },
+  {
+   "title": "해커스 토익 기출 VOCA",
+   "by": "해커스어학연구소",
+   "type": "국내 베스트셀러",
+   "desc": "토익 어휘서 판매 1위권. 기출 어휘 암기용, 전 레벨",
+   "url": "https://www.yes24.com/product/goods/67362730",
+   "url_is_search": false
+  }
+ ],
+ "toeic-sw": [
+  {
+   "title": "10일 만에 끝내는 해커스 토익스피킹(토스)",
+   "by": "해커스어학연구소",
+   "type": "국내 베스트셀러",
+   "desc": "단기 완성형 토스 기본서(2025.12판). IM~IH 목표",
+   "url": "https://www.yes24.com/product/goods/109736038",
+   "url_is_search": false
+  },
+  {
+   "title": "제이크쌤의 28시간에 끝내는 토익스피킹 All in One",
+   "by": "시원스쿨닷컴",
+   "type": "국내 베스트셀러",
+   "desc": "템플릿 중심 올인원 교재(2026.06판). 초급~중급 단기 대비",
+   "url": "https://www.yes24.com/product/goods/29083333",
+   "url_is_search": false
+  },
+  {
+   "title": "ETS 토익스피킹(토스) 기출문제집 최신개정 12회",
+   "by": "YBM (ETS)",
+   "type": "공식",
+   "desc": "ETS 공식 기출 실전 12회분. 실전 연습·마무리용",
+   "url": "https://www.yes24.com/product/goods/109860197",
+   "url_is_search": false
+  }
+ ],
+ "toefl": [
+  {
+   "title": "The Official Guide to the TOEFL iBT Test, Eighth Edition",
+   "by": "ETS / McGraw-Hill",
+   "type": "공식",
+   "desc": "2026년 1월 개편 신형 TOEFL 반영 ETS 공식 가이드(8판, 2026). 전 레벨",
+   "url": "https://www.yes24.com/product/goods/169376774",
+   "url_is_search": false
+  },
+  {
+   "title": "해커스 Updated 토플 리딩",
+   "by": "해커스어학연구소",
+   "type": "국내 베스트셀러",
+   "desc": "2026 NEW TOEFL 대응 영역별 기본서(리스닝·스피킹·라이팅 별권). 중급~고급",
+   "url": "https://www.yes24.com/product/goods/162366854",
+   "url_is_search": false
+  },
+  {
+   "title": "Updated TOEFL All-in-One",
+   "by": "시원스쿨닷컴",
+   "type": "국내 베스트셀러",
+   "desc": "ETS 공식 파트너 표기 신형 토플 4영역 올인원(2025.12). 입문~중급",
+   "url": "https://www.yes24.com/product/goods/166377832",
+   "url_is_search": false
+  }
+ ],
+ "ielts": [
+  {
+   "title": "Cambridge IELTS 20 Academic: Authentic Practice Tests",
+   "by": "Cambridge University Press",
+   "type": "공식",
+   "desc": "최신 공식 기출 4회분(2025.8). General Training판 별도. 실전 연습 필수",
+   "url": "https://www.yes24.com/product/goods/151978171",
+   "url_is_search": false
+  },
+  {
+   "title": "해커스 아이엘츠 리딩 (Hackers IELTS Reading)",
+   "by": "해커스어학연구소",
+   "type": "국내 베스트셀러",
+   "desc": "국내 대표 아이엘츠 영역별 기본서(리스닝·라이팅·스피킹 별권). Band 6~7 목표",
+   "url": "https://www.yes24.com/product/goods/41049065",
+   "url_is_search": false
+  },
+  {
+   "title": "The Official Cambridge Guide to IELTS",
+   "by": "Cambridge University Press",
+   "type": "해외 대표",
+   "desc": "Academic/General 공통 공식 종합 가이드(전략+연습문제)",
+   "url": "https://www.amazon.com/s?k=The+Official+Cambridge+Guide+to+IELTS",
+   "url_is_search": true
+  }
+ ],
+ "cambridge": [
+  {
+   "title": "B2 First Trainer 3 with Answers with Digital Pack",
+   "by": "Cambridge University Press",
+   "type": "공식",
+   "desc": "B2 First 공식 트레이너(가이드+실전 6회). 동일 시리즈로 A2 Key·B1 Preliminary·C1 Advanced도 있음",
+   "url": "https://shop.cambridge.org/english/product/2700249576",
+   "url_is_search": false
+  },
+  {
+   "title": "B2 First 6 Practice Tests Student's Book with Answers",
+   "by": "Cambridge University Press",
+   "type": "공식",
+   "desc": "최신 형식 공식 모의고사 6회분. 시험 직전 실전 연습용",
+   "url": "https://www.amazon.com/s?k=B2+First+6+Practice+Tests+Student%27s+Book+with+Answers",
+   "url_is_search": true
+  }
+ ],
+ "pte": [
+  {
+   "title": "The Official Guide to PTE Academic",
+   "by": "시원스쿨LAB (Pearson 공식 가이드)",
+   "type": "공식",
+   "desc": "PTE Academic 공식 가이드 국내 출간판(2026.07). 유형 이해·실전 연습",
+   "url": "https://www.yes24.com/product/goods/192981948",
+   "url_is_search": false
+  },
+  {
+   "title": "PTE Academic Practice Tests Plus",
+   "by": "Pearson",
+   "type": "해외 대표",
+   "desc": "Pearson 공식 실전 모의고사 시리즈. 중급~고급 실전 대비",
+   "url": "https://www.amazon.com/s?k=PTE+Academic+Practice+Tests+Plus",
+   "url_is_search": true
+  }
+ ],
+ "det": [
+  {
+   "title": "Duolingo English Test Official Guide for Test Takers",
+   "by": "Duolingo",
+   "type": "공식",
+   "desc": "듀오링고 공식 무료 수험 가이드(PDF). 문항 유형·채점 기준 확인용",
+   "url": "https://englishtest-static.duolingo.com/media/resources/test-taker-guide/DET%20Guide%20EN.pdf",
+   "url_is_search": false
+  },
+  {
+   "title": "시원스쿨 듀오링고 Duolingo English Test (DET) 한 권으로 끝내는 DET 기본서 [2025년 개정판]",
+   "by": "시원스쿨닷컴",
+   "type": "국내 베스트셀러",
+   "desc": "국내 대표 DET 기본서(2025.08 개정). 100~130점 목표",
+   "url": "https://www.yes24.com/product/goods/110582227",
+   "url_is_search": false
+  },
+  {
+   "title": "듀준사 MC누리쌤의 듀오링고 테스트 고득점 비법서 [개정판]",
+   "by": "MC누리쌤",
+   "type": "국내 베스트셀러",
+   "desc": "고득점 전략 중심 개정판(2026.07). 120점 이상 목표",
+   "url": "https://www.yes24.com/product/goods/192127474",
+   "url_is_search": false
+  }
+ ],
+ "teps": [
+  {
+   "title": "2026 TEPS 서울대 텝스관리위원회 공식 기출문제집 5회분",
+   "by": "서울대 텝스관리위원회 / 시원스쿨닷컴",
+   "type": "공식",
+   "desc": "출제기관 공식 기출 5회분(2026.05). 실전 마무리용",
+   "url": "https://www.yes24.com/product/goods/189365176",
+   "url_is_search": false
+  },
+  {
+   "title": "해커스 텝스 TEPS Reading",
+   "by": "해커스어학연구소",
+   "type": "국내 베스트셀러",
+   "desc": "국내 대표 텝스 영역 기본서(Listening 별권). 400점 이상 목표",
+   "url": "https://www.yes24.com/product/goods/60509597",
+   "url_is_search": false
+  },
+  {
+   "title": "해커스 텝스 TEPS 기출 보카",
+   "by": "해커스어학연구소",
+   "type": "국내 베스트셀러",
+   "desc": "텝스 기출 어휘 정리. 전 레벨 어휘 대비",
+   "url": "https://www.yes24.com/product/goods/65060738",
+   "url_is_search": false
+  }
+ ],
+ "gtelp": [
+  {
+   "title": "2026 지텔프 공식 기출문제집 7회분 Level 2",
+   "by": "G-TELP KOREA / 챔프스터디",
+   "type": "공식",
+   "desc": "공식 기출 7회분(2026.02). Level 2 실전 대비 필수",
+   "url": "https://www.yes24.com/product/goods/176096598",
+   "url_is_search": false
+  },
+  {
+   "title": "2주 만에 끝내는 해커스 지텔프(G-TELP) 문법 Level 2 [개정판]",
+   "by": "해커스어학연구소",
+   "type": "국내 베스트셀러",
+   "desc": "지텔프 문법 단기 완성 대표서. 공무원·자격시험용 32~65점 목표",
+   "url": "https://www.yes24.com/product/goods/103346850",
+   "url_is_search": false
+  },
+  {
+   "title": "출제 공식 29개로 끝내는 정재현 지텔프 LEVEL 2",
+   "by": "영단기(에스티유니타스)",
+   "type": "국내 베스트셀러",
+   "desc": "출제 공식 중심 Level 2 단기 공략서. 32~65점 목표",
+   "url": "https://www.yes24.com/product/goods/122459552",
+   "url_is_search": false
+  }
+ ],
+ "languagecert": [
+  {
+   "title": "LanguageCert Academic Practice Material (Book of Practice Papers · Qualification Handbook)",
+   "by": "LanguageCert",
+   "type": "공식",
+   "desc": "공식 무료 연습시험지 3회분·문제집·핸드북·쓰기 샘플답안 제공. 국내 시판 교재는 사실상 없음",
+   "url": "https://languagecert.org/en/preparation/practice-material/languagecert-academic",
+   "url_is_search": false
+  }
+ ],
+ "trinity-ise": [
+  {
+   "title": "Trinity ISE II Practice Tests Reading & Writing",
+   "by": "Trinity College London",
+   "type": "공식",
+   "desc": "Trinity 공식 ISE II(B2) 읽기·쓰기 모의고사. 레벨별(Foundation~III) 시리즈",
+   "url": "https://shop.trinitycollege.com/products/trinity-ise-ii-practice-tests-reading-and-writing",
+   "url_is_search": false
+  },
+  {
+   "title": "Preparing for Trinity ISE II (B2) Student's Book",
+   "by": "Betsis·Haughton·Mamas (GlobalELT)",
+   "type": "해외 대표",
+   "desc": "4기능 통합 ISE II 대비 교재, 실전 연습 포함. B2",
+   "url": "https://shop.trinitycollege.com/products/preparing-for-trinity-ise-ii-b2-students-book-cd",
+   "url_is_search": false
+  }
+ ],
+ "jlpt": [
+  {
+   "title": "JLPT 공식문제집 N1 ver2.0",
+   "by": "일본국제교육지원협회·국제교류기금 / 시원스쿨닷컴",
+   "type": "공식",
+   "desc": "공식 문제집 한국어판(2025.06). N2·N3·N4판도 있음. 실전 확인용",
+   "url": "https://www.yes24.com/product/goods/147124457",
+   "url_is_search": false
+  },
+  {
+   "title": "日本語能力試験 公式問題集 第二集 N1",
+   "by": "国際交流基金・日本国際教育支援協会 (凡人社)",
+   "type": "공식",
+   "desc": "일본 원서 공식 문제집 제2집. N5까지 레벨별",
+   "url": "https://www.yes24.com/product/goods/67722298",
+   "url_is_search": false
+  },
+  {
+   "title": "JLPT(일본어능력시험) 한권으로 끝내기 N1",
+   "by": "다락원",
+   "type": "국내 베스트셀러",
+   "desc": "JLPT 대표 기본서 최신 개정판(2026.03). 레벨별 시리즈",
+   "url": "https://www.yes24.com/product/goods/182437413",
+   "url_is_search": false
+  }
+ ],
+ "jpt": [
+  {
+   "title": "JPT 최신기출 1000제 30일 완성 VOL.2",
+   "by": "YBM (JPT 시행사)",
+   "type": "공식",
+   "desc": "시행사 YBM의 기출 기반 1000제. 실전 문제풀이용, 전 레벨",
+   "url": "https://www.yes24.com/product/goods/119878823",
+   "url_is_search": false
+  },
+  {
+   "title": "NEW JPT 한권으로 끝내기 800",
+   "by": "다락원",
+   "type": "국내 베스트셀러",
+   "desc": "목표 점수별(450·600·800) 기본서. 고득점 목표",
+   "url": "https://www.yes24.com/product/goods/118379234",
+   "url_is_search": false
+  },
+  {
+   "title": "JPT 기출 850+ 30일 완성",
+   "by": "YBM",
+   "type": "국내 베스트셀러",
+   "desc": "기출 기반 850점 이상 목표 단기 완성(650+판도 있음)",
+   "url": "https://www.yes24.com/product/goods/125283585",
+   "url_is_search": false
+  }
+ ],
+ "eju": [
+  {
+   "title": "일본유학시험(EJU) 기출문제집 (2025년 실시)",
+   "by": "일본학생지원기구(JASSO) / 해외교육사업단",
+   "type": "공식",
+   "desc": "JASSO 공식 기출 한국어판(2026.03). 일본어·종합과목·수학·이과 수록",
+   "url": "https://www.yes24.com/product/goods/181387284",
+   "url_is_search": false
+  },
+  {
+   "title": "EJU 실전 모의고사 기술·독해",
+   "by": "시원스쿨닷컴",
+   "type": "국내 베스트셀러",
+   "desc": "일본어 과목 기술·독해 실전 모의고사. 청독해·청해판 별도",
+   "url": "https://www.yes24.com/product/goods/125554424",
+   "url_is_search": false
+  },
+  {
+   "title": "조재면의 EJU 종합과목",
+   "by": "시사일본어사",
+   "type": "국내 베스트셀러",
+   "desc": "문과 종합과목 개념서. 일본 대학 문과 지망생용",
+   "url": "https://www.yes24.com/product/goods/128133630",
+   "url_is_search": false
+  }
+ ],
+ "jtest": [
+  {
+   "title": "J.TEST実用日本語検定 問題集 A-Cレベル 2024年",
+   "by": "日本語検定協会 (語文研究社)",
+   "type": "공식",
+   "desc": "공식 기출 문제집(2025.4 발행) 중·상급(A-C)용",
+   "url": "https://www.maruzenjunkudo.co.jp/products/9784931315730",
+   "url_is_search": false
+  },
+  {
+   "title": "J.TEST実用日本語検定 問題集 D-Eレベル 2024年",
+   "by": "日本語検定協会 (語文研究社)",
+   "type": "공식",
+   "desc": "공식 기출 문제집 초·중급(D-E)용",
+   "url": "https://www.maruzenjunkudo.co.jp/products/9784931315747",
+   "url_is_search": false
+  }
+ ],
+ "bjt": [
+  {
+   "title": "BJT 비즈니스 일본어 능력 테스트 공식 모의 테스트 & 가이드",
+   "by": "日本漢字能力検定協会 / 해외교육사업단",
+   "type": "공식",
+   "desc": "시행기관 공식 모의 테스트+가이드 한국어판. 시험 구성 파악용",
+   "url": "https://www.yes24.com/product/goods/59059874",
+   "url_is_search": false
+  },
+  {
+   "title": "BJTビジネス日本語能力テスト 模試と対策",
+   "by": "アスク出版",
+   "type": "해외 대표",
+   "desc": "일본 원서 모의고사·대책서 최신판(2026.02)",
+   "url": "https://www.yes24.com/product/goods/180487340",
+   "url_is_search": false
+  },
+  {
+   "title": "BJTビジネス日本語能力テスト 聴解・聴読解 実力養成問題集 第2版",
+   "by": "スリーエーネットワーク",
+   "type": "해외 대표",
+   "desc": "청해·청독해 집중 훈련 문제집(독해판 별권). 중급 이상",
+   "url": "https://www.yes24.com/product/goods/61537364",
+   "url_is_search": false
+  }
+ ],
+ "hsk": [
+  {
+   "title": "New HSK Course 1 (新HSK教程, Official Textbook for HSK 3.0)",
+   "by": "外语教学与研究出版社(FLTRP) / 中文考试服务网(CTI)",
+   "type": "공식",
+   "desc": "HSK 3.0(9급제) 공식 교재(2025.11 출간), 급별 교재·워크북. 2026.12 전면 시행 대비",
+   "url": "https://www.cypressbooks.com/new-hsk-course-1-official-textbook-for-hsk-3-0-9787521367744.html",
+   "url_is_search": false
+  },
+  {
+   "title": "해커스 중국어 HSK 4급 한 권으로 합격 (기본서+모의고사+단어장)",
+   "by": "해커스",
+   "type": "국내 베스트셀러",
+   "desc": "HSK 3.0 반영 신간(2026.10). 1-2·3·5·6급판도 있음",
+   "url": "https://www.yes24.com/product/goods/199204716",
+   "url_is_search": false
+  },
+  {
+   "title": "최소한의 HSK 3.0 4급",
+   "by": "PAGODA Books",
+   "type": "국내 베스트셀러",
+   "desc": "HSK 3.0 신형 대비 단기 교재(2026.10). 3·6급판도 있음",
+   "url": "https://www.yes24.com/product/goods/199184656",
+   "url_is_search": false
+  }
+ ],
+ "tocfl": [
+  {
+   "title": "華語文能力測驗關鍵詞彙：高階篇 (The Ultimate Guide to Chinese Vocabulary and TOCFL)",
+   "by": "臺灣師範大學 國語教學中心 / 聯經",
+   "type": "해외 대표",
+   "desc": "TOCFL 형식 연습문제+핵심 어휘, Band B(4급) 대비",
+   "url": "https://www.sanmin.com.tw/product/index/006577922",
+   "url_is_search": false
+  },
+  {
+   "title": "看圖學中文語法：基礎篇",
+   "by": "張黛琪 / 聯經",
+   "type": "해외 대표",
+   "desc": "그림으로 배우는 기초 문법, TOCFL Band A 대비",
+   "url": "https://www.books.com.tw/products/0010692851",
+   "url_is_search": false
+  },
+  {
+   "title": "TOCFL 官方模擬試題 (華測會)",
+   "by": "國家華語測驗推動工作委員會(SC-TOP)",
+   "type": "공식",
+   "desc": "공식 무료 모의시험(Band A~C·듣기/읽기). 국내 시판 교재는 사실상 없음",
+   "url": "https://tocfl.edu.tw/",
+   "url_is_search": false
+  }
+ ],
+ "bct": [
+  {
+   "title": "商务汉语考试大纲 BCT Syllabus (A)",
+   "by": "汉考国际(CTI)",
+   "type": "공식",
+   "desc": "BCT 공식 대강·샘플 문제. 국내 신간 교재는 사실상 없음",
+   "url": "https://www.purpleculture.net/business-chinese-test-syllabus-a-p-19367",
+   "url_is_search": false
+  },
+  {
+   "title": "일거양득! 실무 중국어와 BCT를 한번에!",
+   "by": "김기숙 / 에듀큐",
+   "type": "국내 베스트셀러",
+   "desc": "국내 유일 판매 중 BCT 대비서(2010년판, 구형 기준 주의)",
+   "url": "https://www.yes24.com/product/goods/4041006",
+   "url_is_search": false
+  }
+ ],
+ "yct": [
+  {
+   "title": "YCT 표준교정 (YCT Standard Course) 2",
+   "by": "高等教育出版社",
+   "type": "공식",
+   "desc": "YCT 공식 교재(1~6권). 초등·중학생 입문",
+   "url": "https://www.yes24.com/product/goods/58073001",
+   "url_is_search": false
+  },
+  {
+   "title": "YCT 기출문제집 3급",
+   "by": "대교(차이홍)",
+   "type": "국내 베스트셀러",
+   "desc": "국내 공식 기출문제집(1~4급·회화). 2018년판",
+   "url": "https://www.yes24.com/product/goods/57963295",
+   "url_is_search": false
+  }
+ ],
+ "topik": [
+  {
+   "title": "TOPIK 기출문제 (공개 문항)",
+   "by": "국립국제교육원",
+   "type": "공식",
+   "desc": "공식 홈페이지 무료 기출문제·듣기 파일 공개. 필수 실전 자료",
+   "url": "https://www.topik.go.kr/",
+   "url_is_search": false
+  },
+  {
+   "title": "한국어능력시험 TOPIK II (토픽2) 합격 레시피",
+   "by": "한글파크",
+   "type": "국내 베스트셀러",
+   "desc": "TOPIK II 판매 1위권 종합서. 중·고급(3~6급) 목표",
+   "url": "https://www.yes24.com/product/goods/76893811",
+   "url_is_search": false
+  },
+  {
+   "title": "2026 한국어능력시험 TOPIK II (토픽2) 한 번에 통과하기",
+   "by": "시대에듀",
+   "type": "국내 베스트셀러",
+   "desc": "최신판 종합서+온라인 모의시험(2026.08). 중·고급",
+   "url": "https://www.yes24.com/product/goods/169217774",
+   "url_is_search": false
+  }
+ ],
+ "vn-viet": [
+  {
+   "title": "Cấu trúc đề thi Đánh giá năng lực tiếng Việt (시험 구조 안내)",
+   "by": "Tôn Đức Thắng 대학 베트남학부",
+   "type": "공식",
+   "desc": "6단계 베트남어능력시험 공식 구조 안내(PDF). 시판 대비서는 사실상 없음",
+   "url": "https://vietnamesestudies.tdtu.edu.vn/sites/vietnamesestudies/files/vns/tin_tuc/NLTV/Cau_truc_de_thi_DGNLTV.pdf",
+   "url_is_search": false
+  }
+ ],
+ "cu-tfl": [
+  {
+   "title": "CU-TFL 공식 안내 및 Reading practice",
+   "by": "Sirindhorn Thai Language Institute, Chulalongkorn Univ.",
+   "type": "공식",
+   "desc": "출제기관 공식 안내·읽기 연습 링크. 전용 대비서는 시판되지 않음",
+   "url": "https://www.sti.chula.ac.th/operation-service/thai-test/thai-test-for-non-native/cu-tfl-en",
+   "url_is_search": false
+  }
+ ],
+ "ukbi": [
+  {
+   "title": "UKBI Adaptif Merdeka 공식 포털 (Simulasi UKBI)",
+   "by": "Badan Bahasa (인도네시아 교육부 언어청)",
+   "type": "공식",
+   "desc": "공식 접수·무료 시뮬레이션. PUEBI(맞춤법)·KBBI 학습 권장, 시판 대비서 거의 없음",
+   "url": "https://ukbi.kemendikdasmen.go.id/",
+   "url_is_search": false
+  }
+ ],
+ "hamza": [
+  {
+   "title": "Hamza Academic Test 공식 안내",
+   "by": "King Salman Global Academy for Arabic Language",
+   "type": "공식",
+   "desc": "CEFR A2~C1 4기능 시험 공식 안내. 공식 대비서·샘플은 미공개",
+   "url": "https://ksaa.gov.sa/en/initiatives/50969-Hamza-Academic-Test",
+   "url_is_search": false
+  }
+ ],
+ "yael": [
+  {
+   "title": "YAEL Preparing for the Test & Practice Tests",
+   "by": "NITE (이스라엘 국립시험평가원)",
+   "type": "공식",
+   "desc": "출제기관 공식 준비 안내·연습시험. 전용 시판 교재 거의 없음",
+   "url": "https://www.nite.org.il/other-tests/yael/preparation/?lang=en",
+   "url_is_search": false
+  }
+ ],
+ "flex": [
+  {
+   "title": "FLEX 스페인어 UP",
+   "by": "HUINE",
+   "type": "국내 베스트셀러",
+   "desc": "FLEX 실전 대비서(2019). 같은 시리즈 FLEX 중국어 UP 등. 외대 공식 교재는 절판",
+   "url": "https://www.yes24.com/product/goods/73292771",
+   "url_is_search": false
+  },
+  {
+   "title": "실전 모의고사로 끝내는 플렉스 스페인어 750+",
+   "by": "엘솔",
+   "type": "국내 베스트셀러",
+   "desc": "최신 FLEX 스페인어 모의고사(2026.04). 750점 이상 목표",
+   "url": "https://www.yes24.com/product/goods/188195554",
+   "url_is_search": false
+  },
+  {
+   "title": "FLEX 중국어 UP",
+   "by": "HUINE",
+   "type": "국내 베스트셀러",
+   "desc": "FLEX 중국어 실전 대비서(2019)",
+   "url": "https://www.yes24.com/product/goods/73094093",
+   "url_is_search": false
+  }
+ ],
+ "snult": [
+  {
+   "title": "SNULT 프랑스어",
+   "by": "서울대학교출판문화원",
+   "type": "공식",
+   "desc": "서울대 공식 SNULT 교재 최신판(2024). 언어별(독·중·스·일·러) 시리즈",
+   "url": "https://www.yes24.com/product/goods/130178305",
+   "url_is_search": false
+  },
+  {
+   "title": "SNULT 스페인어 vol.2",
+   "by": "서울대학교출판문화원",
+   "type": "공식",
+   "desc": "서울대 공식 SNULT 스페인어 문제집 2권",
+   "url": "https://www.yes24.com/product/goods/86900017",
+   "url_is_search": false
+  },
+  {
+   "title": "한권으로 끝내는 스널트 SNULT 스페인어 60+",
+   "by": "엘솔",
+   "type": "국내 베스트셀러",
+   "desc": "최신 SNULT 스페인어 대비서(2026.10). 60점 이상 목표",
+   "url": "https://www.yes24.com/product/goods/198059345",
+   "url_is_search": false
+  }
+ ],
+ "actfl": [
+  {
+   "title": "ACTFL Proficiency Guidelines 2024",
+   "by": "ACTFL",
+   "type": "공식",
+   "desc": "OPI/OPIc 등급 기준이 되는 공식 숙달도 지침(2024 개정)",
+   "url": "https://www.actfl.org/proficiency-guidelines-overview",
+   "url_is_search": false
+  },
+  {
+   "title": "ACTFL OPI Familiarization Guide 2024",
+   "by": "ACTFL",
+   "type": "공식",
+   "desc": "OPI 진행 방식·등급 판정 공식 안내서(PDF)",
+   "url": "https://www.actfl.org/uploads/files/general/OPI_Familiarization_Guide_2024_FINAL.pdf",
+   "url_is_search": false
+  }
+ ],
+ "opic": [
+  {
+   "title": "10일 만에 끝내는 해커스 OPIc 오픽 Advanced 공략",
+   "by": "해커스",
+   "type": "국내 베스트셀러",
+   "desc": "오픽 판매 1위권. IH~AL 목표(START판은 IM 목표)",
+   "url": "https://www.yes24.com/product/goods/119153435",
+   "url_is_search": false
+  },
+  {
+   "title": "오픽노잼",
+   "by": "PAGODA Books",
+   "type": "국내 베스트셀러",
+   "desc": "유튜버 오픽노잼의 대표 교재(주제편 별권). IM~AL",
+   "url": "https://www.yes24.com/product/goods/122600737",
+   "url_is_search": false
+  },
+  {
+   "title": "만능문장으로 끝내는 시계토끼 OPIc IH·AL 목표",
+   "by": "시계토끼",
+   "type": "국내 베스트셀러",
+   "desc": "만능문장 중심 신간(2026.09). IH·AL 목표",
+   "url": "https://www.yes24.com/product/goods/197222383",
+   "url_is_search": false
+  }
+ ]
+}

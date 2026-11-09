@@ -58,7 +58,13 @@ M = {
     "testdaf": {"B2": "TDN 3", "C1": "TDN 4 · 5"},
     "opic": {"A1": "NH", "A2": "IL", "B1": "IM · IH", "B2": "AL"},
 }
+import os
+BOOKS = {}
+for bf in ("books_a.json", "books_b.json"):
+    if os.path.exists(D + bf):
+        BOOKS.update(json.load(open(D + bf, encoding="utf-8")))
 for e in merged:
+    e["books"] = [b for b in BOOKS.get(e["id"], []) if b.get("url") and b.get("title")]
     if e["id"] in M:
         e["cefr_map"] = M[e["id"]]
     # drop empty fee rows

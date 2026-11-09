@@ -1,0 +1,606 @@
+{
+ "dele": [
+  {
+   "title": "Preparación al DELE B1 (edición 2020)",
+   "by": "Edelsa (Mónica García-Viñó Sánchez)",
+   "type": "해외 대표",
+   "desc": "세르반테스 협회 시험 형식을 그대로 반영한 Edelsa 대표 시리즈. 레벨별(A1~C2) 모의고사+해설, 2020 개정판.",
+   "url": "https://www.polifemo.com/libros/preparacion-al-dele-b1-libro-del-alumno-edicion-2020/253866/",
+   "url_is_search": false
+  },
+  {
+   "title": "Las claves del nuevo DELE B2",
+   "by": "Difusión (M.ª José Martínez, Pilar Soria, Daniel Sánchez)",
+   "type": "해외 대표",
+   "desc": "과제 유형별 전략과 실전 모의고사를 담은 Difusión 시리즈. A1~C1, 중급 이상 수험자에게 인기.",
+   "url": "https://klettwl.com/store/product/las-claves-del-nuevo-dele-b2-textbook",
+   "url_is_search": false
+  },
+  {
+   "title": "한 권으로 끝내는 DELE B1",
+   "by": "시원스쿨닷컴 (BONA 박선애·시원스쿨 스페인어연구소)",
+   "type": "국내 베스트셀러",
+   "desc": "한국어 해설로 DELE B1 영역별 전략과 실전 문제를 정리한 국내 대표 수험서(2022). A2·B2 등 시리즈도 있음.",
+   "url": "https://www.yes24.com/Product/Goods/113742816",
+   "url_is_search": false
+  }
+ ],
+ "siele": [
+  {
+   "title": "Manual oficial para la preparación del SIELE (edición para candidatos)",
+   "by": "Universidad de Salamanca / Edinumen",
+   "type": "공식",
+   "desc": "SIELE 공동 운영기관(살라망카대) 공식 교재(2022). 4개 영역 과제 유형 설명과 연습, 디지털 확장 포함.",
+   "url": "https://www.polifemo.com/libros/manual-oficial-para-la-preparacion-del-siele-con-extension-digital-edicion-para-candidatos/268573/",
+   "url_is_search": false
+  },
+  {
+   "title": "Preparación al SIELE (A1-C1)",
+   "by": "Edelsa (A. Baraldi 외)",
+   "type": "해외 대표",
+   "desc": "A1~C1 전 레벨을 한 권으로 다루는 SIELE 모의고사·전략서(2021).",
+   "url": "https://www.polifemo.com/libros/preparacion-al-siele/253770/",
+   "url_is_search": false
+  }
+ ],
+ "delf-dalf": [
+  {
+   "title": "Le DELF 100% réussite (A1~B2, nouvelles épreuves)",
+   "by": "Didier",
+   "type": "해외 대표",
+   "desc": "2020년 개정 DELF 신유형 반영. 영역별 전략+실전 모의고사, 디지털 앱(didierfle.app) 제공. 가장 널리 쓰이는 DELF 대비서.",
+   "url": "https://didierfle.com/categorie-produit/collections/le-delf-100-reussite/",
+   "url_is_search": false
+  },
+  {
+   "title": "ABC DELF (A1~B2)",
+   "by": "CLE International",
+   "type": "해외 대표",
+   "desc": "200여 개 연습문제와 모의시험, 해설·음원 포함. 독학용으로 인기 있는 CLE 대표 시리즈.",
+   "url": "https://www.cle-international.com/recherche/im_field_univers_univers/certifications-540/cecr/705",
+   "url_is_search": false
+  },
+  {
+   "title": "Le DALF C1/C2 100% réussite",
+   "by": "Didier",
+   "type": "해외 대표",
+   "desc": "DALF C1·C2 영역별 방법론과 모의고사. 고급 단계 수험자용.",
+   "url": "https://www.galaxus.ch/en/s18/product/le-dalf-c1c2-100-reussite-french-collectif-2024-textbooks-42910274",
+   "url_is_search": false
+  },
+  {
+   "title": "NEW DELF(델프) A2",
+   "by": "넥서스 (김선미·원승재·오솔잎)",
+   "type": "국내 베스트셀러",
+   "desc": "2025년 10월 출간 최신 국내 DELF A2 수험서. 한국어 해설로 신유형 대비(동양북스 'DELF B1 프랑스어능력시험'도 대표서).",
+   "url": "https://www.yes24.com/product/goods/154196836",
+   "url_is_search": false
+  }
+ ],
+ "tcf": [
+  {
+   "title": "Le guide officiel d'entraînement au TCF",
+   "by": "France Éducation international / Didier",
+   "type": "공식",
+   "desc": "시행기관이 감수한 공식 연습서. 문항 유형 설명과 모의 문항 수록.",
+   "url": "https://www.amazon.com/s?k=Le%20guide%20officiel%20d%27entra%C3%AEnement%20au%20TCF",
+   "url_is_search": true
+  },
+  {
+   "title": "Réussir le TCF – Exercices et activités d'entraînement",
+   "by": "Éditions de l'École Polytechnique",
+   "type": "해외 대표",
+   "desc": "TCF 필수/선택 영역 연습문제와 MP3 음원. 독학 수험자에게 널리 추천.",
+   "url": "https://intertaalid.nl/en/products/reussir-le-tcf-exercices-et-activites-dentrainement-livre-avec-cd",
+   "url_is_search": false
+  },
+  {
+   "title": "ABC TCF",
+   "by": "CLE International",
+   "type": "해외 대표",
+   "desc": "CLE ABC 시리즈의 TCF판. 실전형 문항과 해설(캐나다/퀘벡용 판도 있음).",
+   "url": "https://www.amazon.com/s?k=ABC%20TCF%20CLE%20International",
+   "url_is_search": true
+  }
+ ],
+ "tef": [
+  {
+   "title": "TEF – 250 activités (Le nouvel entraînez-vous)",
+   "by": "CLE International",
+   "type": "해외 대표",
+   "desc": "CCI Paris 시험 형식에 맞춘 250개 연습활동. 듣기·읽기·어휘구조 중심.",
+   "url": "https://www.cle-international.com/adolescents/tef-250-activites-livre-9782090333480.html",
+   "url_is_search": false
+  },
+  {
+   "title": "ABC TEF",
+   "by": "CLE International",
+   "type": "해외 대표",
+   "desc": "TEF(캐나다 이민용 포함) 전 영역 모의문항과 해설·음원.",
+   "url": "https://export.side.fr/en/9782090398083-abc-tef",
+   "url_is_search": false
+  }
+ ],
+ "cils": [
+  {
+   "title": "Percorso CILS Cittadinanza (B1)",
+   "by": "Emanuela Paciotti, Paolo La Gamma (Ornimi)",
+   "type": "해외 대표",
+   "desc": "이탈리아 시민권용 CILS B1 Cittadinanza 실전 모의고사+음원.",
+   "url": "https://italiano-bello.com/en/shop/percorso-cils-cittadinanza-b1/",
+   "url_is_search": false
+  },
+  {
+   "title": "Percorso CILS B2 (DUE)",
+   "by": "Simone Scafi (Ornimi)",
+   "type": "해외 대표",
+   "desc": "CILS DUE-B2 모의고사 모음. 대학 입학 수준 대비용.",
+   "url": "https://www.abebooks.fr/9786188458666/Percorso-CILS-B2-Simone-Scafi-6188458668/plp",
+   "url_is_search": false
+  }
+ ],
+ "celi": [
+  {
+   "title": "Preparazione al CELI 2 / 3 / 4",
+   "by": "Edilingua (A. Moni, M.A. Rapacciuolo)",
+   "type": "해외 대표",
+   "desc": "페루자 외국인대학 CELI B1·B2·C1 대비 표준 교재. 실전 모의고사+음원.",
+   "url": "https://www.edilingua.it/en/61-preparazione-al-celi",
+   "url_is_search": false
+  },
+  {
+   "title": "Come prepararsi all'esame del CELI 3",
+   "by": "Hoepli (Marida Muscolino)",
+   "type": "해외 대표",
+   "desc": "CELI 3(B2) 영역별 전략과 연습문제.",
+   "url": "https://www.amazon.com/s?k=Come%20prepararsi%20all%27esame%20del%20CELI%203",
+   "url_is_search": true
+  }
+ ],
+ "plida": [
+  {
+   "title": "Quaderni del PLIDA (A1~C2, nuovo esame)",
+   "by": "Società Dante Alighieri / Alma Edizioni",
+   "type": "공식",
+   "desc": "PLIDA 주관 단테 알리기에리 협회의 공식 모의고사 시리즈. 신유형 반영, 음원 온라인 제공.",
+   "url": "https://italiano-bello.com/en/shop/quaderni-del-plida-b2-nuovo-esame/",
+   "url_is_search": false
+  }
+ ],
+ "certit": [
+  {
+   "title": "Certit B1 – Manuale di preparazione all'esame",
+   "by": "Hoepli (F. Di Salvo, V. Fiasco 외)",
+   "type": "공식",
+   "desc": "로마 트레 대학 CERT.IT 개발진이 쓴 B1 대비서(2025). 음원 포함.",
+   "url": "https://hoeplieditore.it/hoepli-catalogo/articolo/certit-b1-francesca-di-salvo/9788836018871/3169",
+   "url_is_search": false
+  },
+  {
+   "title": "Il manuale Certit. Guida alla certificazione dell'italiano L2",
+   "by": "Roma TrePress",
+   "type": "공식",
+   "desc": "CERT.IT 시험 구조·평가 기준을 설명하는 대학 공식 가이드.",
+   "url": "https://romatrepress.uniroma3.it/?p=35558",
+   "url_is_search": false
+  }
+ ],
+ "caple": [
+  {
+   "title": "Em Cheio! Preparação para os Exames de Português A1/A2",
+   "by": "Lidel",
+   "type": "해외 대표",
+   "desc": "CAPLE ACESSO·CIPLE 대비. 포르투갈 국적·체류용 A2 시험 준비에 적합.",
+   "url": "https://www.lidel.pt/en/catalogue/european-portuguese-as-a-foreign-language/evaluation-certification/em-cheio-preparacao-para-os-exames-de-portugues-a1-a2/",
+   "url_is_search": false
+  },
+  {
+   "title": "Exames de Português B2 – Preparação e Modelos",
+   "by": "Lidel (José Lino Pascoal, Teresa Brandão Oliveira)",
+   "type": "해외 대표",
+   "desc": "DEPLE(B2) 모델 시험과 해설. Lidel 'Exames de Português' 시리즈.",
+   "url": "https://www.lidel.pt/en/catalogue/european-portuguese-as-a-foreign-language/evaluation-certification/exames-de-portugues-b2-2/",
+   "url_is_search": false
+  }
+ ],
+ "celpe-bras": [
+  {
+   "title": "Acervo Celpe-Bras (역대 기출문제·채점표 아카이브)",
+   "by": "UFRGS / INEP",
+   "type": "공식",
+   "desc": "시중 수험서가 거의 없는 대신, UFRGS가 운영하는 공식 기출 아카이브(과제·영상·채점 기준)로 대비하는 것이 표준.",
+   "url": "https://www.ufrgs.br/acervocelpebras/",
+   "url_is_search": false
+  }
+ ],
+ "catalan": [
+  {
+   "title": "Certificats de català – models d'examen",
+   "by": "Institut Ramon Llull",
+   "type": "공식",
+   "desc": "해외 응시자용 IRL 인증시험 안내와 레벨별 모델 시험(PDF). 별도 상업 수험서 시장은 거의 없음.",
+   "url": "https://www.llull.cat/english/aprendre_catala/certificats_intro.cfm",
+   "url_is_search": false
+  }
+ ],
+ "goethe": [
+  {
+   "title": "Fit fürs Goethe-Zertifikat (A1·A2·B2) / Fit fürs Zertifikat B1",
+   "by": "Hueber",
+   "type": "해외 대표",
+   "desc": "괴테 시험 영역별 전략+모의고사. 온라인 음원·인터랙티브판 제공. 가장 대중적인 괴테 대비서.",
+   "url": "https://shop.hueber.de/en/reihen-und-lehrwerke/fit-fur-erwachsene.html",
+   "url_is_search": false
+  },
+  {
+   "title": "Mit Erfolg zum Goethe-Zertifikat B2 – Übungsbuch",
+   "by": "Klett",
+   "type": "해외 대표",
+   "desc": "괴테 B2(및 C1판) 실전 모의고사 위주 연습서. Klett 'Mit Erfolg zum…' 시리즈.",
+   "url": "https://www.klett-sprachen.de/mit-erfolg-zum-goethe-zertifikat-b2-uebungsbuch/t-1/9783126751544",
+   "url_is_search": false
+  },
+  {
+   "title": "일단 합격하고 오겠습니다 독일어능력시험 A1",
+   "by": "동양북스 (정은실)",
+   "type": "국내 베스트셀러",
+   "desc": "한국어 해설 괴테 A1 대비 대표서. A2·B1 및 실전모의고사판 시리즈 있음.",
+   "url": "https://www.yes24.com/Product/goods/68834645",
+   "url_is_search": false
+  }
+ ],
+ "testdaf": [
+  {
+   "title": "Mit Erfolg zum digitalen TestDaF",
+   "by": "Klett (M. Lode-Gerke 외)",
+   "type": "해외 대표",
+   "desc": "2020년 이후 디지털 TestDaF 신유형 반영 연습서. 4개 영역 전략+모의고사.",
+   "url": "https://www.klett-international.com/en/mit-erfolg-zum-digitalen-testdaf/t-4903/9783126768276",
+   "url_is_search": false
+  },
+  {
+   "title": "Modellprüfung digitaler TestDaF",
+   "by": "Klett / g.a.s.t.",
+   "type": "공식",
+   "desc": "TestDaF-Institut 형식의 공식 모의시험 자료.",
+   "url": "https://www.klett-international.com/en/modellpruefung-digitaler-testdaf/t-0/NP00810000190",
+   "url_is_search": false
+  }
+ ],
+ "telc": [
+  {
+   "title": "Mit Erfolg zum Zertifikat Deutsch / telc Deutsch B1",
+   "by": "Klett",
+   "type": "해외 대표",
+   "desc": "telc B1 실전 모의고사와 전략. 이민·체류 수험자에게 많이 쓰임.",
+   "url": "https://www.klett-sprachen.de/mit-erfolg-zum-zertifikat-deutsch-telc-deutsch-b1/t-1/9783126768016",
+   "url_is_search": false
+  },
+  {
+   "title": "Prüfungstraining DaF B1 – Zertifikat Deutsch / telc Deutsch B1",
+   "by": "Cornelsen (Dieter Maenner)",
+   "type": "해외 대표",
+   "desc": "telc B1 모의시험 다수와 해설·음원. B2판도 있음.",
+   "url": "https://www.kaufland.de/product/4750281/",
+   "url_is_search": false
+  }
+ ],
+ "osd": [
+  {
+   "title": "ÖSD Zertifikat B1 Übungsmaterialien (Modellsätze)",
+   "by": "ÖSD",
+   "type": "공식",
+   "desc": "ÖSD가 무료 공개하는 공식 모의시험 세트(PDF). 각 레벨별 제공.",
+   "url": "https://osd.at/wp-content/uploads/2026/09/ZB1-Uebungsmaterialien-Band-1_WEB.pdf",
+   "url_is_search": false
+  },
+  {
+   "title": "Prüfungstraining DaF B1 – Goethe-/ÖSD-Zertifikat B1 (Neue Ausgabe)",
+   "by": "Cornelsen (R. Dittrich, D. Maenner)",
+   "type": "해외 대표",
+   "desc": "괴테·ÖSD 공동 B1 시험 대비 연습서, 해답·음원 포함.",
+   "url": "https://www.galaxus.ch/en/s18/product/cornelsen-pruefungstraining-daf-b1-goethe-oesd-zertifikat-b1-neue-ausgabe-uebungsbuch-mit-loesungen--49017052",
+   "url_is_search": false
+  }
+ ],
+ "dsh": [
+  {
+   "title": "Mit Erfolg zur DSH – Übungsbuch / Testbuch",
+   "by": "Klett",
+   "type": "해외 대표",
+   "desc": "독일 대학 입학용 DSH 대비 표준 교재. 학술 텍스트 독해·강의 듣기·문법 연습.",
+   "url": "https://www.klett-sprachen.de/t-1/9783126768252",
+   "url_is_search": false
+  },
+  {
+   "title": "Fit für die DSH – Übungsbuch",
+   "by": "Hueber (H.-J. Heringer, H. Bisle-Müller)",
+   "type": "해외 대표",
+   "desc": "DSH 영역별 연습과 전략. 대학별 시험 차이를 감안한 범용 대비서.",
+   "url": "https://www.galaxus.de/en/s12/product/fit-fuer-die-dsh-uebungsbuch-german-hans-juergen-heringer-hansjoerg-bisle-mueller-2018-textbooks-7562729",
+   "url_is_search": false
+  }
+ ],
+ "cnavt": [
+  {
+   "title": "CNaVT 공식 예시 시험(voorbeeldexamens)",
+   "by": "CNaVT (KU Leuven)",
+   "type": "공식",
+   "desc": "상업 수험서가 거의 없어 공식 사이트의 프로필별 예시 시험으로 대비하는 것이 일반적.",
+   "url": "https://cnavt.org/",
+   "url_is_search": false
+  }
+ ],
+ "nt2": [
+  {
+   "title": "Examentrainers Staatsexamen (Lezen/Luisteren/Schrijven/Spreken op B1·B2)",
+   "by": "Boom uitgevers Amsterdam",
+   "type": "해외 대표",
+   "desc": "Staatsexamen NT2 영역별 실전 트레이너 시리즈(개정판). 프로그램 I·II 모두 대응.",
+   "url": "https://www.nt2.nl/en/examens/staatsexamen-nt2-b1/taal-b1/101-378_Examentrainers-Staatsexamen",
+   "url_is_search": false
+  },
+  {
+   "title": "Het schrijfexamen B1 doe je zo!",
+   "by": "Boom (Maaike Gerritsen)",
+   "type": "해외 대표",
+   "desc": "가장 탈락률 높은 쓰기 영역 집중 대비서(B1).",
+   "url": "https://www.nt2.nl/en/examens/staatsexamen-nt2-b1/taal-b1/100-20034_Het-schrijfexamen-B1-doe-je-zo",
+   "url_is_search": false
+  }
+ ],
+ "torfl": [
+  {
+   "title": "Тренировочные тесты по русскому языку как иностранному (ТРКИ, 레벨별)",
+   "by": "Златоуст (Н.П. Андрюшина 외)",
+   "type": "공식",
+   "desc": "ТРКИ 개발진이 집필한 러시아 공식 모의시험 시리즈. 레벨별(기초~3단계).",
+   "url": "https://www.amazon.com/s?k=%D0%A2%D1%80%D0%B5%D0%BD%D0%B8%D1%80%D0%BE%D0%B2%D0%BE%D1%87%D0%BD%D1%8B%D0%B5%20%D1%82%D0%B5%D1%81%D1%82%D1%8B%20%D0%BF%D0%BE%20%D1%80%D1%83%D1%81%D1%81%D0%BA%D0%BE%D0%BC%D1%83%20%D1%8F%D0%B7%D1%8B%D0%BA%D1%83%20%D0%BA%D0%B0%D0%BA%20%D0%B8%D0%BD%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%BD%D0%BE%D0%BC%D1%83%20%D0%97%D0%BB%D0%B0%D1%82%D0%BE%D1%83%D1%81%D1%82",
+   "url_is_search": true
+  },
+  {
+   "title": "러시아어 토르플 공식 문제집 1단계",
+   "by": "뿌쉬낀하우스 (Андрюшина 외)",
+   "type": "국내 베스트셀러",
+   "desc": "Златоуст 공식 모의고사의 한국어판(2025). 기초단계판도 있음.",
+   "url": "https://www.yes24.com/product/goods/146502904",
+   "url_is_search": false
+  },
+  {
+   "title": "TORFL 1단계 읽기·듣기",
+   "by": "시원스쿨닷컴 (김애리)",
+   "type": "국내 베스트셀러",
+   "desc": "한국어 해설 TORFL 1단계 영역별 대비서(2023). 쓰기·말하기편 별도.",
+   "url": "https://m.yes24.com/Goods/Detail/116775600",
+   "url_is_search": false
+  }
+ ],
+ "polish": [
+  {
+   "title": "Umiesz? Zdasz! (B2)",
+   "by": "Universitas (Ewa Lipińska)",
+   "type": "해외 대표",
+   "desc": "Certyfikat B2 대비 대표 연습서(2025년판).",
+   "url": "https://www.taniaksiazka.pl/umiesz-zdasz-materialy-przygotowujace-do-p-2305905.html?gap=1",
+   "url_is_search": false
+  },
+  {
+   "title": "Bądź na B1. Trening czyni mistrza",
+   "by": "Universitas (W. Hajduk-Gawron 외)",
+   "type": "해외 대표",
+   "desc": "B1(국적 취득용 최다 응시 레벨) 신규 문제집(2026). 공식 위원회 추천 목록 수록.",
+   "url": "https://www.amazon.com/s?k=B%C4%85d%C5%BA%20na%20B1%20Trening%20czyni%20mistrza",
+   "url_is_search": true
+  },
+  {
+   "title": "Testy na 4 pory roku (B1)",
+   "by": "Start Polish (M. Gołębiowska, M. Grützmacher)",
+   "type": "해외 대표",
+   "desc": "B1 실전 모의고사 세트(2022). 공식 위원회 추천 목록 수록.",
+   "url": "https://www.amazon.com/s?k=Testy%20na%204%20pory%20roku%20B1",
+   "url_is_search": true
+  }
+ ],
+ "cce": [
+  {
+   "title": "Připravujeme se k certifikované zkoušce z češtiny. Úroveň B2",
+   "by": "Karolinum (R. Kotková 외)",
+   "type": "공식",
+   "desc": "시험 주관기관(카렐대 ÚJOP) 집필진의 CCE-B2 모의시험 3세트+해설·음원.",
+   "url": "https://karolinum.cz/en/books/kotkova-pripravujeme-se-k-certifikovane-zkousce-z-cestiny-uroven-b2-16534",
+   "url_is_search": false
+  },
+  {
+   "title": "CCE-B1 modelová varianta 2026",
+   "by": "ÚJOP UK (Charles University)",
+   "type": "공식",
+   "desc": "카렐대 공식 B1 모델 시험(PDF, 2026). 각 레벨 모델 시험 무료 제공.",
+   "url": "https://arche.is.cuni.cz/images/zkousky/dokumenty/CCE-B1_MODELOV%C3%81_VARIANTA_2026.pdf",
+   "url_is_search": false
+  }
+ ],
+ "ecl": [
+  {
+   "title": "ECL 헝가리어(Magyar mint idegen nyelv) 모의문제",
+   "by": "ECL",
+   "type": "공식",
+   "desc": "ECL 공식 사이트의 헝가리어 시험 안내·예시 과제.",
+   "url": "https://ecl.hu/?p=7662",
+   "url_is_search": false
+  },
+  {
+   "title": "Magyar mint idegen nyelv – Kulcs a sikeres ECL nyelvvizsgához",
+   "by": "Szabó Szilvia (Szabó Nyelviskola)",
+   "type": "해외 대표",
+   "desc": "A2~C1 ECL 헝가리어 대비 연습서(2016, 음원 다운로드). 판매 페이지 설명이 영어판과 혼동되어 있어 확인 권장.",
+   "url": "https://nyelvkonyvbolt.hu/termek/magyar-mint-idegen-nyelv-kulcs-a-sikeres-ecl-nyelvvizsagahoz-letoltheto-hanganyaggal",
+   "url_is_search": false
+  }
+ ],
+ "origo": [
+  {
+   "title": "Origó 헝가리어 시험 예시 과제",
+   "by": "ELTE Origó (eduline 소개)",
+   "type": "공식",
+   "desc": "별도 수험서가 거의 없어 ELTE Origó 공개 예시 과제로 대비. 링크는 예시 과제를 소개한 기사.",
+   "url": "https://eduline.hu/nyelvtanulas/ELTE_Origo_nyelvvizsga_mintafeladatok_C9P74M",
+   "url_is_search": false
+  }
+ ],
+ "ellinomatheia": [
+  {
+   "title": "Εξεταστικά Θέματα Πιστοποίησης Επάρκειας της Ελληνομάθειας",
+   "by": "Κέντρο Ελληνικής Γλώσσας (KEG)",
+   "type": "공식",
+   "desc": "그리스어센터가 공개하는 레벨별 역대 기출문제·음원.",
+   "url": "https://www.greek-language.gr/certification/node/129.html",
+   "url_is_search": false
+  },
+  {
+   "title": "Τεστ Προσομοίωσης Εξετάσεων Α2",
+   "by": "Εύη Νικολαΐδου (Εκδόσεις Γρηγόρη)",
+   "type": "해외 대표",
+   "desc": "KEG 샘플 기반 A2 모의고사 7회분(2025). 그리스 영주권용 A2 대비.",
+   "url": "https://bookpoint.gr/book/1336250",
+   "url_is_search": false
+  }
+ ],
+ "tys": [
+  {
+   "title": "Yedi İklim Türkçe (A1~C1)",
+   "by": "Yunus Emre Enstitüsü",
+   "type": "공식",
+   "desc": "TYS 시행기관의 공식 터키어 교재. 전용 수험서 시장은 거의 없음.",
+   "url": "https://www.amazon.com/s?k=Yedi%20%C4%B0klim%20T%C3%BCrk%C3%A7e%20Yunus%20Emre",
+   "url_is_search": true
+  }
+ ],
+ "swedex": [
+  {
+   "title": "Swedex 시험 안내·예시 문제",
+   "by": "Folkuniversitetet",
+   "type": "공식",
+   "desc": "시행기관의 시험 구성·예시 자료. 상업 수험서는 사실상 없음.",
+   "url": "https://folkuniversitetet.se/in-english/swedex-swedish-examinations/about-swedex",
+   "url_is_search": false
+  },
+  {
+   "title": "Rivstart B1+B2",
+   "by": "Natur & Kultur",
+   "type": "해외 대표",
+   "desc": "스웨덴어 B1~B2 대표 교재. 시험 대비 실력 쌓기용.",
+   "url": "https://www.amazon.com/s?k=Rivstart%20B1%2BB2%20Natur%20Kultur",
+   "url_is_search": true
+  }
+ ],
+ "tisus": [
+  {
+   "title": "Tisus 영역별 안내·예시 과제",
+   "by": "Stockholms universitet",
+   "type": "공식",
+   "desc": "스톡홀름대 공식 Tisus 페이지(읽기·쓰기·말하기 과제 설명과 예시).",
+   "url": "https://su.se/tisus/english",
+   "url_is_search": false
+  },
+  {
+   "title": "Rivstart B1+B2",
+   "by": "Natur & Kultur",
+   "type": "해외 대표",
+   "desc": "Tisus(C1) 진입 전 B2 수준을 다지는 대표 교재.",
+   "url": "https://www.amazon.com/s?k=Rivstart%20B1%2BB2%20Natur%20Kultur",
+   "url_is_search": true
+  }
+ ],
+ "norskprove": [
+  {
+   "title": "Stein på stein (B1)",
+   "by": "Cappelen Damm (E. Ellingsen, K. Mac Donald)",
+   "type": "해외 대표",
+   "desc": "노르웨이 성인 이민자 B1 표준 교재(2021판). Norskprøven B1 대비 기본서.",
+   "url": "https://www.amazon.com/s?k=Stein%20p%C3%A5%20stein%20Cappelen%20Damm",
+   "url_is_search": true
+  },
+  {
+   "title": "På vei (A1~A2)",
+   "by": "Cappelen Damm (E. Ellingsen, K. Mac Donald)",
+   "type": "해외 대표",
+   "desc": "A2 수준(영주권 요건) 대비 표준 교재(2025 개정판).",
+   "url": "https://www.amazon.com/s?k=P%C3%A5%20vei%20Cappelen%20Damm",
+   "url_is_search": true
+  }
+ ],
+ "bergenstesten": [
+  {
+   "title": "Her på berget (B2)",
+   "by": "Cappelen Damm (E. Ellingsen, K. Mac Donald)",
+   "type": "해외 대표",
+   "desc": "B2 표준 교재(2024판). 고급 시험(Bergenstesten) 준비의 기본서.",
+   "url": "https://www.amazon.com/s?k=Her%20p%C3%A5%20berget%20Cappelen%20Damm",
+   "url_is_search": true
+  },
+  {
+   "title": "Test i norsk – høyere nivå (Bergenstesten) 안내",
+   "by": "Folkeuniversitetet",
+   "type": "공식",
+   "desc": "시행기관의 시험 안내·예시·무료 웨비나 정보. 전용 수험서는 거의 없음.",
+   "url": "https://www.folkeuniversitetet.no/bergenstesten",
+   "url_is_search": false
+  }
+ ],
+ "pd": [
+  {
+   "title": "Den lille eksamensbog",
+   "by": "Praxis (Hanne Villumsen, Lene Bagger)",
+   "type": "해외 대표",
+   "desc": "Prøve i Dansk 3 대비서(3판, 2015). 영주권·국적 요건 PD3 준비용.",
+   "url": "https://praxis.dk/danskuddannelser/dansk-som-andetsprog/produkt/den-lille-eksamensbog",
+   "url_is_search": false
+  },
+  {
+   "title": "Prøver i dansk – 기출 문제·채점 자료",
+   "by": "Studieskolen",
+   "type": "공식",
+   "desc": "역대 PD3·Studieprøven 시험지와 채점 안내 공개.",
+   "url": "https://www.studieskolen.dk/en/dansk/danskuddannelse-1-2-3/proever",
+   "url_is_search": false
+  }
+ ],
+ "studieprove": [
+  {
+   "title": "Studieprøven – 기출 문제·채점 자료",
+   "by": "Studieskolen",
+   "type": "공식",
+   "desc": "전용 상업 수험서는 거의 없으며, 공개된 역대 시험지(censorhæfte 등)로 대비.",
+   "url": "https://www.studieskolen.dk/en/dansk/danskuddannelse-1-2-3/proever",
+   "url_is_search": false
+  }
+ ],
+ "yki": [
+  {
+   "title": "YKIä kohti",
+   "by": "Finn Lectura (L. Heikkinen 외)",
+   "type": "해외 대표",
+   "desc": "YKI 중급(B1~B2, 국적 요건) 4개 영역 연습과 응시 팁. 독학·수업용.",
+   "url": "https://finnlectura.fi/en/products/finnish-as-a-second-language/ykia-kohti/",
+   "url_is_search": false
+  },
+  {
+   "title": "Yle YKI 연습 패키지",
+   "by": "Yle",
+   "type": "공식",
+   "desc": "핀란드 공영방송 Yle의 무료 YKI 연습 자료.",
+   "url": "https://yle.fi/a/74-20085882",
+   "url_is_search": false
+  }
+ ],
+ "ukrainian": [
+  {
+   "title": "Як підготуватися до іспиту з державної мови для набуття громадянства України",
+   "by": "Національна комісія зі стандартів державної мови (mova.gov.ua)",
+   "type": "공식",
+   "desc": "시험 주관기관의 공식 준비 가이드(PDF). 상업 수험서 시장은 사실상 없음.",
+   "url": "https://mova.gov.ua/storage/app/sites/19/exam/pidgotuvatisya-do-ispitu-dlya-nabuttya-gromadyanstva-ukraini-1.pdf",
+   "url_is_search": false
+  }
+ ]
+}
